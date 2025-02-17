@@ -1,0 +1,1800 @@
+/*
+  Localizable.strings
+  FuelBuddy
+
+  Created by Swapnil on 21/08/17.
+  Copyright © 2017 Oraganization. All rights reserved.
+*/
+/*
+"ok" = "OK";
+"got_it" = "Got It";
+"save" = "Save";
+"add"="Add";
+"no_save" = "Don't Save";
+"button_later_for_partial_click" = "Show again later";
+"button_ok_for_tip" = "OK, thanks";
+"cancel" = "Cancel";
+"go_pro_btn" = "Go Pro";
+"button_fb_like" = "LIKE!";
+"button_later" = "Later";
+"button_never" = "Never";
+"restore" = "Restore";
+"button_rate_app" = "Rate App";
+"yes" = "Yes";
+"no" = "No";
+"comma_enter_err" = "Notes cannot accept commas and new lines";
+"date" = "Date";
+"odometer" = "Odometer";
+"tc_tv" = "Total Cost";
+"tv_vendor" = "Vendor";
+"notes_tv" = "Notes";
+"mk_model_comma_err" = "Make and model cannot accept commas";
+"make_tv" = "Make";
+"model_tv" = "Model";
+"vin" = "VIN";
+"lic_no_tv" = "Licence No.";
+"insurance_no" = "Insurance #";
+"vehicle" = "Vehicle";
+"veh_tv" = "Vehicles";
+"specification_tv" = "Specifications";
+"edit_custom_parts" = "Edit Specifications";
+"edit_fill_up_header" = "Edit Fillup";
+"add_fill_up_header" = "Add Fillup";
+"first_partial_click_msg" = "A partial tank fill-up is when the tank is not filled to the brim. The efficiency against this record will be shown as 'n/a' until a full tank fill-up is performed";
+"first_missed_fu_click_msg" = "Select this option if you have missed one or more of your previous fill-ups and don't want it to affect your fuel efficiency";
+"set" = "Set";
+"trp" = "Trip";
+"prc_per_unt" = "Price/Unit";
+"octane" = "Octane";
+"fb_tv" = "Fuel Brand";
+"fs_tv" = "Filling Station";
+"trp_after_first_fu" = "The first fill up requires you to enter the Odometer value. You will be able to switch to Trip Distance for subsequent fill ups";
+"fill_up_custom_msg" = "Customize this screen to add new fields, remove fields, attach receipts, etc";
+"required" = "(req)";
+"cust_fus_head" = "Customise Fill-Up Screen";
+"cust_fu_head" = "Select input fields";
+"odo_trip_tv" = "VALUE TO ENTER DURING FILL UP";
+"trp_distance" = "Trip Distance";
+"pv_msg" = "Copy values from previous fill-up";
+"atuo_brand_fs_msg" = "Auto detect Filling Station and Brand based on location";
+"view_expense" = "Expense";
+"attach_receipt" = "Attach receipt";
+"add_expenses" = "Add Expenses";
+"edit_expenses" = "Edit Expenses";
+"qty_required" = "Qty";
+"pf_tv" = "Partial Tank";
+"mf_tv" = "Missed fill up";
+"comma_err" = "cannot accept commas";
+"noti_msg_veh" = "Overdue for";
+"reminders" = "Reminders";
+"recurring_string" = "*You can set reminders for recurring tasks only";
+//NIKHIL ENH_48
+"reminder_sort_default"="Sort type";
+"reminder_sort_0" = "Sort by name";
+"reminder_sort_1" = "Sort by due";
+"tv_expenses" = "Expenses";
+"last_paid_on" = "Last Paid On";
+"no_payments" = "No Payments";
+"tot_services" = "Services";
+"tv_service_center" = "Service Center";
+"add_service" = "Add Service";
+"edit_service" = "Edit Service";
+"date_hint" = "Set Date";
+"tv_last_service" = "Last Service Date:";
+"add_service_task_help" = "Add new Service Tasks";
+"dist_tv" = "Distance";
+"vol_head" = "Volume";
+"cons_head" = "Consumption";
+"curr_head" = "Currency";
+"faq" = "FAQs";
+"settings_tv" = "Settings";
+"convert_yes_btn" = "Convert Existing Fuel Records?";
+"not_applicable" = "n/a";
+"odo_short" = "Odo";
+"in_progress" = "In Progress";
+"edit" = "Edit";
+"search_notes_hint" = "Notes Containing (separate with comma)";
+"search_rec" = "Search Record";
+"search" = "Search";
+"all" = "All"; 
+"f_u_tv" = "Fill-ups";
+"tot_expense_cost" = "Other Expenses";
+"expense_task_name" = "Expense Task Name";
+"service_task_name" = "Service Task Name";
+"view_service" = "Service";
+"ser_reminders"="Service Reminders";
+"exp_reminders"="Expense Reminders";
+"last_service" = "Last Service:";
+"due_on" = "Due:";
+"delete" = "Delete";
+"days" = "Days";
+"reminder_due_date_unit_array_1" = "Months";
+"reminder_due_date_unit_array_2" = "Years";
+"pro_gps_trip" = "GPS tracking for manual trips";
+"pro_backup_receipts" = "Backup and restore receipt images to Google Drive";
+"pro_add_custom" = "Add new service and expense tasks";
+"pro_ad_free" = "Get rid of ads";
+"email_btn" = "Email Log";
+"abt_btn" = "About";
+"backup" = "Backup";
+"backup_success" = "Backup Successful";
+"restore_success" = "Restore successful";
+"backup_descval" = "Backup all your data to Google Drive";
+"restore_descval" = "Restore all your data to Google Drive";
+"restore_receipts" = "Restore Receipts from Google Drive?";
+"continue" = "Continue";
+"Tab3Title" = "Dashboard";
+"graph_date_range_0" = "All Time";
+"graph_date_range_1" = "This Month";
+"graph_date_range_2" = "Last Month";
+"graph_date_range_3" = "This Year";
+"graph_date_range_4" = "Custom Dates";
+"customize_dashboard_screen_help" = "Customize this screen to add new statistics or remove redundant ones";
+"f_u_tv" = "Fill-ups";
+"f_q_tv" = "Fuel Qty";
+"f_c_tv" = "Fuel Cost";
+"tot_service_cost" = "Service Cost";
+"avg_fuel_tv" = "Average Fuel Efficiency";
+"fuel_tv" = "Fuel Efficiency";
+"dist_btn_fu_graph_name" = "Distance between Fill-ups";
+"qty_per_fu_tv" = "Qty per Fill-up";
+"cost_per_fu_tv" = "Cost per Fill-up";
+"fu_pm_tv" = "Fill-ups/month";
+"cpd_tv" = "Fuel Cost/day";
+"failed"="Failed";
+
+//new_7 Add Driver 8june2018
+"sync_failed" = "Sync Failed"; //Sincronização falhou
+
+//ENH_57 3july2018
+"location_access" = "Need location access to detect filling stations";
+"go_to_settings" = "To re-enable, please go to Settings and turn on Location Service for this app.";
+"multiple_receipts" = "Attaching multiple receipts is only available in the pro version";
+"pro_feature_only" = "This feature is available as a part of the Pro version";
+"cpmth_tv" = "Fuel Cost/Mth";
+"avg_price_tv" = "Average Price/";
+"eff_oct_tv" = "Eff by Octane";
+"eff_brand_tv" = "Eff by Brand";
+"eff_stn_tv" = "Eff by Stn";
+"service_cost_tv" = "Service Cost/";
+"scpd_tv" = "Service Cost/Day";
+"ecpd_tv" = "Other Expenses/Day";
+"expense_cost_tv" = "Other Expenses/";
+"total_trips" = "Total Trips";
+"total_trip_dist" = "Total Trip Distance";
+"total_tax_ded" = "Total Trip Deduction";
+"trip_by_type" = "Dist by Type()";
+"tax_ded_by_type" = "Tax Dedn by Type()";
+"tot_fig_tv" = "Total Stats";
+"cust_db_head"="Customise Stats & Charts";
+"avg"="Average";
+"avg_fig_head" = "Average Fuel Stats";
+"avg_service_head" = "Average Service Stats";
+"avg_expense_head" = "Average Expense Stats";
+"trip_stats" = "Total Trip Stats";
+"eff_by_oct_graph_name" = "Efficiency by Octane";
+"eff_by_brand_graph_name" = "Efficiency by Brand";
+"eff_by_stn_graph_name" = "Efficiency by Station";
+"trip_dist_by_type_graph_name" = "Distance By Trip Type";
+"trip_tax_ded_by_type_graph_name" = "Deduction By Trip Type";
+"cost_tv" = "Fuel cost/";
+"view_fill_up" = "Fill-Up";
+"def_car" = "Default Car";
+"button_later_for_tip" = "Remind me again";
+"trips" = "Trips";
+"attach_csv" = "Attach CSV's";
+"sel_fields" = "Select Fields";
+"footnote_for_email" = "*Sent via Simply Auto";
+"total" = "Trip Totals";
+"trip_by_type_tv" = "Dist by type";
+"tax_ded_by_type_tv" = "Tax Ded by type";
+"no_records_found" = "No records found";
+"date_time" = "Date/Time";
+"location" = "Location";
+"type" = "Type";
+"dist_traveled" = "Distance Traveled";
+"time_traveled" = "Time Traveled";
+"tax_deduction_rate" = "Tax Deduction Rate";
+"tax_deduction_amount" = "Tax Deducted";
+"qty_tv" = "Quantity";
+"departure" = "Departure";
+"arrival" = "Arrival";
+"add_trip" = "Add Trip";
+//NIKHIL BUG_127 //added edit trip string
+"edit_trip" = "Edit Trip";
+"end_trip" = "End Trip";
+"start_trip" = "Start Trip";
+"add_new" = "Add New";
+"trip_started" = "Trip Started";
+"trip_in_progress" = "Trip In Progress";
+"export" = "Manual Backup";
+"imp" = "Manual Restore";
+"exim_btn" = "Google Drive Backup";
+"from_date_head" = "From:";
+"to_date_head" = "To:";
+"year" = "Year";
+"invalid_email" = "Invalid Email";
+"enter_valid_email" = "Please enter proper email address";
+"part_name" = "Name";
+"part_val" = "Value";
+"mi" = "mi";
+"kms" = "km";
+"ltr" = "Ltr";
+"gal" = "gal";
+"disp_miles" = "Miles";
+"disp_kilometers" = "Kilometers";
+"disp_litre" = "Litre";
+"disp_gal_us" = "Gallon (US)";
+"disp_gal_uk" = "Gallon (UK)";
+"disp_kmpl" = "km/L";
+"disp_lp100kms" = "L/100km";
+"disp_mpg_us" = "mpg (US)";
+"disp_mpg_uk" = "mpg (UK)";
+"missed_fillup" = "Missed fill up";
+"customize_tv" = "Customise SimplyAuto";
+"invalid_at_msg3" = "Arrival Odometer cannot be less than Departure Odometer";
+"add_custom_parts" = "Add Specifications";
+"cost_per_unit_tv" = "Price/";
+"pro_messsage_add_custom" = "Adding unlimited service tasks is available in the Pro Version";
+"pro_messsage_add_expense" = "Adding unlimited expenses is available in the Pro Version";
+"incorrect_odo" = "Incorrect Odometer value for Date";
+"non_recurring_reminder_click" = "Reminders can only be set for recurring events. Edit the service/expense record and modify the recurring switch";
+"no_veh_id" = "No Vehicle Found";
+"set_reminder" = "Set Reminder";
+"overdue_noti" = "Overdue Service";
+"err_internet" = "Internet connection not available. Please try again later.";
+"loading_msg" = "Loading";
+//Nikhil 18April2018
+"searching_msg" = "Searching";
+"pur_thanks" = "Thanks a lot for your Purchase! You may need to re-open the app for the Purchase to take Effect.";
+"confirm" = "Confirm";
+"purchase_btn" = "Purchase";
+"customize_message" = "Would you like to customize Simply Auto for your business or personal needs? Please contact us at support-ios@simplyauto.app and we will surely help you out.";
+"invalid_veh_msg1" = "Both Make and Model Cannot be left Blank";
+"backup_receipts" = "Include receipt images in backup";
+"google_ac_err" = "Authentication Error";
+"exp_success_noti_msg" = "Files successfully backed up on Google Drive";
+"services_err_title" = "Error Backing up Services file";
+"fuel_log_err_title" = "Error Backing up Fuel Log file";
+"vehicle_err_title" = "Error Backing up Vehicle file";
+"receipt_upload_failed" = "Error backing up Receipts. Please contact support-ios@simplyauto.app";
+"imp_err_msg" = "Failed to restore file. Please contact support at support-ios@simplyauto.app.";
+ 
+"receipts_backup_restore_go_pro" = "The free version allows backing up and restoring of only data. Receipts can be backed up and restored in the Pro version.";
+"custom_date_err" = "Please make sure that the dates are selected correctly.";
+"like_us_msg" = "Like using Simply Auto? Why don't you share your love by liking us on Facebook?";
+"email_user_err" = "Please make sure the dates and at least one field is selected";
+"trip_complete" = "Trip complete";
+"invalid_at_msg4" = "Arrival date/time cannot be less than departure date/time";
+"enable_location" = "Enable Location";
+"gps_tracking_not_poss" = "Tracking via GPS is not possible, since Simply Auto does not have permission to access location.";
+"trip_go_pro_msg" = "Tracking via GPS is only available in the Pro version.";
+"avg_expense_head" = "Average Other Expense Stats";
+"receipt" = "Receipt";
+"record_type" = "Record Type";
+"more" = "More";
+"not_serviced" = "Not Yet Serviced";
+"privacy_policy" = "Privacy Policy";
+"edit_trip_type_hint" = "Trip Type";
+
+
+//Sync words
+
+"cloud_backup_header" = "Never lose your data again.";
+"desktop_access_header" = "Access your data on the desktop.";
+"device_sync_header" = "Sync across multiple devices.";
+
+"cloud_backup_msg" = "All your data is instantly backed up on the cloud.";
+"desktop_access_msg" = "Get access to all your data on www.simplyauto.app.";
+"device_sync_msg" = "Use multiple devices? No problem. Simply Auto keeps data on all your devices in sync.";
+"last_sync"="Last sync:";
+"sign_in" = "Sign In";
+"sync_btn"="Sign In To Cloud";
+"sync_btn_after_login"="My Cloud Account";
+"resync" = "Resync";
+"full_sync_title" = "Full Sync";
+"sync_data_exists_on_cloud" = "Data exists on cloud";
+"sync_new_data_on_server" = "Newer data has been detected on the cloud. Would you like to overwrite data on this phone with the data available on the cloud?";
+
+"descLabelFirstTime" = "Data for your email already exists on the cloud. Would you like to overwrite data on this phone with the data available on the cloud?";
+
+"descLabel1" = "Would you like to overwrite data on this phone with the data available on the cloud?";
+"descLabel2" = "(To check data on the cloud please log into www.simplyauto.app)";
+"sync_overwrite_phone" = "Yes, overwrite data on this phone.";
+"sync_overwrite_cloud" = "No, use my phone data (this will overwrite data on the cloud)";
+"cloud_help" = "Cloud Help";
+"help_backup" = "Backup to cloud";
+"help_web" = "Simply Auto web";
+"help_multi_devices" = "Sync across multiple devices";
+"help_sync_devices1" = "If you own multiple devices, and would like to keep your Simply Auto data in sync across these devices, then sign in to cloud using the same ID on all the devices.";
+"sync_deregister_title" = "Deregister from sync";
+//"deregistertitle" = "Deregister from sync";
+"deregistermsg" = "Do you want to deregister from Sync? You will need to Sign in again to send and receive data from server";
+"sign_in_failed"="Sign In failed, please try again later";
+"failed_confirm_driver"="Failed to confirm as driver";
+
+"sync_sign_in_you_can" = "After Signing In You Can :";
+"sync_sign_in_1" = "- Instantly back up data on the cloud";
+//Added star 30may nikhil
+"sync_sign_in_2" = "- Access your data on www.simplyauto.app*";
+"sync_sign_in_3" = "- Sync across multiple devices";
+"sync_sign_in_4" = "- Sync data with multiple drivers*";
+"sync_sign_in_5" = "- Instantly backup receipts on the cloud*";
+
+"t_and_c"="I agree to Simply Auto's Terms of Service and Privacy Policy.";
+"pattern1"="Terms of Service";
+"pattern2"="Privacy Policy";
+"help"="Help";
+"contact_us"="Contact Us";
+
+"backupCloudText" = "Now that you've signed into cloud, all your data will be safely and instantly backed up on our cloud server.Restoring data from your backup is as easy as signing back into your account.We do recommend taking occassional back ups to your Google Drive account from the 'Google Drive Backup' option.";
+
+"faqfull" = "Frequently Asked Questions";
+"cloudHelpTut" = "Tutorial for Simply Auto's cloud functionality";
+"contactDesc" = "Questions? Need help?";
+
+"fbwebDesc" = "Visit www.simplyauto.app and click the 'Sign in' button to access your Simply Auto data on the web.";
+
+"sync_help_deregister_msg" = "Click this button to deregister from cloud. This will stop your device from sending or receiving any data to and from the cloud.";
+
+//Pro icons  labels
+"backupCloudPro" = "Instantly backup all your data in the cloud";
+"syncIconPro" = "Sync between multiple devices";
+"websitePro" = "Access your data on the web at www.simplyauto.app";
+
+"loggedInLabel" = "All your data will always be backed up on cloud. You can also access your data by going to www.simplyauto.app.";
+
+"logInAlert" = "You have successfully signed in";
+
+//31July2018 subscription terms
+"subterms" = "Subscription Terms";
+"subterms2" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per year.";
+ "subterms7" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per month.";
+"subterms3" = "- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.";
+"subterms4" = "- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.";
+"subterms5" = "- Payment will be charged to iTunes Account at confirmation of purchase.";
+ "subterms6" = "- The account will be charged for renewal within 24-hours prior to the end of the current period.";
+
+"instantSync" = "Instant sync of your receipts and vehicle images to the cloud";
+"threeDrivers" = "Add upto 3 drivers to sync data with";
+"attachReceipts" = "Attach multiple receipts for fill-ups, services and expenses";
+"emailLogs" = "Email your receipts and logs directly from the app";
+"changeVol" = "Change volume unit for individual fill-ups";
+"unlimitedVeh" = "Add unlimited vehicles";
+"unlimitedDrivers" = "Sync data with unlmited drivers";
+
+//2/8/2018 searchdate
+"search_date_filter_0" = "Date greater than"; 
+"search_date_filter_1" = "Date less than";
+"search_odo_filter_0" = "Odometer greater than";
+"search_odo_filter_1" = "Odometer less than";
+"add_photo" = "Add Photo"; 
+"pb_connecting" = "Signing In..";
+
+//Driver
+
+"full_sync_request_noti_msg"=" would like to sync his/her Simply Auto data with your device.";
+"sync_friend_req"=" wants to add you as a driver";
+"sync_friend_confirmed"=" has confirmed as a driver";
+"sync_friend_req_title"="Driver Request";
+"sync_friend_confirmed_title"="Driver Confirmed";
+"sync_friend_deleted_title"="Driver Deleted";
+"sync_friend_deleted"=" has deleted you as a driver";
+"requested"="Requested";
+"full_sync_requests"="Full Sync Requests";
+"no_full_sync_requests"="You don't have any pending full sync requests";
+"sync_help1_go_pro_to_sync"="This feature is available as a part of the Pro version";
+"driver_share_header"="Sync between multiple drivers.";
+"driver_share_msg"="Is your vehicle shared between multiple drivers? Simply Auto lets you invite other drivers and sync data with them.";
+"receipt_pro_only"="*Receipt images are not backed up in the free version";
+"sync_sign_in_footnote"="*Available in the pro version only";
+"go_pro_for_unltd_vehicles"="To add unlimited vehicles please upgrade to Platinum membership.";
+"go_pro_unltd_vehicles_title"="Add Unlimited Vehicles";
+"go_pro_unltd_drivers_title"="Add Unlimited Drivers";
+"go_pro_for_unltd_drivers"="To add unlimited drivers please upgrade to Platinum membership.";
+
+//multiple receipts
+"multi_recpt_title"="Attach Multiple Receipts";
+"fillup_unit_change_title"="Change Unit for Individual Fill-up";
+"fillup_unit_change_msg"="Changing units for individual fill-ups is a part of the upgraded version.In the free version you can change the default unit for the app, from Settings.";
+
+//trip
+"business" = "Business";
+"charity" = "Charity";
+"medical" = "Medical";
+"personal" = "Personal";
+"moving" = "Moving";
+"select_trip_type" = "Select Trip Type";
+"select_date" = "Select Date";
+"parking" = "Parking";
+
+
+/*
+"search_date_filter_0" = "größer als";
+"search_date_filter_0" = "kleiner als";
+"search_date_filter_0" = "ist gleich";
+
+"search_type_filter_0" = "Alle";
+"search_type_filter_1" = "Tankeinträge";
+"search_type_filter_2" = "Serviceeinträge";
+"search_type_filter_3" = "andere Einträge";
+"search_type_filter_4" = "Touren";
+
+
+
+// ALL NEW 1Aug2018
+//Report
+"email_to"="Email this report to";
+"report_dates"="Include data for:";
+"report_date_range_0" = "All Time";
+"report_date_range_1" = "This month";
+"report_date_range_2" = "Last month";
+"report_date_range_3" = "Last 90 days";
+"report_date_range_4" = "This year";
+"report_date_range_5" = "Last year";
+"report_date_range_6" = "Custom Dates";
+"include_raw_data"="Include raw data";
+"file_type"="File type:";
+"include_receipts"="Include receipts";
+"gen_report"="Generate Report";
+"automated_report"="Automated Reports";
+"pb_sending_raw_data"="Sending raw data";
+"pb_sending_receipts"="Sending receipts";
+"err_generating_rep"="Error generating report";
+"no_email_msg"="Please enter a valid email address to send the report to.";
+"no_data_found"="No data found for the selected dates";
+"dep_date"="Departure Date";
+"dep_odo"="Departure Odo";
+"dep_loc"="Departure Loc";
+"arr_date"="Arrival Date";
+"arr_odo"="Arrival Odo";
+"arr_loc"="Arrival Loc";
+"upgrade_gp_err"="To attach raw data and csv files please purchase an upgrade";
+"upgrade"="Upgrade";
+"emails_send_to"="Reports will be emailed to";
+"schedule"="Schedule:";
+"report_schedule_0"="Weekly";
+"report_schedule_1"="Monthly";
+"start_schedule"="Start Schedule";
+"stop_schedule"="Stop Schedule";
+"generating_graphs"="Generating graphs";
+"generating_email"="Generating email";
+"generating_csv"="Generating CSV";
+"generating_pdf"="Generating PDF";
+"generating_receipts"="Generating receipts";
+"total_fillups"="Total Fillups";
+"total_services"="Total Services";
+"report_success_msg"="Your report has been emailed";
+"alarm_set_weekly"="Thank you! Your reports will be sent out every Sunday.";
+"alarm_set_monthly"="Thank you! Your reports will be sent out every last day of every month.";
+"stop_sched"="Stop Schedule";
+"alarm_stop_schedule"="Thank you! We will stop sending you reports.";
+"auto_report_sent_noti_msg"="Your report has been sent to";
+"go_pro_auto_report_msg"="To schedule automated reports please upgrade to Platinum membership.";
+"fuel_cost_analysis"="FUEL COST ANALYSIS";
+"upcoming_reminders"="UPCOMING REMINDERS";
+"total_service_cost"="Total Service Cost";
+"report"="Report";
+"pro_automated_reports"="Generate automated weekly and monthly reports";
+"error_report" = "Error generating report";
+"app_terminate"="Oops the app is terminated, Sync and auto report won't work till you reopen the App";
+"sign_in_required"="To schedule automated reports you need to Sign in to Cloud";
+
+//NEW DASHBOARD
+"stats_charts"="Stats & Charts";
+"tax_deductions" = "Tax deductions";
+"upcoming_dashboard" = "Upcoming reminder";
+"upcomings_dashboard" = "Upcoming reminders";
+"fuel_cost_dashboard" = "Fuel cost in last 30 days";
+"fill_ups_dashboard" = "Fill-ups in last 30 days";
+"trips_dashboard" = "Trips in last 30 days";
+"tax_ded_dashboard" = "Tax deductions in last 30 days";
+"overdue_dashboard" = "Overdue reminder";
+"overdues_dashboard" = "Overdue reminders";
+"services_dashboard" = "Services in last 30 days";
+"show_all"= "Show All";
+"recent_log"="Recent Log Entries";
+"expenses_30_days"="Expenses in last 30 days";
+
+//feedback
+"feedback"="Feedback";
+"feedback_desc"="Suggestions. Feature requests.";
+"feedback_msg"="Would you like to suggest a feature? Or just drop in a hi!We love to hear from our users.";
+"feedback_hint"="Your feedback";
+"feedback_email"="Email (optional)";
+"feedback_thanks"="Thank you for the feedback!";
+"feedback_msg_empty"="Please enter a valid message";
+"send"="Send";
+"email"="Email";
+
+//Auto Trip Logging
+"first_auto_trip_check_title"="Auto trip enabled";
+"first_auto_trip_check_msg"="Auto trip will now automatically detect your drives and save them as trips.This feature might need a couple of trips to start calculating accurately.";
+
+"go_pro_for_auto_logging"="to Platinum for unlimited auto logging of trips";
+"free_trips_remaining"="Free trips remaining this month:";
+"noti_trips_remaining_msg"="The free version allows 15 automatic trips per month. After which you can upgrade or continue logging manually.";
+"noti_free_trips_over_title"="Upgrade for unlimited auto logging of trips";
+"noti_free_trips_over_msg"="You have finished your quota of 15 automatic trips for this month. Upgrade or log trips manually.";
+"noti_trips_remaining_title"="Free auto trips remaining";
+
+"auto_drive_detect_menu"="Auto Trip Logging";
+"auto_drive_detection"="Automatic trip logging";
+"def_trip_type"="Default trip type";
+"weekdays"="Weekdays";
+"weekend"="Weekend";
+"do_not_track"="Do not detect trips on weekends";
+
+"auto_drive_detect_menu"="Auto Trip Logging";
+"auto_drive_dialog_msg"="Would you like Simply Auto to automatically log your trips so that you do not have to enter trips manually?";
+
+"pro_title_add_type"="Add Trip Type";
+"edit_custom_type"="Edit Trip Type";
+"view_edit_tax_rates"="View/Edit tax rates";
+
+"accept_t_and_c"="Please accept the Terms of Service";
+
+"kahitari"="Unlimited automatic trip logging";
+"track_via_gps"="Track trip via GPS";
+
+"track_via_auto_trip"="Tracking via Auto Trip";
+
+"maps"="Maps";
+
+//Added 6feb2019
+
+"user_guide"="User guide";
+"user_guide_sub"="A manual for Simply Auto";
+*/
+//Spanish Starts here 😍
+"stats_charts"="Stats & Charts";
+"add_fill_up_header"="Agregar Carga";
+"edit_fill_up_header"="Editar Carga";
+"del_fill_up_header"="Borrar Carga";
+"odometer"="Odómetro";
+"trp"="Viaje";
+"NoActVehMsg"="No hay Vehículo Activo";
+"no_id"="Sin ID";
+"yes"="Sí";
+"ok"="OK";
+"no"="No";
+"delete"="Eliminar/Borrar";
+"update"="Actualizar";
+"save"="Guardar";
+"cancel"="Cancelar";
+"set"="Establecer";
+"not_applicable"=" N/D";
+"cust_btn_msg"="Pers.Pantalla";
+"date"="Fecha";
+"month"="Mes";
+"octane"="Octanaje";
+"required"="(Req)";
+"search"="Buscar";
+"odo"="Odóm:";
+"edit"="Editar";
+"act_veh_msg"="Agrege o Active un Nuevo Vehículo desde Menu-";
+"menu_title"="Elija Opción";
+//!-- Added on 12'Feb 2014 --
+"add_service"="Agregar Servicio";
+"edit_service"="Editar Servicio";
+"delete_service"="Borrar Servicio";
+"add"="Agregar";
+//!-- Added on 6'Dec 2014 --
+"add_service_expenses"="Agregar Servicio, Gasto  Viaje";
+"add_expenses"="Agregar Gastos";
+"edit_expenses"="Editar Gastos";
+"delete_expenses"="Borrar Gastos";
+//!-- Added on 23'Jan 2015 --
+"add_trip"="Agregar Viaje";
+//!-- Added on 4'Jun 2015 --
+"send"="Enviar";
+//!-- Added on 1'Jul 2015 --
+"disp_kilometers"="Kilometros";
+"disp_miles"="Millas";
+"kms"="KM";
+"mi"="M";
+"disp_litre"="Litro";
+"disp_gal_us"="Galon(US)";
+"disp_gal_uk"="Galon(UK)";
+"ltr"="Lt";
+"gal"="gl";
+"disp_kmpl"="km/L";
+"disp_lp100kms"="L/100km";
+"disp_mpg"="mpg";
+"disp_mpg_us"="mpg(US)";
+"disp_mpg_uk"="mpg(UK)";
+//!-- Added on 24'Jul 2015 --
+"disp_kmpg"="km/gl";
+"disp_kmpg_us"="km/gl(US)";
+"disp_kmpg_uk"="km/gl(UK)";
+"disp_mpl"="m/l";
+//!-- Added on 13'Jun 2017 --
+"shortcut_disabled"="Acceso directo deshabilitado";
+"view"="Ver";
+//!-- Added on 9'Feb 2018 --
+"mph"="mph";
+"kmph"="kmph";
+//!-- Added on 30'Apr 2018 --
+"vehicle"="Vehículo";
+"channel_name"="Simply Auto";
+"channel_desc"="Simply Auto Canal de Notificación";
+
+//!-- ABS Java --
+"Tab1Title"="Registro";
+"Tab2Title"="Menú";
+"Tab3Title"="Tablero";
+"rate_msg"="Ahora que ha estado utilizando Simply Auto durante un tiempo, ¿podría por favor votar la aplicación?Significaría mucho para nosotros.";
+"button_rate_app"="Valorar App";
+"button_later"="Más tarde";
+"exit_msg"="Salir de Simply Auto?";
+"feedback_response"="Respuesta a sus comentarios";
+//!-- Added on Aug 17 --
+"like_us_msg"="Te gusta Simply Auto?  Siguenos en Facebook";
+"button_fb_like"="ME GUSTA!";
+"button_never"="Nunca";
+//!-- Added on 4' Jun 2015 --
+"feedback_hint"="Tus Comentarios";
+//!-- Added on 21' Nov 2017 --
+"auto_drive_dialog_msg"="¿Le gustaría que Simply Auto registre automáticamente sus viajes para que no tenga que ingresarlos manualmente?";
+"go_to_auto_drive_settings_title"="Registro de viaje automático habilitado";
+"go_to_auto_drive_settings_msg"="Se ha habilitado el registro automático de viajes. Es posible que esta función necesite un par de viajes para comenzar a calcular con precisión. Para deshabilitar o para otras configuraciones de viaje automático, vaya a Registro de viaje automático";
+"go_pro_for_unltd_vehicles"="Para agregar vehículos ilimitadamente, actualice a la membresía Platinum.";
+"go_pro_unltd_vehicles_title"="Agregar Vehículos ilimitadamente";
+"go_pro_unltd_drivers_title"="Agregar Conductores ilimidatdamente";
+"go_pro_for_unltd_drivers"="Para agregar conductores ilimitadamente, actualice a la membresía Platinum.";
+//!-- Added on 15' Aug 2018 --
+"newTab2Title"="Estadísticas  Gráficos";
+
+//!-- Fuel Log XML--
+//!-- May 7th, 2014 --
+"long_click_msg"="*Selecciona para ver un registro, Presione para Editar/Borrar";
+//!-- Dec 23rd, 2015 --
+"vehicles_add_note"="Agregar un nuevo vehículo navegando a Vehículos";
+"get_started"="Empezar presionando el botón +";
+"hide_trips"="Ocultar viajes";
+
+//!-- Fuel Log Java --
+"def_car"="Automovil por Defecto";
+"no_rec_found_msg"="No hay Registros para";
+"menu_opt_del"="Eliminar/Borrar";
+"def_msg"="No hacer Selecciones Aleatorias";
+"partial_refill_st"="(P)";
+//!-- Added on 12/11/2013 --
+"rec_sel_err"="Hubo un problema con la seleccion";
+//!-- Added on Feb 2nd, 2015 --
+"in_progress"="En progreso";
+//!-- Added on Feb 3nd, 2017 --
+"never_lose_data"="Nunca pierda sus datos";
+"cloud_suggestion"="Inicie sesión en la nube para asegurarse de que siempre se haga una copia de seguridad de tus datos. Para saber más sobre esta característica vaya al menú principal.";
+
+//!-- Add Record Java --
+"header_for_tip"="Consejo";
+"button_ok_for_tip"="OK, Gracias";
+"button_later_for_tip"="Recordarme más tarde";
+"cost_per_unit_tv"="Precio/";
+"invalid_val_msg1"=" y cant. necesita un valor válido";
+"invalid_val_msg2"="Coste/";
+"invalid_val_msg3"="debe ser un valor válido";
+"invalid_val_msg4"="Coste Total debe ser un valor válido";
+"invalid_val_msg5"="Entrada no válida";
+"invalid_val_msg6"="Índice de Octanos invalido";
+"rec_add_suc"="Registro agregado con éxito";
+"rec_add_fail"="Error al Agregar Resgistro";
+"rec_upd_suc"="Registro Actualizado con éxito";
+"rec_upd_fail"="Erroa Al actualizar registro";
+"rec_del_suc"="Registro Borrado con exito";
+"rec_del_fail"="Error al eliminar registro";
+"invalid_no_msg"=" número inválido";
+//!-- Added on 3/May/2017 --
+"spk_msg_1"="Valor de voz para";
+"spk_msg_2"="(decir ";
+"spk_msg_3"=" para saltar este valor)";
+//!-- Added on 28/9/13 --
+"add_rec_crash_msg"="Ooops!! No se que paso aqui!";
+"speech_err"="Error de reconocimiento de voz";
+//!-- Added on 23/1 --
+"rcpt_captured"="Comprobante Capturado";
+"rcpt_err"="Error al Capturar Comprobante";
+"rcpt_err_load"="Error al Cargar Comprobante";
+//!-- Added on 26/1 --
+"fill_up_custom_msg"="Personalice esta pantalla para añadir campos adicionales, eliminar campos, adjuntar comprobantes, etc";
+//!-- Added on 11/10/2014 --
+"comma_enter_err"="Las notas no pueden contener comas y lineas nuevas";
+"comma_err"="No se aceptan comas aqui.";
+//!-- Added on 23/Nov/2014 --
+"first_partial_click_msg"="Una Recarga Parcial es cuando el tanque no fue llenado por completo. La eficiencia de este Registro se mostrara como N/D hasta que se llene el tanque.";
+//!-- Added on 13/2/2015 --
+"first_missed_fu_click_msg"="Seleccione esta opcion cuando haya olvidado registrar una o mas de sus anteriores recargas";
+//!-- Added on 27/3/2015 --
+"overdue_noti"="Servicio vencido";
+//!-- Modified on 27/3/2015 --
+"noti_msg_veh"="para";
+"noti_msg1"="Vencido al";
+//!-- Modified on 24/9/2015 --
+"trip_started"="Viaje iniciado";
+"trip_complete"="Viaje completo";
+//!-- Modified on 26/9/2015 --
+"image_source"="Selecione imagen fuente";
+//!-- Added on 15/1/2016 --
+"exit"="¿Salir?";
+"save_and_exit"="¿Seguro que quieres salir sin guardar? Para guardar, debe hacer clic en el icono del disquete en la esquina superior derecha.";
+"no_save"="NoGuardar";
+//!-- Added on 25/1/2016 --
+"odo_correct_msg"="¿Estás seguro de que el valor del odómetro es correcto? Parece un poco alto.";
+"trp_correct_msg"="¿Estás seguro de que el valor del viaje es correcto? Parece un poco alto.";
+//!-- Added on 11/2/2016 --
+"incorrect_odo"="Odómetro incorrecto";
+//!--Record dated 23-Oct-2016 has an odometer value greater/less than the odometer value you are trying to enter for 21-Oct-2016 --
+"rec_dated"="Registro fechado";
+"odo_value_greater"="tiene un valor de odómetro mayor que el valor del odómetro que está intentando ingresar para";
+"odo_value_lesser"="tiene un valor de odómetro menor que el valor del odómetro que está intentando ingresar para";
+//!-- Added on 3/5/2017 --
+"fillup_mic_help"="Hable para completar valores";
+//!-- Added on 8/6/2017 --
+"help_loc_for_auto_fs"="Encienda la ubicación para detectar automáticamente la marca y la estación de servicio.";
+"loc_permission_title"="Permiso de ubicación";
+"loc_permission_msg"="Simply Auto requiere acceso a los servicios de ubicación para completar automáticamente la Gasolinera y la marca.";
+"app_settings"="Abrir la configuración de la aplicación";
+"loc_permission_for_trip_msg"="Simply Auto requiere acceso a los servicios de ubicación para rastrear su viaje a través de GPS.";
+"loc_permission_for_arr_dest_msg"="Simply Auto requiere acceso a los servicios de ubicación para completar automáticamente las ubicaciones de llegada y destino.";
+"multi_recpt_title"="Adjuntar múltiples recibos";
+"multi_recpt_msg"="Adjuntar recibos múltiples solo está disponible en la versión pro";
+"fillup_unit_change_title"="Unidad de medida para llenado individual";
+"fillup_unit_change_msg"="Cambiar unidades para rellenos individuales es una parte de la versión actualizada.En la versión gratuita, puede cambiar la unidad predeterminada para la aplicación, desde Configuración.";
+
+//!-- Add Record XML --
+"add_fill_up_tv"="Agregar Carga";
+"date_tv"="Fecha";
+"qty_tv"="Cantidad";
+"tc_tv"="Coste Total";
+"oct_tv"="Octanaje";
+"fb_tv"="Tipo de Combustible";
+"fs_tv"="Gasolinera";
+"notes_tv"="Notas";
+"req_hint"="Requerido";
+"dpContentDesc"="Selector de Fecha";
+"micContentDesc"="Voz a Texto";
+//!-- Added on 23/1 --
+"attach_receipt"="Adjuntar Comprobante";
+//!-- Modified on 16/1/2015 --
+"pf_tv"="Recarga Parcial";
+//!-- Added on 13/2/2015 --
+"mf_tv"="Recarga anterior Olvidada";
+//!-- Added on 29/12/2015 --
+"customize_dashboard_screen_help"="Personalice esta pantalla para agregar nuevas estadísticas o eliminar las redundantes";
+"tap_to_dismiss"="(toque para descartar)";
+//!-- Added on 29/12/2015 --
+"missed_fillup"="Falta llenado";
+//!-- Added on 2/5/2017 --
+"skip"="Saltar";
+
+//!-- Customize FU Java --
+"cust_fu_head"="Seleccione Campos a Mostrar";
+"date_required"="Fecha (Req)";
+"odo_required"="Odómetro/Viaje (Req)";
+"qty_required"="Cantidad (Req)";
+"prc_per_unt"="Precio/Unidad";
+//!-- Added on 10/Feb/2015 --
+"trp_distance"="Distancia Recorrida desde la ultima recarga";
+//!-- Added on 25/Jun/2015 --
+"trp_after_first_fu"="La primera Carga requiere que ingreses el valor de odómetro. Podras cambiar a Distancia de viaje para las siguientes cargas";
+
+//!-- Customize FU Screen XML --
+"odo_trip_tv"="Valor a ingresar al recargar";
+"pv_msg"="Usar valores de mi anterior Recarga";
+//!-- Added on 4/Jul/2016 --
+"atuo_brand_fs_msg"="Detección automática de la estación de llenado y la marca según la ubicación";
+
+//!-- Customize FUS Item XML --
+"temp_holder"="temp";
+
+//!-- Dashboard Java --
+"avg_price_tv"="Precio promedio/";
+"cost_tv"="Coste Combustible/";
+"eff_oct_tv"="Efic por Octano(";
+"eff_brand_tv"="Efic por Tipo de comb(";
+"eff_stn_tv"="Efic por Gasolinera(";
+"dashboard_go_pro_title"="Filtro de Tablero";
+//!-- Added on 7/Nov/2014 --
+"service_cost_tv"="Coste de Servicios";
+//!-- Added on 13/Dec/2014 --
+"expense_cost_tv"="Otros Gastos";
+//!-- Added on 14/May/2016 --
+"trip_by_type"="Dist por tipo(";
+"tax_ded_by_type"="Impuesto deducible por tipo(";
+
+//!-- Dashboard XML --
+"tot_fig_tv"="Estadisticas Generales";
+"dist_tv"="Distancia";
+"f_q_tv"="Cant Combustible";
+"f_c_tv"="Coste Combustible";
+"f_u_tv"="Recargas";
+"avg_fig_head"="Estadísticas de combustible";
+"avg_fuel_tv"="Eficiencia promedio del combustible";
+"graph_con_desc"="Gráfico";
+"dist_btn_fu_tv"="Distancia entre Recargas";
+"qty_per_fu_tv"="Cant. Por Recarga";
+"cost_per_fu_tv"="Coste Por Recarga";
+"avg_ppu_tv"="Promedio Precio/Unidad";
+"fu_pm_tv"="Recargas por mes";
+"cpm_tv"="Comb. Coste/Dist";
+"eff_by_oct_tv"="Efic por Octanaje";
+"eff_by_brand_tv"="Efic por Tipo de comb.";
+"eff_by_stn_tv"="Efic por Gasolinera";
+//!-- Added 6/Nov/2014 --
+"avg_service_head"="Estadisticas Promedio de Servicios";
+"tot_service_cost"="Coste de Servicios";
+"tot_services"="Servicios";
+"cpd_tv"="Comb. Coste/Dist";
+"scpm_tv"="Servicio Coste/Dist.";
+"scpd_tv"="Servicio Coste/Dia";
+//!-- Added 13/Dec/2014 --
+"tot_expense_cost"="Otros Gastos";
+"avg_expense_head"="Estadisticas Promedio de Otros Gastos";
+"ecpm_tv"="Otros Gastos/Dist";
+"ecpd_tv"="Otros Gastos/Day";
+//!-- Added 12/Feb/2016 --
+"cpmth_tv"="Costo de combustible /Mth";
+//!-- Added on 14/May/2016 --
+"trip_by_type_tv"="Dist por tipo";
+"tax_ded_by_type_tv"="Impuesto deducible por tipo";
+//!-- Added on 11/Jul/2017 --
+"monthly_tax_ded"="Deducción de impuestos mensual";
+
+//!-- Customize Dashboard Java --
+"cust_db_head1"="Estadisticas a mostar";
+"dist_req"="Distancia (Req)";
+"avg_fuel_req"="Efic Promedio de Comb(Req)";
+//!-- Added on 7/Nov/2014 --
+"cust_db_head2"="Estadisticas promedio de Combustible";
+"cust_db_head3"="Estadisticas promedio de Servicios";
+//!-- Added on 13/Dec/2014 --
+"cust_db_head4"="Estadisticas promedio de Gastos";
+//!-- Added on 7/Feb/2015 --
+"cust_db_head5"="Estadisticas de Viaje";
+"total_trips"="Total de viajes";
+"total_trip_dist"="Distancia Total de Viaje";
+"total_trip_time"="Tiempo Total de Viaje";
+"total_tax_ded"="Deduccion Total de Impuestos.";
+"trip_stats"="Estadisticas de Viaje";
+//!-- Added on 17/May/2016 --
+"dist_by_type"="Distancia por tipo";
+
+//!-- Graph Java --
+"dist_btn_fu_graph_name"="Distancia entre recargas";
+"prc_per_unt_graph_name"="Precio por";
+"fu_per_mth_graph_name"="Recargas por mes";
+"no_of_fu_graph_label"="N° de Recargas";
+"fe_graph_name"="Eficiencia del Combustible";
+"cost_per_graph_name"="Coste Por";
+"eff_by_oct_graph_name"="Eficiencia por Octanaje";
+"eff_by_brand_graph_name"="Eficiencia por Tipo de comb.";
+"eff_by_stn_graph_name"="Eficiencia por Gasolinera";
+"brand"="Tipo de Combustible";
+"fill_stn"="Gasolinera";
+"more" = "Más";
+//!-- Added on 24' Sep 2014 --
+"graph_date_range_0" = "Todo el tiempo";
+"graph_date_range_1" = "Este mes";
+"graph_date_range_2" = "Mes pasado";
+"graph_date_range_3" = "Este año";
+"graph_date_range_4" = "Personalizar fechas";
+"custom_date_err"="Asegurese que las fechas están seleccionadas correctamente";
+"graph_go_pro"="Este Filtro solo esta disponible en la version PRO";
+"graph_go_pro_title"="Filtro para Graficas";
+//!-- Added on 7' nov 2014 --
+"cost_per_day_graph_name"="Coste de Comb por dia";
+"service_cost_per_graph_name"="Coste De servicio Por";
+"service_cost_per_day_graph_name"="Coste de Servicio por día";
+//!-- Added on 13' Dec 2014 --
+"expense_cost_per_graph_name"="Otros Gastos por";
+"expense_cost_per_day_graph_name"="Otros Gastos por día";
+//!-- Added on 13' Feb 2016 --
+"cost_per_mth_graph_name"="Costo de combustible por Mes";
+//!-- Added on 14' May 2016 --
+"trip_dist_by_type_graph_name"="Distancia por tipo de viaje";
+"trip_tax_ded_by_type_graph_name"="Deducción de impuestos por tipo de viaje";
+//!-- Added on 5' Jul 2017 --
+"no_data"="No hay datos para este período";
+"good"="Bueno";
+"avg"="Prom";
+"poor"="Pobre";
+
+//!-- Find Gas Price Java --
+"loading_msg"="Por favor espere, cargando";
+
+//!-- Search Rec Java --
+"invalid_entry_msg"="¡Debe Introducir Algún Dato para que se Muestre Algo!";
+"no_rec_found_msg2"="¡¡No se encontraron Registros!! ¡¡Por favor Concéntrese!!";
+"rec_found_msg1"="No se Encontró el Registro Exacto. Mostrando Similar";
+"rec_found_msg3"=" No se Encontraron Registros para la Fecha Especificada, Mostrando todos los Registros del Mes";
+//!-- Added on 3' Oct 2014 --
+"search_date_filter_0" = "Más que";
+"search_date_filter_1" = "Menos que";
+//!-- Added on 15' Dec 2014 --
+"search_type_filter_0" = "Todo";
+"search_type_filter_1" = "Registros de llenado";
+"search_type_filter_2" = "Registros de servicio";
+"search_type_filter_3" = "Otros Gastos";
+"search_type_filter_4" = "Registros de viaje";
+"record_type"="Tipo de Registro";
+
+//!-- Search Rec XML --
+"search_rec_tv"="Buscar Registro";
+"date_pck_desc"="Selector de Fecha";
+//!-- Added on 28' Feb 2014 --
+"filter_fillup"="Reg. de recarga";
+"filter_service"="Reg. de servicio";
+"filter_both"="Ambos";
+//!-- Added on 3' Oct 2014 --
+"odo_short"="Odo";
+"date_hint"="Fijar Fecha Aprox";
+//!-- Added on 26' Dec 2015 --
+"search_notes_hint"="Notas que contengan (separadas con,)";
+"search_result"="Resultado de búsqueda";
+//!-- Added on 11' Oct 2018 --
+"type_notes_hint"="Escriba el nombre (separado con,)";
+
+//!-- Get Registration Java --
+"no_veh_id"="No hay ID del Vehículo";
+"edit_veh_msg"="Editar Detalles del Vehículo";
+"del_veh_msg"="Borrar Vehículo";
+"invalid_veh_msg1"="Marca y Modelo No pueden dejarse en Blanco";
+"rec_added"="Registro agregado con éxito";
+"rec_failed"="Error al Agregar Resgistro";
+"rec_upd"="Registro Actualizado con éxito";
+"rec_failed_upd"="Erroa Al actualizar registro";
+"rec_failed_del"="Error al eliminar registro";
+"rec_del"="Registro Borrado con exito";
+//!-- Added on 6, May' 2014 --
+"invalid_double_quotes"="Marca y Modelo no pueden contener comillas";
+//!-- Added on 30, Dec' 2014 --
+"show_more"="Mostrar Mas";
+"show_less"="Mostrar Menos";
+"year"="Año";
+"vin"="Numero de Serie (note: or No. serie)";
+"insurance_no"="Numero de Poliza  (note: or Poliza No.)";
+"picture"="Imagen";
+"pic_err_load"="Error al Cargar imagen";
+//!-- Added on 15' Apr 2015 --
+"mk_model_comma_err"="En marca y modelo no pueden ir comas";
+//!-- Added on 12' Jan 2016 --
+"pic_err_oom"="Error al cargar la imagen. Por favor trate de seleccionar una imagen más pequeña";
+//!-- Added on 27' Jul 2017 --
+"generic_comma_nl_err"="No se pueden aceptar comas y nuevas líneas aquí";
+"view_veh_msg"="Detalles del vehículo";
+//!-- Added on 7, Oct' 2017 --
+"add_other_specs"="Añadir más especificaciones";
+
+//!-- Get Registration XML --
+"ent_veh_tv"="Introduzca Detalles del Vehículo";
+"make_tv"="Marca";
+"model_tv"="Modelo";
+"lic_no_tv"="No. Licencia";
+"del_veh_note"="*Eliminar un vehículo hará que se borren todos sus registros. Por favor proceda con precaución.";
+//!-- Added on 19' Jun 2015 --
+"metrics_change_note"="*Los valores de Distancia, Volumen, Eficiencia y tipo de moneda puedes ser cambiados desde la pantalla de configuracion";
+"add_photo"="Agregar Foto";
+//!-- Added on 25' Jul 2017 --
+"specs"="Especificaciones";
+"add_custom_parts"="Agregar especificaciones";
+"edit_custom_parts"="Editar especificaciones";
+"part_name"="Nombre";
+"part_val"="Valor";
+"custom_part_add_err"="Por favor, asegúrese de que ambos campos estén completos";
+
+//!-- Selected List Java --
+"partial_refill_sel_lst"="(P)";
+"qty_sel_lst"="Cant:";
+"cost_sel_lst"="Coste:";
+//!-- Added on 17' Feb 2015 --
+"ded"="Ded:";
+
+//!-- Vehicle Java --
+"invalid_sel_msg"="Por favor Seleccione el Vehículo a Activar";
+"activated_msg"="¡Activado!";
+"invalid_sel_msg2"="Por favor Seleccione el Vehículo a Editar  ";
+"invalid_sel_msg3"="Por favor Seleccione el Vehículo a Eliminar";
+
+//!-- Vehicle XML --
+"veh_tv"="Vehículos";
+"add_new_btn"="Agregar Nuevo";
+
+//!-- Edit Menu Java --
+"gs_err_msg"="No es posible conectar con Google.";
+"internet_err_msg"="Sin Conexion a Internet";
+"ph_mem"="Memoria del Teléfono";
+"ph_mem_note"="(se almacenará en la memoria interna si la tarjeta SD no está disponible)";
+"gs_err_msg2"="Los Servicios de Google Play no están Disponibles en este Teléfono";
+"csv_imp_msg"="Por favor asegúrese de que los archivos CSV están ubicados en";
+"exp_success_msg"="Archivos Extraídos con Éxito en";
+"pls_rate_msg"="Valorar App";
+//!-- Added on 3/11/2013 --
+"google_ac_err"="Error al acceder a su cuenta Google A/C";
+//!-- Added on 12/11/2013 --
+"pur_make_selection"="¡Por Favor Realice una Selección!";
+"pur_err"="¡Error Durante el Proceso de Compra! Por favor inténtelo en unos segundos";
+"pur_thanks"="¡Muchas gracias por su compra! Puede que necesite Cerrar Sesión y volver a Abrirla para que la Compra tenga Efecto.";
+"email_dialog_head"="Enviar Registro";
+"email_button"="Enviar Email";
+"email_user_err"="Por favor asegúrese de que ha seleccionado las fechas y al menos un campo";
+"footnote_for_email"="*Enviado mediante Simply Auto";
+"no_rec_for_email"="No se encontraron registros en el Rango de Fechas";
+//!-- Added on 28' Feb 2014 --
+"go_pro_made"="Ya haz adquirido la version PRO";
+//!-- Added on 14 Mar, 2014 --
+"store_query_err"="Error al consultar el inventario";
+//!-- Added on 8 Apr, 2014 --
+"imp_format_err_title"="Error al Importar Formato.";
+"once_week"="Una vez cada semana";
+"once_month"="Una vez cada mes";
+"once_three_month"="Una vez cada trimestre";
+"once_3_month"="Una vez cada trimestre";
+"choose_acct"="Escoger cuenta";
+//!-- Added on 11 Jun, 2014 --
+"reminders"="Recordatorios";
+//!-- Added on 17 Aug, 2014 --
+"promote_us"="Recomiendanos";
+"promote_us_msg"="0";
+"promote_us_tweet"="Simply Auto hace un excelente trabajo al llevar el seguimiento del Kilometraje y Servicios de mis vehiculos, Disponible Gratis en la Play Store";
+"promote_us_sms"="Simply Auto hace un excelente trabajo al llevar el seguimiento del Kilometraje y Servicios de mis vehiculos";
+"promote_us_subject"="Simply Auto -  La mejor App para llevar un control de mi vehiculo";
+//!-- Modified on 4 Mar, 2016 --
+"backup_desc"="Crear archivos CSV";
+"restore_desc"="Restaura desde archivos CSV";
+//!-- Modified on 5 Jul, 2016 --
+"no_contacts_permission"="Permiso para Contactos";
+"no_contacts_permission_msg"="Simply Auto necesita el permiso de Contactos para Copiar/Restaurar en Google Drive. Póngase en contacto con nosotros en support-ios@simplyauto.app si necesita detalles.";
+
+//!-- Modified on 12 Nov, 2014 --
+"export"="Respaldo Manual";
+"imp"="Importar Manualmente";
+"export_opt"="Repaldar en.";
+"import_opt"="Restaurar desde.";
+"backup"="Respaldo";
+"restore"="Importar";
+"first_time_imp"="Restab desde otra App";
+"exp_err_msg"="Error al Respaldar Archivo";
+"exp_data_msg"="Respaldando Informacion de todos los Vehículos";
+"exp_success_msg2"="Archivos Respaldados con Éxito a Google Drive";
+"imp_format_err"="Parece que estas tratando de reestaurar informacion usando el viejo formato.Para obtener los archivos CSV en el nuevo formato, haga un respaldo antes de convertir informacion del viejo formato al nuevo, usando las instrucciones mencionadas en la guia";
+"imp_err_msg"="Error al Restaurar Archivo";
+"csv_success_msg"="Los Archivos CSV han sido restaurados con Éxito";
+"imp_err_msg2"="Error al Restaurar Archivo,  Asegúrese de que los archivos están en el directorio correcto";
+"imp_data_msg"="Restaurando  Datos para todos los Vehículos";
+"imp_success_msg"="Archivos Restaurados con Éxito desde Google Drive";
+"imp_from_another_app"="Para importar Informacion desde otra fuente (No informacion de Simply Auto) Usted tendrea que ajustar los datos para que Simply Auto Pueda entenderlos, Siga las instrucciones";
+//!-- Added on 27 Nov, 2014 --
+"fuel_log_err_title"="Fuel_Log.csv Error";
+"vehicle_err_title"="Vehicle.csv Error";
+"services_err_title"="Services.csv Error";
+"fuel_log_nf"="Fuel_Log.csv No encontrado. Asegurese que el archivo existe.";
+"vehicle_nf"="Vehicle.csv No encontrado. Asegurese que el archivo existe.";
+"services_nf"="Services.csv No encontrado. Asegurese que el archivo existe.";
+"fuel_log_fail"="Se encontro un problema al importar Fuel_Log.csv. Por favor contacte a Soporte en support-ios@simplyauto.app.";
+"services_fail"="Se encontro un problema al importar Services.csv. Por favor contacte a Soporte en support-ios@simplyauto.app.";
+"vehicle_fail"="Se encontro un problema al importar vehicle.csv. Por favor contacte a Soporte en support-ios@simplyauto.app.";
+//!-- Added on 17 Dec, 2014 --
+"security_err"="Error al acceder a su cuenta Google, Intente de nuevo en 30 minutos";
+//!-- Added on 30 May, 2015 --
+"uploading_log"="Respaldando datos";
+"uploading_receipt"="Respaldando recibos";
+"uploading_vehicle"="Respaldando datos del vehiculo";
+"uploading_service"="Respaldando recordatorios de servicio";
+"backup_success"="Respaldo Exitoso";
+"receipt_upload_failed"="Fallo al respaldar recibos";
+"exp_noti_title"="Respaldado informacion";
+"exp_success_noti_msg"="Archivos Respaldados con Éxito a Google Drive";
+"imp_noti_title"="Restaurando datos";
+"restore_success"="Restauracion exitosa";
+"restoring_vehicle"="Restaurando informacion del vehiculo";
+"restoring_log"="Restaurando datos";
+"restoring_receipt"="Restaurando recibos";
+"restoring_service"="Restaurando recordatorios  de servicios";
+"imp_success_noti_msg"="Restauracion exitosa desde google drive.";
+"receipt_download_failed"="Fallo al descargar recibos";
+"backup_receipts"="Incluir recibos en el respaldo";
+"restore_receipts"="Restaurar recibos";
+"backup_restore_receipts"="Respaldar/Restaurar recibos";
+"receipts_backup_restore_go_pro"="La version gratuita te permite respaldar y restaurar solo datos. Los recibos pueden respaldarse y restaurarse en la version PRO";
+//!-- Added on 1/25/2016 --
+"backup_to_cloud"="¿Quieres hacer una copia de seguridad de tus datos al instante en la nube? Visite Iniciar sesión en la nube en el menú principal.";
+//!-- Added on 28/6/2016 --
+"uploading_trip_log"="Copia de seguridad de los datos de viaje";
+"restoring_trip_log"="Restaurando datos de viaje";
+"trip_log_nf"="No se encontró Trip_Log.csv. Por favor, asegúrese de que el archivo existe.";
+//!-- Added on 22/8/2016 --
+"fb_folder_nf"="Simply Auto no encontró la carpeta automática en Google Drive.";
+"trip_log_fail"="Problema encontrado al importar desde Trip_Log.csv. Por favor, póngase en contacto con el soporte en support-ios@simplyauto.app.";
+//!-- Added on 12/6/2017 --
+"ext_storage_perm_title"="Acceso al almacenamiento";
+"ext_storage_perm_msg"="Simply Auto requiere acceso al almacenamiento para respaldar recibos.";
+"ext_storage_perm_msg_for_imp"="Simply Auto requiere acceso al almacenamiento para importar recibos.";
+"ext_storage_perm_phone_bckp_msg"="Simply Auto requiere acceso al almacenamiento para hacer una copia de seguridad de los datos en la memoria del teléfono.";
+"ext_storage_perm_phone_imp_msg"="Simply Auto requiere acceso al almacenamiento para importar datos desde la memoria del teléfono.";
+"ext_storage_perm_attach_recpt"="Simply Auto requiere acceso al almacenamiento del teléfono para guardar recibos.";
+"ext_storage_perm_veh_img"="Simply Auto requiere acceso al almacenamiento del teléfono para guardar las imágenes del vehículo.";
+
+//!-- About View XML --
+"version_tv"="Versión";
+"dev_by_tv"="Desarrollada por";
+"contact_tv"="Contacto";
+//!-- Added on 6/11/2013 --
+"website_tv"="Sitio Web";
+//!-- Added on 11/11/2013 --
+"customize_tv"="Personalizar Simply Auto";
+"customize_message"="Le gustaria personalizar Simply Auto para su negocio o sus necesidades personales?Contactenos en support-ios@simplyauto.app y con gusto le ayudaremos.";
+
+//!-- Edit Menu XML --
+"veh_btn"="Vehículos";
+"find_gas_btn"="Precios de Combustible";
+"settings_btn"="Ajustes";
+"abt_btn"="Acerca de";
+"feedback_btn"="Comentarios";
+//!-- Added on 12/11/2013 --
+"go_pro_btn"="Go Pro";
+//!-- Added on 26 Feb'2014 --
+"search_rec"="Buscar Registro";
+//!-- Added on 12 Nov'2014 --
+"exim_btn"="Copia de seguridad de Google Drive";
+"sync_btn"="Iniciar sesión en la nube";
+"log_dash_btn"="Inicio";
+//!-- Added on 11 Nov'2016 --
+"sync_btn_after_login"="Mi cuenta en la nube";
+//!-- Added on 29 Apr'2018 --
+"report"="Reporte";
+
+//!-- Settings Java --
+"dist_head"="Distancia";
+"vol_head"="Volumen";
+"cons_head"="Consumo";
+"curr_head"="Divisa";
+"cust_fus_head"="Personalizar Pantalla de Recargas";
+"cust_db_head"="Personalizar Tablero";
+"dist_desc"="Kilómetros, Millas";
+"vol_desc"="Litros, Galones(US), Galones(UK)";
+"cons_desc"="km/l, l/100km, mpg(US), mpg(UK)";
+"curr_desc"="Al Actualizar la Divisa solo se Actualizará la Unidad y no Convertirá la Divisa";
+"cust_fu_desc"="Personalice la pantalla de Recargas";
+"cust_db_desc"="Personalice el Tablero";
+"convert_msg"="¿Convertir Registros de Combustible Existentes? ¿O Sólo Cambiar la Unidad?";
+//!-- Added on 5/11/2014 --
+"faq"="Preguntas Frecuentes";
+"faq_desc"="Preguntas Frecuentes";
+//!-- Added on 10/Mar/2015 --
+"translate_head"="Traducir Simply Auto";
+"translate_desc"="Ayuda a traducir Simply Auto en otros idiomas";
+//!-- Added on 10/May/2015 --
+"sync_help_desc"="Tutorial para la funcionalidad en la nube de Simply Auto";
+//!-- Added on 28/Oct/2016 --
+"convert_yes_btn"="Sí, Convertir Registros";
+"convert_no_btn"="No, no Convertir Registros";
+//!-- Added on 7/Jan/2017 --
+"privacy_policy"="Política de privacidad";
+//!-- Added on 7/Jan/2017 --
+"notifications"="Notificaciones";
+"notifications_desc"="Personalizar notificaciones";
+"theme_head"="Tema claro";
+"theme_desc"="Cambiar a un tema claro";
+"upgrade_head"="Actualizar";
+"upgrade_desc"="Actualizar para desbloquear funciones pro";
+"imp_from_other_app_desc"="Restaurar datos desde otra aplicación";
+"restore_acar"="Restaurar desde un coche";
+"restore_from_other_app"="Restaurar desde otra aplicación";
+"pd_acar_message"="Obteniendo datos de un Coche";
+
+//!-- Settings XML --
+"settings_tv"="Ajustes";
+
+//!-- Customize Notificaiton --
+"noti_show"="Muestra la notificación";
+"odo_reminders"="Recordatorios de cuentakilómetros";
+"tone"="Tono";
+"light"="Claro";
+"def"="Defecto";
+"red"="Rojo";
+"yellow"="Amarillo";
+"green"="Verde";
+"due_date_reminders"="Recordatorios de vencimiento";
+"time"="Hora";
+"eight_am"="08:00:00 AM";
+"driver_sync_noti"="Sincronización de controladores";
+"choose_tone"="Elegir tono";
+"none"="Ninguna";
+"choose_light"="Elige la luz";
+"sel_time"="Seleccione tiempo";
+
+//!-- Added on 12/11/2013 --
+//!-- Database Interface Java --
+"convert_rec_err"="Error al Convertir Registros";
+
+//!-- Added on 12/11/2013 --
+//!-- In App Purchases--
+"purchase_btn"="Comprar";
+"pro_ad_free"="Deshacerse de los anuncios";
+//!-- Added on Jun 3' 2015 --
+"pro_backup_receipts"="Respaldar y restaurar recibos";
+//!-- Added on Oct 20' 2015 --
+"pro_cloud_backup"="Realice una copia de seguridad instantánea de todos sus datos en la nube.";
+//!-- Added on Apr 22' 2016 --
+"one_time"="UNA VEZ";
+//!-- Added on Nov 13' 2016 --
+"pro_add_custom"="Agregar nuevos servicios y gastos sin limite.";
+"pro_website"="Acceda a sus datos en la web en www.simplyauto.app";
+"pro_share_gold"="Agregue hasta 3 controladores para sincronizar datos con";
+"pro_share_platinum"="Sincronizar datos con controladores ilimitados";
+//!-- Added on Nov 29' 2017 --
+"pro_auto_drive"="Registro automático ilimitado de viajes.";
+//!-- Added on Mar 7' 2018 --
+"pro_receipt_cloud_backup"="Sincronización instantánea de sus recibos e imágenes de vehículos a la nube";
+"resync_after_pro"="Si desea cargar sus recibos más antiguos en la nube, vaya a la cuenta de Mi nube Resincronizar y sobrescriba los datos en la nube";
+"thank_you"="Gracias";
+"pro_attach_multiple_receipts"="Adjunte múltiples recibos de recargas, servicios y gastos.";
+"pro_attach_receipts_raw_data"="Adjunte recibos y datos en bruto con informes";
+"pro_add_unlimited_vehicles"="Añadir vehículos ilimitadamente";
+"pro_automated_reports"="Generar informes semanales y mensuales automatizados.";
+"pro_gps_tracking"="Rastreo GPS para viajes manuales.";
+"gold"="Oro";
+"platinum"="Platino";
+"per_year"="/ AÑO";
+"pro_change_individual_unit"="Cambiar unidad de volumen para rellenos individuales.";
+"pro_trip_map"="Ver mapas de viaje";
+
+//!-- Added on 12/14/2013 --
+//!-- Email XML --
+"date_range_head"="Rango de Fechas";
+"from_date_head"="Desde:";
+"to_date_head"="A:";
+"sel_fields_head"="Campos a Enviar por Email";
+"sel_fields"="Seleccionar campos";
+//!-- Added on 22' Jun 2016 --
+"total"="Totales de viaje";
+//!-- Added on 8' May 2017 --
+"attach_csv"="Adjuntar como archivos CSV";
+"can_be_opened_in_editor"="Los archivos CSV se pueden abrir en cualquier editor de hoja de cálculo";
+"go_pro_attach_csv_title"="Adjuntar archivos CSV en correos electrónicos";
+"go_pro_attach_csv_msg"="Adjuntar registros como archivos CSV solo está disponible en la versión Pro";
+
+//!-- Added on 12' Feb 2014 --
+//!-- Add Services XML --
+"tv_services"="Servicios";
+"tv_service_center"="Taller/Agencia";
+"invalid_as_msg1"="Valor de Odómetro Inválido";
+"invalid_as_msg2"="Valor de Coste Total Inválido";
+"invalid_as_msg3"="Por Favor Introduzca Al Menos Un Servicio";
+
+//!-- Added on 13' Feb 2014 --
+//!-- List Service XML --
+"tv_last_service"="Fecha Último Servicio:";
+//!-- Added on 16' Feb 2016 --
+"add_service_task_help"="Añadir nuevas tareas de servicio";
+
+//!-- Added on 13' Feb 2014 --
+//!-- ServiceList/ExpenseList Java --
+"add_custom_task"="Agregar un Servicio";
+"edit_custom_task"="Editar un Servicio";
+"succ_add_custom"="Registro Agregrado";
+"err_add_custom"="Error al Agregar registro";
+"succ_upd_custom"="Registro actualizado";
+"err_upd_custom"="Error al actualizar";
+"succ_del_custom"="Registro borrado";
+"err_del_custom"="Error al borrar";
+//!-- Added on 28' Feb 2014 --
+"pro_messsage_add_custom"="Agregar mas servicios esta diponible en la version PRO.";
+"pro_title_add_custom"="Note: Not sure what this option is for.";
+//!-- Added on 12' Jun 2014 --
+"not_serviced"="Sin Servicio Aun";
+//!-- Added on 12' Jun 2014 --
+"pro_messsage_add_expense"="Agregar mas gastos esta diponible en la version PRO.";
+//!-- Added on 13' Dec 2014 --
+"last_paid_on"="Ultimo pago en:";
+"no_payments"="No hay Pagos";
+"add_expense_task"="Agregar Gastos";
+//!-- Added on 21' Jan 2015 --
+"invalid_service"="Nombre de servicio invalido";
+"invalid_expense"="Nombre de gasto invalido";
+//!-- Added on 21' Aug 2015 --
+"recurring_service"="Servicio recurrente";
+"recurring_service_footnote"="*Puedes configurar recordatorios para servicios recurrentes";
+"service_task_name"="Nombre de la tarea de servicio";
+"recurring_expense"="Gastos recurrentes";
+"recurring_expense_footnote"="*Puedes configurar recordatorios para gastos recurrentes";
+"expense_task_name"="Nombre de la tarea de gastos";
+"service_task"="Tareas de servicio";
+"expense_task"="Tareas de Gastos";
+
+//!-- Added on 25' Feb 2014 --
+//!-- Services XML --
+"service_long_click_msg"="*Mantenga presionado un registro para Editar o Eliminar";
+
+//!-- Added on 9' Apr 2014 --
+//!-- Buy Pro Version Dialog --
+"open_guide"="Guia Abierta";
+//!-- Added on 23' Nov 2014 --
+"button_later_for_partial_click"="Mostrar Despues";
+
+//!-- Added on 11' Apr 2014 --
+//!-- Scheduled Backup XML --
+"next_backup"="Siguiente Respaldo";
+
+//!-- Added on 8th May, 2014 --
+//!-- View Record XML --
+"efficiency"="Eficiencia";
+//!-- Added on 19th May, 2015 --
+"receipt"="Recibo";
+//!-- Added on 18th Nov, 2015 --
+"view_fill_up"="Llenado";
+"view_service"="Servicio";
+"view_expense"="Gastos";
+
+//!-- Added on 25' Feb 2014 --
+//!-- Reminders XML --
+"reminders_click_msg"="Selecciona una opcion para agregar/actualizar un recordatorio, Mantenga presionado para Editar o Borrar un Recordatorio.";
+"reminder_sort_default"="Ordenar tipo";
+"reminder_sort_0" = "Ordenar por nombre";
+"reminder_sort_1" = "Ordenar por debido";
+
+//!-- Added on 24' Aug 2015 --
+//!-- Reminders Java --
+"service_reminders"="Servicio Recordatorios";
+"expense_reminders"="Gasto Recordatorios";
+"non_recurring_reminder_click"="Los recordatorios solo se pueden configurar para servicios y gastos recurrentes";
+
+//!-- Added on 25' Feb 2014 --
+//!-- List Reminders XML --
+"last_service"="Ultimo Servicio";
+"due_on"="Vencimiento";
+
+//!-- Added on 25' Feb 2014 --
+//!-- Add Reminders XML --
+"last_service_date_odo"="Ultimo Serivicio:";
+"next_due_on"="Servicio Cada:";
+"whichever_first"="Lo que suceda Primero";
+"kms_prior_to"="Antes de fijar valor";
+"days_prior_to"="Dias antes de Fijar fecha";
+"no_reminder_set"="No recordarme";
+"days"="Dias";
+"no_reminder"="Sin Recordatorio";
+//!-- Added on 23' Sep 2014 --
+"reminder_due_date_unit_array_1" = "Meses";
+"reminder_due_date_unit_array_2" = "Años";
+//!-- Added on 25' Aug 2015 --
+"last_paid_date_odo"="Último pago:";
+"payment_due_on"="Pagar cada:";
+
+//!-- Added on 25' Feb 2014 --
+//!-- Add Reminders Java --
+"reminder_added"="Recordatorio Fijado para";
+"reminder_err"="Error al agregar Recordatorio";
+//!-- Added on 25' Sep 2015 --
+"invalid_due_dist"="Valor de la distancia de vencimiento no válido";
+"invalid_due_date"="Valor de fecha de vencimiento no válido";
+"invalid_due_dist_date"="Distancia de vencimiento o valor de fecha de vencimiento no válidos";
+//!-- Added on 17' Dec 2015 --
+"set_reminder"="Establecer recordatorio";
+
+//!-- Modified on 22/6/2014 --
+//!-- Noti Receiver Java --
+"noti_msg2"="Vencido";
+
+//!-- Added on 11/11/2014 --
+//!-- Widget --
+"widget_add_fill_up"="AgregarRecarga Gasolina";
+
+//!-- Added on 8' Dec 2014 --
+//!-- Add Expenses --
+"tv_expenses"="Gastos";
+"tv_vendor"="Proveedor";
+"invalid_ae_msg"="Agregue al menos un gasto";
+
+//!-- Added on 23' Jan 2015 --
+//!-- Add Trip --
+"departure"="Salida";
+"date_time"="Fecha/Hora";
+"location"="Lugar";
+"arrival"="Llegada";
+"dist_traveled"="Distancia Recorrida";
+"time_traveled"="Tiempo Transcurrido";
+"tax_deduction_rate"="Taza de Deduccion de impuestos";
+"tax_deduction_amount"="Impuestos Deducidos";
+"type"="Tipo";
+"edit_trip"="Editar Viaje";
+"delete_trip"="Borrar Viaje";
+"date_time_val"="DD/MM/AAAA, HH:MM";
+"hour_abb"="H";
+"min_abb"="M";
+"trip_in_progress"="Viaje en progreso";
+//!-- Added on 15' Apr 2015 --
+"loc_comma_err"="Las Ubicacione no pueden contener comas";
+//!-- Added on 12' Sep 2015 --
+"enable_location"="Habilitar ubicación";
+"enable_GPS"="Habilitar GPS";
+"enable_GPS_title"="No puedo acceder al GPS";
+"enable_GPS_msg"="Habilite el GPS (modo de alta precisión) para calcular la distancia.";
+"start_trip"="Iniciar viaje";
+"end_trip"="Finalizar Viaje";
+"restart_trip"="Reiniciar Viaje";
+"trip_distance"="Distancia de viaje:";
+"trip_go_pro_title"="Seguimiento vía GPS";
+"trip_go_pro_msg"="Para rastrear los viajes a través de GPS, compre una actualización";
+//!-- Added on 13' Feb 2016 --
+"google_api_not_connected"="No se puede conectar con  Google Client para GPS.";
+"play_services_not_found"="Este dispositivo no es compatible. Necesita tener instalado Google Play Services para acceder a GPS.";
+"track_via_gps"="Seguimiento de viaje a través de GPS";
+"searching_for_gps"="Buscando el GPS ";
+"tracking_via_gps"="Seguimiento de viaje por GPS";
+//!-- Added on 9' Jun 2017 --
+"dont_show_again"="No mostrar de nuevo";
+"gps_tracking_not_poss"="El rastreo a través de GPS no es posible, ya que Simply Auto no tiene permiso para acceder a la ubicación.";
+"trip_in_progress_noti"="trip en curso";
+"trip_complete_noti"="trip completado";
+"trip_type_updated"="Tipo de viaje actualizado exitosamente";
+//!-- Added on 5' Dec 2017 --
+"auto_trip_disabled"="El viaje automático no funcionará ya que un viaje manual está en progreso";
+"track_via_auto_trip"="Seguimiento a través de Auto Viaje";
+//!-- Added on 8' Oct 2018 --
+"loc_perm_missing_title"="No se puede grabar el viaje automático";
+"loc_perm_missing_msg"="El permiso de ubicación de Simpy Auto ha sido revocado.";
+
+//!-- Added on 25' Feb 2015 --
+//!-- Tax Rates --
+"type_long_click_msg"="*Mantener registro para editar o eliminar el tipo de nombre";
+"add_custom_type"="*Presione un registro para editar o borrar";
+"invalid_type"="Tipo";
+"pro_title_add_type"="Tipo de viaje Invalido";
+"invalid_at_msg1"="Valor de salida del Odometro Invalido";
+"invalid_at_msg2"="Valor de llegada del Odometro invalido";
+"invalid_at_msg3"="Valor de llegada no puede ser menor al Valor de salida del odometro";
+"invalid_at_msg4"="La Fecha y hora de Llegada no puede ser antes de la fecha de salida.";
+"add_new"="Agregar Nuevo";
+//!-- Added on 24' Aug 2015 --
+"edit_custom_type"="Editar tipo de viaje";
+"edit_trip_type_hint"="Tipo de viaje";
+"err_loc_sesdfrvices"="Error al conectarse a los servicios de ubicación";
+//!-- Added on 24' Aug 2015 --
+"invalid_at_msg5"="Distancia de viaje inválida";
+"needs_tracking_via_GPS"="(Necesita seguimiento vía GPS)";
+
+//!-- Added on 10' Mar 2015 --
+//!-- Translate Form --
+"translate_main_msg"="¿Quieres ayudarnos a traducir Simply Auto en tu idioma? ¿O ve un error en la traducción? Por favor, póngase en contacto con nosotros. Nosotros damos regalos a nuestros ayudantes :)";
+"translate_to"="Puedo traducir del inglés al";
+"translate_to_hint"="Ingrese idioma";
+"translate_email"="Email";
+"comments"="Comentarios";
+"translate_submit_err"="Por favor complete el idioma y la dirección de correo electrónico";
+"translate_thanks"="Gracias. Nos pondremos en contacto contigo pronto.";
+
+//!-- Added on 21' Jul 2015 --
+//!-- Schedule Receiver --
+"auto_backup_err"="Falla en Respaldo Automatico";
+"auto_backup_err_desc"="Fallo al respaldar en Google Drive, por favor contacte a soporte tecnico.";
+
+//!-- Added on 12' Aug 2015 --
+//!-- Email --
+"trips"="Viajes";
+
+//!-- Added on 1' Sep 2015 --
+//!-- Receipt viewer --
+"del_receipt_title"="Eliminar recibo";
+"del_receipt_msg"="¿Seguro que quieres borrar el recibo?";
+
+//!-- Added on 12' Feb 2017 --
+//!-- Graph Help --
+"pinch_zoom"="Ampliar con los dedos";
+"pan"="Pan";
+
+
+//!-- Added on 16' Mar 2015 --
+//!-- Sync --
+"sign_diff_id"="Autenticarse con otro usuario.";
+"t_and_c"="Estoy de acuerdo con los Términos de Servicio y la Política de Privacidad de Simply Auto";
+"pattern1"="Términos de servicio";
+"pattern2"="Política de privacidad";
+"accept_t_and_c"="Por favor acepta los términos de servicio";
+"err_internet"="conexion a internet no disponible";
+"sign_in_error"="Error";
+"error_adding_profile"="Parece que tu e-mail ya existe en otro dispositivo. Intente con otro email o remuevelo del otro dispositivo.";
+"error_retriving_google_id"="Error obteniendo Informacion desde Google, Contacte a Soporte Tecnico a support-ios@simplyauto.app";
+"error_retriving_data"="Error obteniendo/agregando datos, Contacte a Soporte Tecnico a support-ios@simplyauto.app";
+"pb_connecting"="Registrandose";
+"pb_searching"="Buscando";
+"error_retriving_search"="Error obteniendo resultados de busqueda. Por favor contacte a soporte tecnico a support-ios@simplyauto.app";
+"no_search_name"="Por favor ingrese un nombre valido para buscar";
+"no_records_found"="No se encontraron registros";
+"pb_sending_req"="Enviado Peticion";
+"error_adding_friend"="Algo salio mal. Intente de nuevo o contacte a soporte a  support-ios@simplyauto.app";
+"succesfully_added_friend"="Agregado como Amigo";
+"duplicate_friend"="Ya eres amigo de ";
+"google_play_err"="Necesitas Google Play en tu dispositivo.";
+"err_sync"="Fallo al sincronizar informacion con tus amigos";
+"sync_noti_title"="Registro sincronizado";
+"sync_add_fu_noti_msg1"="Recien rellenado";
+"sync_add_fu_noti_msg3"="Precio:";
+"sync_upd_fu_noti_msg1"="Recien actualizada recarga para";
+"sync_del_fu_noti_msg1"="Recien borrada recarga para";
+"sync_add_service_noti_msg1"="Recien Servido";
+"sync_add_service_noti_msg2"="Servicios:";
+"sync_upd_service_noti_msg1"="Recien actualizado servicio para";
+"sync_del_service_noti_msg1"="Recien borrado servicio para";
+"sync_add_exp_noti_msg1"="Recien agregado servicio para";
+"sync_add_exp_noti_msg2"="Gastos:";
+"sync_upd_exp_noti_msg1"="Recien actualizado gasto para";
+"sync_del_exp_noti_msg1"="Recien borrado gasto para";
+"sync_add_trip_noti_msg1"="Recien agregado viaje para";
+"sync_upd_trip_noti_msg1"="Recien actualizado viaje para";
+"sync_del_trip_noti_msg1"="Recien borrado servicio para";
+"sync_failure_noti_title"="Fallo la sincronizacion";
+"sync_failure_noti_msg1"="Fallo al sincronizar informacion desde";
+"sync_failure_noti_vehid_err"="No encontrado";
+"sync_friend_req_title"="Conductor Solicitado";
+"sync_friend_confirmed_title"="Conductor Confirmado";
+"sync_friend_req"=" Quiere agregarte como conductor";
+"sync_friend_confirmed"=" A sido confirmado como conductor";
+"requested"="Solicitado";
+"confirm"="Confirmar";
+"pb_confirming_req"="Confirmando Solicitud";
+"error_confirming_friend"="Algo salio mal. Intente confirmar de nuevo o contacte a soporte a  support-ios@simplyauto.app";
+"delete_friend_title"="Eliminar Conductor";
+"delete_friend_msg"="Estas seguro de eliminar al conductor ";
+"pb_deleting"="Eliminando Conductor";
+"error_deleting_friend"="No se pudo eliminar al conductor";
+"sync_friend_deleted_title"="Conductor eliminado";
+"sync_friend_deleted"=" te ha eliminado como conductor";
+"full_sync_request_title"="Enviar solicitud completa de sincronizacion";
+"full_sync_request_msg_1"="Quieres enviar una solicitud para sincronizar tu informacion con?";
+//"full_sync_request_msg_2"="\?";
+"full_sync_request_noti_title"="Solicitud de sincronizacion completa";
+"full_sync_request_noti_msg"=" Quiere sincronizar su informacion de Simply Auto con tu dispositivo";
+"full_sync_title"="Sincronizacion completa";
+"full_sync_msg"="Queires sobreescribir tu informacion de Simply Auto con esta informacion?";
+"full_sync_success"="Informacion ha sido sincronizada exitosamente. Por favor activa un vehiculo desde el menu.";
+"full_sync_err"="Error al sincronizar info. contacte a soporte a  support-ios@simplyauto.app";
+"sync_deregister_title"="Desincronizar";
+"sync_deregister_msg"="Quieres desincronizar? Deberas iniciar sesion de nuevo para enviar y recibir informacion con otros dispositivos.";
+"pb_deregistering"="Eliminado registro";
+"err_deregistering"="Error al eliminar registro";
+"or"="o";
+"hint_username"="Nombre de Usuario";
+"hint_email"="Email";
+"hint_username_email"="email";
+"submit"="Enviar";
+"sign_in"="Ingresar";
+"add_driver"="Agregar Conductor";
+"no_val_entered"="Ingrese valido o email para buscar";
+"driver_requests"="Solicitudes de conductores";
+"no_driver_requests"="No tienes solicitudes pendientes de conductores.";
+"full_sync_requests"="Solicitudes de sincronizacion";
+"no_full_sync_requests"="No tienes solicitudes de sincronizacion pendientes";
+"sync_help1_go_pro_to_sync"="Esta disponible en la version PRO.";
+"got_it"="Lo entendi.";
+"sync_help_add_driver_msg"="Agrege un conductor para empezar a sincronizar informacion. Asegurese que el mismo vehiculo existe en ambos dispositivos. Cualquier cambio que realices se reflejara en todos los dispositivos.";
+"sync_help_full_sync_driver_msg"="Para agregar tu informacion al dispositivo de otro conductor, presione el boton Sincronizacion completa. Es recomendado que hagas esto la priomera vez que agregas un conductor.";
+"sync_help_delete_driver_msg"="Para detener la sincronizacion de informacion con un conductor, debes eliminarlo de tu lista.";
+"sync_help_driver_req_msg"="Las solicitudes  de conductores pendientes seran mostradas aqui. Solo hasta que confirmes la sincronizacion con el conductor sera habilitada.";
+"sync_help_full_sync_req_msg"="Las solicitudes de sicronizacion  de otros conductores apareceran aqui";
+"sync_help_deregister_msg"="Presione este boton para detener la sincronizacion automatica. Tu dispositivo ya no enviara o recibira informacion.";
+"sync_full_sync_req_footer"="Las solicitudes no atendidas seran eliminaedas despues de siete dias.";
+"sync_tip_on_confirming_friend_title"="Consejo";
+"sync_tip_on_confirming_friend_msg"="Es recomendado que inicialmente realices una Sincronizacion completa de informacion desde uno de los dispositivos. Esto asegurara que ambos dispositivos esten actualizados. To Sincronizacion completa Presione el boton mostrado abajo,  contra el nomb";
+"err_invalid_name_email"="Ingrese un nombre de usuario o email valido";
+"sync_file_found"="Los datos para su correo electrónico ya existen en la nube. ¿Desea sobrescribir los datos en este teléfono con los datos disponibles en la nube?  (Para verificar los datos en la nube, inicie sesión en www.simplyauto.app)";
+"sync_new_data_on_server"="Se han detectado nuevos datos en la nube. ¿Desea sobrescribir los datos en este teléfono con los datos disponibles en la nube?";
+"sync_overwrite_phone"="Sí, sobrescribir datos en este teléfono.";
+"sync_overwrite_cloud"="No, usar los datos de mi teléfono (esto sobrescribirá los datos en la nube)";
+"sync_cloud_overwritten"="Datos del teléfono respaldados en la nube";
+"sync_data_exists_on_cloud"="Los datos existen en la nube.";
+"cloud_sync_upload_err"="Error al subir los datos a la nube. Por favor, póngase en contacto con el soporte en support-ios@simplyauto.app.";
+"cloud_sync_download_err"="Error al descargar datos de la nube. Por favor, póngase en contacto con el soporte en support-ios@simplyauto.app.";
+"downloaded_cloud_data_successfully"="Los datos descargados con éxito de la nube.";
+"last_sync"="Última sincronización: ";
+"sync_help"="Tutorial de sincronizacion";
+"sync_help_sign_in_msg"="Inicie sesión con su ID de Gmail para comenzar a almacenar datos en la nube. Si desea mantener múltiples dispositivos, que le pertenecen, sincronizados, inicie sesión con la misma ID en todos los dispositivos.";
+"sync_sign_in_you_can"="Después de iniciar sesión puede:";
+"sync_sign_in_1"="Copia de seguridad instantánea de datos en la nube";
+"sync_sign_in_2"="Sincronización en múltiples dispositivos";
+"sync_sign_in_3"="Accede a tus datos en www.simplyauto.app*";
+"sync_sign_in_4"="Sincronización de datos con múltiples controladores*";
+"sync_sign_in_5"="Copia de seguridad instantánea de recibos en la nube*";
+"sync_sign_in_footnote"="*Disponible solo en la versión pro.";
+"sync_full_sync_err"="Necesita al menos un vehículo para sincronizar completamente sus datos con otro conductor";
+"gmail_read_err"="ID de Gmail no encontrada.";
+"pb_overwriting"="Sobrescribiendo datos";
+"pb_uploading"="Subiendo datos a la nube";
+"resync"="Volver a sincronizar";
+"deregister"="Borrar registro";
+"help"="Ayuda";
+"sync_resync_title"="Volver a sincronizar";
+"sync_resync_msg"="¿Desea sobrescribir los datos en este teléfono con los datos disponibles en la nube?  (Para verificar los datos en la nube, inicie sesión en www.simplyauto.app)";
+"out_of_sync_title"="Datos fuera de sincronización";
+"out_of_sync_msg"="Utilice la opción de resincronización en Mi cuenta en la nube para sincronizar los datos con la nube.";
+"pb_deleting_all"="Borrando todos los datos";
+"pb_downloading_vehicles"="Descargando vehiculos";
+"pb_downloading_logs"="Descarga de registros";
+"pb_downloading_receipt"="Descarga de recibos";
+"pb_waiting_for_response"="Esperando respuesta del servidor";
+"err_sync_with_driver"="Error al sincronizar los datos con otros controladores";
+"receipt_pro_only"="*Las imágenes de recibo no están respaldadas en la versión gratuita.";
+
+//!-- Sync Splash Screen --
+"cloud_backup_header"="Nunca pierdas tus datos de nuevo.";
+"cloud_backup_msg"="Todos sus datos se copian instantáneamente en la nube.";
+"desktop_access_header"="Accede a tus datos en el escritorio.";
+"desktop_access_msg"="Obtenga acceso a todos sus datos en www.simplyauto.app.";
+"device_sync_header"="Sincronización a través de múltiples dispositivos.";
+"device_sync_msg"="¿Usar múltiples dispositivos? No hay problema. Simply Auto mantiene sincronizados los datos de todos tus dispositivos.";
+"driver_share_header"="Sincronización entre varios drivers.";
+"driver_share_msg"="¿Su vehículo es compartido entre varios conductores? Simply Auto te permite invitar a otros controladores y sincronizar datos con ellos.";
+"recurring_string" = "*You can set reminders for recurring tasks only";
+//!-- Cloud Help --
+"cloud_help"="Ayuda en la nube";
+"help_backup"="Copia de seguridad en la nube";
+"help_web"="Simply Auto web";
+"help_multi_devices"="Sincronización en múltiples dispositivos";
+"help_multi_drivers"="Sincronización entre varios drivers";
+"cloud_help_backup1"="Para asegurarse de que sus datos estén respaldados de manera segura e instantánea en nuestro servidor en la nube, debe  Iniciar sesión en la nube  desde el menú principal.";
+"cloud_help_backup2"="Restaurar los datos de su copia de seguridad es tan fácil como volver a iniciar sesión en su cuenta.";
+"cloud_help_backup3"="Le recomendamos que realice copias de seguridad manuales ocasionales en su cuenta de Google Drive desde la opción Copia de seguridad de Google Drive'.";
+"cloud_help_web_main"="Visite www.simplyauto.app y haga clic en el botón Iniciar sesión para acceder a sus datos de Simply Auto en la web.";
+"help_backup_main"="ayuda de respaldo principal";
+"help_backup_deregister"="ayuda de copia de seguridad";
+"help_web_main"="ayuda web principal";
+"help_sync_devices_main"="ayudar a sincronizar dispositivos principales";
+"help_sync_driver_add_driver"="ayudar a sincronizar controlador agregar controlador";
+"help_sync_driver_del_driver"="ayudar a sincronizar driver del driver";
+"help_sync_driver_driver_req"="ayudar a sincronizar el driver requerido";
+"help_sync_driver_fs_req"="ayuda sincronizar driver fs req";
+"help_sync_driver_fs_driver"="ayudar a sincronizar el controlador fs controlador";
+"help_sync_devices1"="Si posee varios dispositivos y desea mantener sus datos de Simply Auto sincronizados en estos dispositivos, inicie sesión en la nube con la misma ID en todos los dispositivos.";
+
+//!-- Help --
+"contact_us"="Contáctenos";
+"contact_us_desc"="Preguntas? ¿Necesitas ayuda?";
+"feedback_desc"="Sugerencias Peticiones de características.";
+"feedback_msg"="¿Sugerir una característica? ¿Reportar un error? ¡O solo dejar un hola!Nos encanta saber de nuestros usuarios.Nuestra respuesta se mostrará en la propia aplicación.";
+"feedback_email"="Email (opcional)";
+"feedback_thanks"="¡Gracias por los comentarios!";
+"feedback_msg_empty"="Por favor ingrese un mensaje válido";
+
+//!-- Auto Trip Settings --
+"auto_drive_detect_menu"="Registro de viaje automático";
+"auto_drive_detection"="Registro de viaje automático";
+"def_trip_type"="Tipo de viaje predeterminado";
+"weekdays"="Entre semana";
+"weekend"="Fin de semana";
+"do_not_track"="No detectar viajes los fines de semana.";
+"loc_mode_title"="Modo de ubicación";
+"loc_mode_msg"="El modo de ubicación debe configurarse en Alta precisión para que el registro automático de viajes funcione correctamente. Puede hacerlo ingresando a la configuración del teléfono Ubicación.";
+"take_me_there"="Llévame allí";
+"ill_do_it_myself"="Lo hare yo mismo";
+"loc_off_title"="Registro de viaje automático deshabilitado";
+"loc_off_msg"="Toque aquí para cambiar la ubicación";
+"loc_mode_low_title"="El registro de viaje automático puede no funcionar";
+"loc_mode_low_msg"="Toque aquí para cambiar la ubicación a Alta precisión";
+"loc_service_start_fail"="Error al iniciar el registro de viaje automático";
+"view_edit_tax_rates"="Ver / Editar tasas de impuestos";
+"noti_trips_remaining_title"="viajes automáticos gratis restantes";
+"noti_trips_remaining_msg"="La versión gratuita permite 15 viajes automáticos por mes. Después de lo cual puede actualizar o continuar el registro manualmente.";
+"noti_free_trips_over_title"="Actualización para el registro automático ilimitado de viajes";
+"noti_free_trips_over_msg"="Ha finalizado su cuota de 15 viajes automáticos para este mes. Actualizar o registrar viajes manualmente.";
+"free_trips_remaining"="Viajes gratis restantes este mes:";
+"go_pro_for_auto_logging"="a Platino para el registro automático ilimitado de viajes";
+"first_auto_trip_check_title"="Disparo automático habilitado";
+"first_auto_trip_check_msg"="El viaje automático ahora detectará automáticamente sus unidades y las guardará como viajes. Esta función puede necesitar un par de viajes para comenzar a calcular con precisión.";
+
+//!-- Add trip help --
+"enable_odo_fields"="Para ingresar los valores del odómetro de salida y llegada, habilite los campos desde aquí.";
+"enable_auto_trip"="Para habilitar el registro de viaje automático, vaya a Registro de viaje automático en el menú principal.";
+
+//!-- customize at --
+"customize_at"="Personalizar Agregar pantalla de viaje";
+"show_odo"="Mostrar odometro para viajes";
+
+//!-- Report --
+"email_to"="Enviar este informe por correo electrónico a";
+"report_dates"="Incluir datos para:";
+"report_date_range_0" = "Todo el tiempo";
+"report_date_range_1" = "Este mes";
+"report_date_range_2" = "El mes pasado";
+"report_date_range_3" = "Últimos 90 días";
+"report_date_range_4" = "Este año";
+"report_date_range_5" = "El año pasado";
+"report_date_range_6" = "Fechas personalizadas";
+"include_raw_data"="Incluir datos en bruto";
+"file_type"="Tipo de archivo:";
+"csv"="CSV";
+"pdf"="PDF";
+"include_receipts"="Incluir recibos";
+"gen_report"="Generar informe";
+"automated_report"="Informes automatizados";
+"pb_sending_raw_data"="Enviando datos en bruto ";
+"pb_sending_receipts"="Enviando recibos ";
+"err_generating_rep"="Error generando informe";
+"no_email_msg"="Introduzca una dirección de correo electrónico válida para enviar el informe a.";
+"no_data_found"="No se encontraron datos para las fechas seleccionadas";
+"dep_date"="Fecha de salida";
+"dep_odo"="Salida odo";
+"dep_loc"="Salida loc";
+"arr_date"="Fecha de llegada";
+"arr_odo"="Llegada Odo";
+"arr_loc"="Llegada Loc";
+"upgrade_gp_err"="Para adjuntar datos en bruto y archivos csv, por favor compre una actualización";
+"emails_send_to"="Los informes serán enviados por correo electrónico a";
+"schedule"="Programar:";
+"report_schedule_0"="Semanal";
+"report_schedule_1"="Mensual";
+"start_schedule"="Comenzar el horario";
+"generating_graphs"="Generando gráficos ";
+"generating_email"="Generando correo electrónico ";
+"total_fillups"="Rellenos totales";
+"total_services"="Servicios totales";
+"report_success_msg"="Su informe ha sido enviado por correo electrónico";
+"alarm_set_weekly"="¡Gracias! Sus reportes serán enviados cada domingo a las 8 AM.";
+"alarm_set_monthly"="¡Gracias! Sus reportes se enviarán cada último día de cada mes a las 8 AM.";
+"stop_sched"="Detener el horario";
+"alarm_stop_schedule"="¡Gracias! Dejaremos de enviarle reportes.";
+"auto_report_sent_noti_msg"="Su informe ha sido enviado a";
+"go_pro_auto_report_msg"="Para programar informes automáticos, actualice a la membresía Platino.";
+"fuel_cost_analysis"="ANALISIS DE COSTOS DE COMBUSTIBLE";
+"upcoming_reminders"="RECORDATORIOS PRÓXIMOS";
+"total_service_cost"="Costo total del servicio";
+"all_vehicles"="Todos los vehiculos";
+
+//!-- New Dashboard --
+"recent_log"="Entradas de registro recientes";
+"tax_deductions"="Deducción impuestos";
+"fuel_cost_dashboard"="Costo de combustible en losúltimos 30 días.";
+"fill_ups_dashboard"="Rellenos en los últimos 30 días.";
+"trips_dashboard"="Viajes en30 minutos";
+"trip_dashboard"="Viaje enúltimos 30 dias";
+"tax_ded_dashboard"="Deducciones fiscales en los últimos 30 días.";
+"overdues_dashboard"="Retraso de recordatorios";
+"upcomings_dashboard"="Próximos recordatorios";
+"overdue_dashboard"="Retrasado recordatorios";
+"upcoming_dashboard"="Próximo recordatorio";
+"services_dashboard"="Servicios en losúltimos 30 días.";
+"tax_ded"="Deducciones fiscales";
+"show_all"="Mostrar todo";
+"average"="Promedio";
+
+//!-- Onboarding --
+"onboarding_expenses"="Mantenga los gastos de su vehículo bajo control mediante el seguimiento del consumo de combustible y otros gastos.";
+"onboarding_servicing"="Mejore la vida de su vehículo con servicios y mantenimiento oportunos.";
+"onboarding_trip"="Registre sus viajes para realizar un seguimiento de sus deducciones de impuestos.";
+"onboarding_cloud"="Inicie sesión en la nube para realizar copias de seguridad instantáneas, compartir datos con otros controladores y sincronizar datos entre dispositivos.";
+
+//!-- Maps --
+"maps"="Mapas";
+"fillups_and_services"="Rellenos y & Servicios";
+"am"="AM";
+"pm"="PM";
+"go_pro_for_trip_maps"="Para ver los mapas de viaje, actualice a la membresía Platino.";
+"privacy_popup_desc"="Simply Auto podría recopilar información anónima de ubicación para brindar una mejor experiencia. Al hacer clic en 'Aceptar' en esta ventana emergente, usted acepta compartirla con Cuebiq con fines relacionados a mejora su experiencia publicitaria, me";
+"review_policy"="Política de revisión";
+"deny"="Negar";
+"agree"="De acuerdo";
+
+//!-- to be deleted --
+"downloading_cloud_data"="Descargando datos desde la nube";
+"lets_get_stared"="EMPECEMOS";
+
+
+//Support 3 April 2019
+"support" = "Support";
+"support_msg"="Hi! How can we help?";
+"message"="Message";
+"email_err"="Please enter a valid email";
+"msg_err"="Please enter a message to send to us";
+"support_send_err"="Sorry, there was an issue submitting. Please try to mail us directly at support-ios@simplyauto.app.";
+"support_sent"="Thank you! We will be in touch with you shortly.";
+"submit"="Submit";
+"pro_priority_support_gold"="Priority support. Response with 48 working hours.";
+"pro_priority_support_platinum"="Priority support. Response with 24 working hours.";
+
+"onboarding_expenses"="Mantenga los gastos de su vehículo bajo control mediante el seguimiento del consumo de combustible y otros gastos.";
+"onboarding_servicing"="Mejore la vida de su vehículo con servicios y mantenimiento oportunos.";
+"onboarding_trip"="Registre sus viajes para realizar un seguimiento de sus deducciones de impuestos.";
+"onboarding_cloud"="Inicie sesión en la nube para realizar copias de seguridad instantáneas, compartir datos con otros controladores y sincronizar datos entre dispositivos.";
+
+"skip"="Saltar";
+"lets_get_stared"="EMPECEMOS";

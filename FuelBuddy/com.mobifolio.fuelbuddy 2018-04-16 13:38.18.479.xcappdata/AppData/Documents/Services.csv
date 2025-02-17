@@ -1,0 +1,37 @@
+Row ID,Vehicle ID,Record Type,Service Name,Recurring,Due Miles,Due Days,Last Odo,Last Date
+1,GMC Denali,1,Engine Oil,1,0,0,0,0.000000
+2,GMC Denali,1,Battery,1,0,0,0,0.000000
+3,GMC Denali,1,Tire Rotation,1,0,0,0,0.000000
+4,GMC Denali,1,Wheel Alignment,1,0,0,0,0.000000
+5,GMC Denali,1,Spark Plugs,1,0,0,0,0.000000
+6,GMC Denali,1,Timing Belt,1,0,0,0,0.000000
+7,GMC Denali,2,Fine,0,0,0,0,0.000000
+8,GMC Denali,2,Insurance,0,0,0,0,0.000000
+9,GMC Denali,2,MOT,0,0,0,0,0.000000
+10,GMC Denali,2,Toll,0,0,0,0,0.000000
+11,GMC Denali,2,Tax,0,0,0,0,0.000000
+12,GMC Denali,2,Parking,0,0,0,0,0.000000
+13,GMC Sierra,1,Engine Oil,1,0,0,0,0.000000
+14,GMC Sierra,1,Battery,1,0,0,0,0.000000
+15,GMC Sierra,1,Tire Rotation,1,0,0,0,0.000000
+16,GMC Sierra,1,Wheel Alignment,1,0,0,0,0.000000
+17,GMC Sierra,1,Spark Plugs,1,0,0,0,0.000000
+18,GMC Sierra,1,Timing Belt,1,0,0,0,0.000000
+19,GMC Sierra,2,Fine,0,0,0,0,0.000000
+20,GMC Sierra,2,Insurance,0,0,0,0,0.000000
+21,GMC Sierra,2,MOT,0,0,0,0,0.000000
+22,GMC Sierra,2,Toll,0,0,0,0,0.000000
+23,GMC Sierra,2,Tax,0,0,0,0,0.000000
+24,GMC Sierra,2,Parking,0,0,0,0,0.000000
+25,Chevrolet  Silverado LTZ,1,Engine Oil,1,0,0,0,0.000000
+26,Chevrolet  Silverado LTZ,1,Battery,1,0,0,0,0.000000
+27,Chevrolet  Silverado LTZ,1,Tire Rotation,1,0,0,0,0.000000
+28,Chevrolet  Silverado LTZ,1,Wheel Alignment,1,0,0,0,0.000000
+29,Chevrolet  Silverado LTZ,1,Spark Plugs,1,0,0,0,0.000000
+30,Chevrolet  Silverado LTZ,1,Timing Belt,1,0,0,0,0.000000
+31,Chevrolet  Silverado LTZ,2,Fine,0,0,0,0,0.000000
+32,Chevrolet  Silverado LTZ,2,Insurance,0,0,0,0,0.000000
+33,Chevrolet  Silverado LTZ,2,MOT,0,0,0,0,0.000000
+34,Chevrolet  Silverado LTZ,2,Toll,0,0,0,0,0.000000
+35,Chevrolet  Silverado LTZ,2,Tax,0,0,0,0,0.000000
+36,Chevrolet  Silverado LTZ,2,Parking,0,0,0,0,0.000000

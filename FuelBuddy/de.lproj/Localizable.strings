@@ -1,0 +1,1817 @@
+/* 
+  Localizable.strings
+  FuelBuddy
+
+  Created by Nikhil 02/08/2018.
+  Copyright © 2017 Oraganization. All rights reserved.
+*/
+
+"ok" = "OK";
+"got_it" = "Verstanden";
+"save" = "Speichern";
+"add"="Hinzufügen";
+"no_save" = "Nicht speichern";
+"button_later_for_partial_click" = "Später erneut anzeigen";
+"button_ok_for_tip" = "Ok, danke";
+"cancel" = "Abbrechen";
+"go_pro_btn" = "Go Pro";
+"button_fb_like" = "LIKE!";
+"button_later" = "Später";
+"button_never" = "Nie";
+"restore" = "Wiederherstellung";
+"button_rate_app" = "App bewerten";
+"yes" = "Ja";
+"no" = "Nein";
+"comma_enter_err" = "Keine Kommas und Mehrzeiler erlaubt";
+"date" = "Datum";
+"odometer" = "Kilometerstand";
+"tc_tv" = "Gesamte Kosten";
+"tv_vendor" = "Verkäufer";
+"notes_tv" = "Bemerkungen";
+"mk_model_comma_err" = "Keine Kommas bei Hersteller und Modell";
+"make_tv" = "Marke";
+"model_tv" = "Modell";
+"vin" = "FIN";
+"lic_no_tv" = "Lizenznummer";
+"insurance_no" = "Versicherung #";
+"vehicle" = "Fahrzeug";
+"veh_tv" = "Fahrzeuge";
+"specification_tv" = "Angaben";
+"edit_custom_parts" = "Angaben bearbeiten";
+"edit_fill_up_header" = "Tankvorgang bearbeiten";
+"add_fill_up_header" = "Tankvorgang hinzufügen";
+"first_partial_click_msg" = "Eine Teilfüllung ist ein Tankvorgang, bei dem nicht vollgetankt wurde. Der Durchschnittsverbrauch dieses Eintrags wird bis zum nächsten Volltanken als 'n/a' angezeigt.";
+"first_missed_fu_click_msg" = "Diese Option wählen, wenn ein oder mehrere vorherige Einträge fehlen.";
+"set" = "Einstellen";
+"trp" = "Fahrt";
+"prc_per_unt" = "Preis/Einheit";
+"octane" = "Oktan";
+"fb_tv" = "Kraftstoffmarke";
+"fs_tv" = "Tankstelle";
+"trp_after_first_fu" = "Beim ersten Tankvorgang muss der absolute Kilometerstand eingegeben werden. Bei allen weiteren Tankvorgängen kann die Fahrtstrecke verwendet werden.";
+"fill_up_custom_msg" = "Diesen Bildschirm anpassen, Spalten hinzufügen, entfernen, Belege anhängen, etc.";
+"required" = "(erforderlich)";
+"cust_fus_head" = "Tankvorgangsmaske anpassen";
+"cust_fu_head" = "Wählen Sie Felder die angezeigt werden sollen";
+"odo_trip_tv" = "Wert einzugeben während des Tankvorgangs";
+"trp_distance" = "Fahrtstrecke";
+"pv_msg" = "Kopiere Werte des letzten Tankvorgangs";
+"atuo_brand_fs_msg" = "Automatische Erkennung von Tankstelle und Marke basierend auf dem Standort";
+"view_expense" = "Ausgabe";
+"attach_receipt" = "Belege hinzufügen";
+"add_expenses" = "Kosten hinzufügen";
+"edit_expenses" = "Kosten bearbeiten";
+"qty_required" = "Menge (erforderlich)";
+"pf_tv" = "nicht vollgetankt";
+"mf_tv" = "Fehlender Tankvorgang";
+"comma_err" = "Keine Kommas erlaubt";
+"noti_msg_veh" = "für";
+"reminders" = "Erinnerungen";
+"recurring_string" = "*Sie können Erinnerungen nur für wiederkehrende Aufgaben festlegen";
+//NIKHIL ENH_48
+"reminder_sort_default"="Sortierart";
+"reminder_sort_0" = "Name";
+"reminder_sort_1" = "Fälligkeit";
+"tv_expenses" = "Kosten";
+"last_paid_on" = "Zuletzt gezahlt:";
+"no_payments" = "Keine Zahlungen";
+"tot_services" = "Dienstleistungen";
+"tv_service_center" = "Servicecenter";
+"add_service" = "Service hinzufügen";
+"edit_service" = "Service bearbeiten";
+"date_hint" = "Datum";
+"tv_last_service" = "Letztes Service Datum:";
+"add_service_task_help" = "Neuen Wartungs-Task hinzufügen";
+"dist_tv" = "Strecke";
+"vol_head" = "Tankgröße";
+"cons_head" = "Verbrauch";
+"curr_head" = "Währung";
+"cust_db_head" = "Stats & Charts anpassen";
+"faq" = "FAQ";
+"settings_tv" = "Einstellungen";
+"convert_yes_btn" = "Ja, konvertieren";
+"not_applicable" = "n. a.";
+"odo_short" = "Tacho";
+"in_progress" = "In Bearbeitung";
+"edit" = "Bearbeiten";
+"search_notes_hint" = "Hinweise enthalten (getrennt mit ,)";
+"search_rec" = "Datensatz suchen";
+"search" = "Suche";
+"all" = "Todos";
+"f_u_tv" = "Tankvorgang";
+"tot_expense_cost" = "andere Kosten";
+"expense_task_name" = "Ausgaben-Task Name";
+"service_task_name" = "Wartungs-Task Name";
+"view_service" = "Wartung";
+"ser_reminders"="Wartung Erinnerungen";
+"exp_reminders"="Ausgabe Erinnerungen";
+"last_service" = "Letzter Service:";
+"due_on" = "Kosten:";
+"delete" = "Löschen";
+"days" = "Tage";
+"reminder_due_date_unit_array_1" = "Monate";
+"reminder_due_date_unit_array_2" = "Jahre";
+"pro_gps_trip" = "Verfolge Fahrt per GPS";
+"pro_backup_receipts" = "Sichern und Wiederherstellen von Beleg-Bildern in Google Drive";
+"pro_add_custom" = "Kunden spezifische Services und Kosten mit einbeziehen";
+"pro_ad_free" = "Werbung entfernen";
+"email_btn" = "eMail";
+"abt_btn" = "Über";
+"backup" = "Sicherung";
+"backup_success" = "Sicherung erfolgreich";
+"restore_success" = "Wiederherstellung erfolgreich";
+"backup_descval" = "Sichern Sie alle Ihre Daten in Google Drive";
+"restore_descval" = "Stellen Sie alle Ihre Daten wieder her Google Drive";
+"restore_receipts" = "Wiederherstellen von Belegen von Google Drive?";
+"continue" = "Fortsetzen";
+"Tab3Title" = "Instrumententafel";
+"graph_date_range_0" = "Gesamt";
+"graph_date_range_1" = "Diesen Monat";
+"graph_date_range_2" = "Letzten Monat";
+"graph_date_range_3" = "Dieses Jahr";
+"graph_date_range_4" = "manueller Zeitraum";
+"customize_dashboard_screen_help" = "Diesen Bildschirm anpassen, um neue Statistiken hinzuzufügen oder überflüssige zu entfernen";
+"f_q_tv" = "Kraftstoffmenge";
+"f_c_tv" = "Kraftstoffkosten";
+"tot_service_cost" = "Servicekosten";
+"avg_fuel_tv" = "Durchschnittsverbrauch";
+"fuel_tv" = "Durchschnittsverbrauch";
+"dist_btn_fu_graph_name" = "Entfernung zwischen Tankvorgängen";
+"qty_per_fu_tv" = "Menge pro Tankvorgang";
+"cost_per_fu_tv" = "Kosten pro Tankvorgang";
+"fu_pm_tv" = "Tankvorgänge pro Monat";
+"cpd_tv" = "Kraftstoffkosten/Tag";
+"failed"="Gescheitert";
+//new_7 Add Driver 8june2018
+"sync_failed" = "Synchronisierung fehlgeschlagen";
+
+//ENH_57 3july2018
+"location_access" = "Benötigen Sie einen Standortzugriff, um Tankstellen zu erkennen";
+"go_to_settings" = "Um es wieder zu aktivieren, gehen Sie zu Einstellungen und aktivieren Sie den Standortdienst für diese App.";
+"multiple_receipts" = "Das Anhängen mehrerer Belege ist nur in der Pro-Version möglich";
+"pro_feature_only" = "Diese Funktion ist als Teil der Pro-Version verfügbar";
+"cpmth_tv" = "Spritkosten/Mon";
+"avg_price_tv" = "Durchschnittlicher Preis";
+"eff_oct_tv" = "Verbrauch bei Oktan";
+"eff_brand_tv" = "Verbrauch bei Marke";
+"eff_stn_tv" = "Verbrauch bei Tankstelle";
+"service_cost_tv" = "Servicekosten/";
+"scpd_tv" = "Servicekosten/Tag";
+"ecpd_tv" = "andere Kosten/Tag";
+"expense_cost_tv" = "ndere Kosten/";
+"total_trips" = "Gesamt Touren";
+"total_trip_dist" = "Gesamte Tourenstrecke";
+"total_tax_ded" = "Steuerabzug";
+"trip_by_type" = "Dist. nach Typ";
+"tax_ded_by_type" = "Steuerabzug nach Typ";
+"tot_fig_tv" = "Gesamt";
+"avg_fig_head" = "Durchschnittszahlen";
+"avg_service_head" = "Durchschnittliche Servicekosten";
+"avg_expense_head" = "Durchschnittliche andere Kosten";
+"trip_stats" = "Streckenstatistiken";
+"eff_by_oct_graph_name" = "Verbrauch bei Oktan";
+"eff_by_brand_graph_name" = "Verbrauch bei Marke";
+"eff_by_stn_graph_name" = "Verbrauch bei Tankstelle";
+"trip_dist_by_type_graph_name" = "Distanz nach Fahrtentyp";
+"trip_tax_ded_by_type_graph_name" = "Steuerabzug nach Fahrtentyp";
+"cost_tv" = "Kosten/";
+"view_fill_up" = "Tankvorgang";
+"def_car" = "Standard Fahrzeug";
+"button_later_for_tip" = "Erinnere mich später";
+"trips" = "Fahrten";
+"attach_csv" = "CSV-Dateien anhängen";
+"sel_fields" = "Felder auswählen";
+"footnote_for_email" = "*Mit Simply Auto senden";
+"total" = "Fahrten gesamt";
+"trip_by_type_tv" = "Dist. nach Typ";
+"tax_ded_by_type_tv" = "Steuerabzug nach Typ";
+"no_records_found" = "Keinen Datensatz gefunden";
+"date_time" = "Datum/Zeit";
+"location" = "Ort";
+"type" = "Typ";
+"dist_traveled" = "gefahrene Strecke";
+"time_traveled" = "gefahrene Zeit";
+"tax_deduction_rate" = "Steuerabzug Wert";
+"tax_deduction_amount" = "Steuerabzug";
+"qty_tv" = "Menge";
+"departure" = "Abfahrt";
+"arrival" = "Ankunft";
+"add_trip" = "Fahrt hinzufügen";
+//NIKHIL BUG_127 //added edit trip string
+"edit_trip" = "Fahrt bearbeiten";
+"end_trip" = "Beende Fahrt";
+"start_trip" = "Starte Fahrt";
+"add_new" = "Neu hinzufügen";
+"trip_started" = "Fahrt gestartet";
+"trip_in_progress" = "Fahrt im Gange";
+"export" = "Manuelle Sicherung";
+"imp" = "Manuelle Wiederherstellung";
+"exim_btn" = "Google Drive Sicherung";
+"from_date_head" = "Von:";
+"to_date_head" = "Bis:";
+"year" = "Jahr";
+"invalid_email" = "Ungültige E-Mail";
+"enter_valid_email" = "Bitte geben Sie die richtige E-Mail-Adresse ein";
+"part_name" = "Name";
+"part_val" = "Wert";
+"mi" = "mi";
+"kms" = "km";
+"ltr" = "Ltr";
+"gal" = "gal";
+"disp_miles" = "Meilen";
+"disp_kilometers" = "Kilometer";
+"disp_litre" = "Liter";
+"disp_gal_us" = "Gallonen(US)";
+"disp_gal_uk" = "Gallonen(UK)";
+"disp_kmpl" = "km/l";
+"disp_lp100kms" = "l/100km";
+"disp_mpg_us" = "mpg (US)";
+"disp_mpg_uk" = "mpg (UK)";
+"missed_fillup" = "Verpasste Tankfüllung";
+"customize_tv" = "Simply Auto anpassen";
+"invalid_at_msg3" = "Ankunfts-Km-Stand kann nicht kleiner sein als bei der Abfahrt";
+"add_custom_parts" = "Angaben hinzufügen";
+"cost_per_unit_tv" = "Preis/";
+"pro_messsage_add_custom" = "Unbegrenztes Hinzufügen von Services ist in der Pro-Version möglich";
+"pro_messsage_add_expense" = "Unbegrenztes Hinzufügen von Ausgaben ist in der Pro-Version möglich";
+"incorrect_odo" = "Falscher Kilometerstand";
+"non_recurring_reminder_click" = "Erinnerungen können nur für wiederkehrende Services und Ausgaben festgelegt werden";
+"no_veh_id" = "Keine Fahrzeug ID";
+"set_reminder" = "Erinnerung einrichten";
+"overdue_noti" = "Overdue Service";
+"err_internet" = "Internet Verbindung nicht verfügbar";
+"loading_msg" = "Bitte warten..";
+
+//Nikhil 18April2018
+"searching_msg" = "Suche..";
+"pur_thanks" = "Vielen Dank für Ihren Einkauf! Vielleicht müssen Sie sich abmelden und erneut anmelden, damit der Kauf erkannt wird.";
+"confirm" = "Bestätigen";
+"purchase_btn" = "Kaufen";
+"customize_message" = "Möchten Sie Simply Auto an Ihre Firma oder persönlichen Bedürfnisse anpassen?\nBitte kontaktieren Sie uns über support-ios@simplyauto.app und wir werden Ihnen sicher helfen.";
+"invalid_veh_msg1" = "Marke und Modell dürfen nicht leer sein";
+"backup_receipts" = "Füge Quittungs kopie dem Back up zu";
+"google_ac_err" = "Zugang zu Ihrem Google Konto fehlgeschlagen";
+"exp_success_noti_msg" = "Daten erfolgreich auf Google Drive gesichert";
+"services_err_title" = "Services.csv Fehler";
+"fuel_log_err_title" = "Fuel_Log.csv Fehler";
+"vehicle_err_title" = "Vehicle.csv Fehler";
+"receipt_upload_failed" = "Fehler beim Sichern der Belege";
+"imp_err_msg" = "Wiederherstellung fehlgeschlagen. Bitte kontaktieren Sie den Support unter suppoert@simplyauto.app";
+"receipts_backup_restore_go_pro" = "Die kostenlose Version ermöglicht nur das Sichern und Wiederherstellen von Daten. Rechnungsbelege können in der Pro-Version gesichert und wiederhergestellt werden.";
+"custom_date_err" = "Stelle sicher, das die eingegebenen Daten korrekt sind.";
+"like_us_msg" = "Sie mögen Simply Auto? Warum zeigen Sie dies nicht mit einem Like auf Facebook?";
+"email_user_err" = "Bitte stellen Sie sicher, dass die Daten und wenigstens ein Feld ausgewählt sind";
+"trip_complete" = "Fahrt beendet";
+"invalid_at_msg4" = "Ankunftszeit kann nicht kleiner sein als bei der Abfahrt";
+"enable_location" = "Standort aktivieren";
+"gps_tracking_not_poss" = "Tracking über GPS ist nicht möglich, da Simply Auto keine Zugriffsberechtigung für den Standort hat.";
+"trip_go_pro_msg" = "Um Fahrten über GPS zu tracken, erwerben Sie bitte ein Upgrade";
+"receipt" = "Beleg";
+"record_type" = "Eintragstyp";
+"more" = "Mehr";
+"not_serviced" = "nicht eingetragen";
+"privacy_policy" = "Datenschutzrichtlinie";
+"edit_trip_type_hint" = "Fahrtentyp";
+
+//Sync words
+"cloud_backup_header" = "Verlieren Sie nie wieder Ihre Daten.";
+"desktop_access_header" = "Greifen Sie auf Ihre Daten auf dem Desktop zu.";
+"device_sync_header" = "Synchronisierung über mehrere Geräte.";
+
+"cloud_backup_msg" = "Alle Ihre Daten werden sofort in der Cloud gesichert.";
+"desktop_access_msg" = "Erhalten Sie Zugriff auf alle Ihre Daten auf www.simplyauto.app.";
+"device_sync_msg" = "Verwenden Sie mehrere Geräte? Kein Problem. Simply Auto hält Daten auf allen Ihren Geräten synchron.";
+
+"sign_in" = "Anmelden";
+"sync_btn" = "In Cloud anmelden";
+"sync_btn_after_login" = "Mein Cloud-Konto";
+"resync" = "Resync";
+"full_sync_title" = "Voll Sync";
+"sync_data_exists_on_cloud" = "Datensatz in der Cloud vorhanden";
+"sync_new_data_on_server" = "Neuere Daten wurden in der Cloud gefunden. Möchten Sie Daten auf diesem Telefon mit den in der Cloud verfügbaren Daten überschreiben?";
+
+"descLabelFirstTime" = "Daten für Ihre E-Mail-Adresse sind bereits in der Cloud vorhanden. Möchten Sie Daten auf diesem Telefon mit den in der Cloud verfügbaren Daten überschreiben?";
+
+"descLabel1" = "Möchten Sie Daten auf diesem Telefon mit den in der Cloud verfügbaren Daten überschreiben?";
+"descLabel2" = "(Um Daten in der Cloud zu prüfen, loggen Sie sich bitte in www.simplyauto.app ein)";
+"sync_overwrite_phone" = "Ja, Datensatz auf diesem Telefon überschreiben.";
+"sync_overwrite_cloud" = "Nein, Datensatz vom Telefon verwenden (Daten aus der Cloud werden überschrieben)";
+"cloud_help" = "Cloud Hilfe";
+"help_backup" = "In Cloud sichern";
+"help_web" = "Simply Auto Web";
+"help_multi_devices" = "Synchronisierung über mehrere Geräte";
+"help_sync_devices1" = "Wenn Sie mehrere Geräte besitzen und Ihre Simply Auto-Daten auf diesen Geräten synchronisieren möchten, melden Sie sich mit derselben ID auf allen Geräten in der Cloud an.";
+"sync_deregister_title" = "Melden Sie sich von Sync ab";
+//"deregistertitle" = "Deregister from sync";
+"deregistermsg" = "Möchten Sie sich von Sync abmelden? Sie müssen sich erneut anmelden, um Daten vom Server zu senden und zu empfangen";
+"sign_in_failed"="Anmeldung fehlgeschlagen, bitte versuchen Sie es später erneut";
+"failed_confirm_driver"="Fehler beim Bestätigen als Treiber";
+"sync_sign_in_you_can" = "Mit unserem Sync-Feature können Sie:";
+"sync_sign_in_1" = "•Daten in der Cloud speichern";
+//Added star 30may nikhil
+"sync_sign_in_2" = "•Synchronisation auf mehrere Geräte*";
+"sync_sign_in_3" = "•Nie mehr Sorgen über Datenverlust";
+"sync_sign_in_4" = "•Synchronisiere Daten mit mehreren Fahrern *";
+"sync_sign_in_5" = "•Sichern Sie sofort Quittungen in der Cloud*";
+
+"t_and_c" = "Ich stimme den Nutzungsbedingungen von Simply Auto und den Datenschutzbestimmungen zustimmen.";
+"pattern1"= "Nutzungsbedingungen";
+"pattern2" = "Datenschutzbestimmungen";
+"help" = "Hilfe";
+"contact_us" = "Kontaktieren Sie uns";
+
+"backupCloudText" = "Jetzt haben Sie sich in der Cloud angemeldet, Alle Ihre Daten werden sicher und sofort auf unserem Cloud-Server gesichert.\n\nDas Wiederherstellen von Daten aus Ihrem Backup ist so einfach wie das erneute Anmelden in Ihrem Konto.\n\nWir empfehlen, gelegentliche Backups von Ihrem Google Drive-Konto aus zu tätigen 'Google Drive-Sicherung' Möglichkeit.";
+
+"faqfull" = "Häufig gestellte Fragen";
+"cloudHelpTut" = "Tutorial für die Cloud-Funktionalität von Simply Auto";
+"contactDesc" = "Fragen? Brauchen Sie Hilfe?";
+
+"fbwebDesc" = "Besuchen Sie www.simplyauto.app und klicken Sie auf die Schaltfläche 'Anmelden', um auf Ihre Simply Auto-Daten im Internet zuzugreifen.";
+
+"sync_help_deregister_msg" = "Klicken Sie auf diese Schaltfläche, um die Registrierung aus der Cloud aufzuheben. Dadurch wird Ihr Gerät daran gehindert, Daten an die Cloud zu senden oder von dieser zu empfangen.";
+
+//Pro icons  labels
+"backupCloudPro" = "Sichern Sie sofort Belege in der Cloud*";
+"syncIconPro" = "Synchronisierung zwischen mehreren Geräten";
+"websitePro" = "Greifen Sie auf Ihre Daten im Internet zu unter www.simplyauto.app";
+"kahitari"="Unlimited automatic trip logging";
+"loggedInLabel" = "Alle Ihre Daten werden immer in der Cloud gesichert. Sie können auch auf Ihre Daten zugreifen, indem Sie auf klicken www.simplyauto.app.";
+
+"logInAlert" = "Sie haben sich erfolgreich angemeldet";
+
+//31July2018 subscription terms
+"subterms" = "Abonnementbedingungen";
+"subterms2" = "Abonnieren Sie Simply Auto Platinum. Dieses Abonnement wird %@ pro Jahr berechnet.";
+"subterms7" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ monatlich berechnetper month.";
+"subterms3" = "Das Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung ist mindestens 24 Stunden lang deaktiviert.";
+"subterms4" = "Abonnements können vom Benutzer verwaltet werden und die automatische Verlängerung kann deaktiviert werden, indem Sie nach dem Kauf zu den Kontoeinstellungen des Benutzers wechseln.";
+"subterms5" = "Die Zahlung wird dem iTunes-Konto bei der Kaufbestätigung belastet.";
+"subterms6" = "- Die Verlängerung des Kontos erfolgt innerhalb von 24 Stunden vor Ablauf des aktuellen Zeitraums.";
+
+"instantSync" = "Sofortige Synchronisierung Ihrer Belege und Fahrzeugbilder mit der Cloud";
+"threeDrivers" = "Fügen Sie bis zu 3 Treiber hinzu, mit denen Sie Daten synchronisieren können";
+"attachReceipts" = "Fügen Sie mehrere Quittungen für Auffüllungen, Dienstleistungen und Ausgaben bei";
+"emailLogs" = "Senden Sie Ihre Quittungen und Protokolle direkt aus der App";
+"changeVol" = "Ändern Sie die Volumeneinheit für einzelne Füllungen";
+"unlimitedVeh" = "Fügen Sie unbegrenzte Fahrzeuge hinzu";
+"unlimitedDrivers" = "Synchronisieren Sie Daten mit nicht unterstützten Treibern";
+
+//2/8/2018 searchdate
+"search_date_filter_0" = "Datum größer als";
+"search_date_filter_1" = "Datum weniger als";
+"search_odo_filter_0" = "Kilometerzähler größer als";
+"search_odo_filter_1" = "Kilometerzähler kleiner als";
+"add_photo" = "Foto hinzufügen";
+"pb_connecting" = "Anmelden..";
+
+//Driver
+"full_sync_request_noti_msg" = " möchte seine/ihre Simply Auto-Daten mit Ihrem Gerät synchronisieren.";
+"sync_friend_req" = " möchte dich als Fahrer hinzufügen";
+"sync_friend_confirmed"=" hat sich als Fahrer bestätigt";
+"sync_friend_req_title" = "Fahrer Anfrage";
+"sync_friend_confirmed_title" = "Fahrer bestätigt";
+"sync_friend_deleted_title" = "Fahrer gelöscht";
+"sync_friend_deleted" = " hat dich als Fahrer gelöscht";
+"requested"="Angefragt";
+"full_sync_requests" = "Anfragen synchronisieren";
+"no_full_sync_requests" = "Sie haben keine offenen Synchronisierungsanfragen";
+"sync_help1_go_pro_to_sync" = "Diese Funktion ist als Teil der Pro-Version verfügbar";
+"driver_share_header" = "Synchronisieren Sie mehrere Fahrer.";
+"driver_share_msg" = "Ist Ihr Fahrzeug für mehrere Fahrer freigegeben? Mit Simply Auto können Sie andere Fahrer einladen und Daten mit ihnen synchronisieren.";
+"receipt_pro_only" = "*Beleg-Bilder werden nicht in der kostenlosen Version gesichert";
+"sync_sign_in_footnote" = "* Nur in der Pro-Version verfügbar";
+"go_pro_for_unltd_vehicles" = "Um unbegrenzt Fahrzeuge hinzuzufügen, upgraden Sie bitte auf Platinum-Mitgliedschaft.";
+"go_pro_unltd_vehicles_title" = "Unbegrenzt Fahrzeuge hinzufügen";
+"go_pro_unltd_drivers_title" = "Unbegrenzt Fahrer hinzufügen";
+"go_pro_for_unltd_drivers" = "Um unbegrenzt Fahrer hinzuzufügen, upgraden Sie bitte auf Platinum-Mitgliedschaft.";
+
+//multiple receipts
+"multi_recpt_title" = "Mehrere Belege hinzufügen";
+"fillup_unit_change_title" = "Einheit für individuelle Tankfüllung ändern";
+"fillup_unit_change_msg" = "Das Wechseln von Einheiten für einzelne Tankfüllungen ist Teil der erweiterten Version.\n\nIn der kostenlosen Version können Sie die Standardeinheit für die App über Einstellungen ändern.";
+
+//trip
+"business" = "Geschäft";
+"charity" = "Nächstenliebe";
+"medical" = "Medizinisch";
+"personal" = "persönlich";
+"moving" = "Ziehen um";
+"select_trip_type" = "Wählen Sie Reiseart";
+"select_date" = "Datum auswählen";
+"time_traveled" = "Reisezeit";
+"parking" = "Parken";
+
+"search_type_filter_0" = "Alle";
+"search_type_filter_1" = "Tankeinträge";
+"search_type_filter_2" = "Serviceeinträge";
+"search_type_filter_3" = "andere Einträge";
+"search_type_filter_4" = "Touren";
+
+// ALL NEW 1Aug2018
+//Report
+
+"email_to" = "Senden Sie diesen Bericht per E-Mail an";
+"report_dates" = "Enthält Daten für:";
+"report_date_range_0" = "Gesamte Zeit";
+"report_date_range_1" = "Dieser Monat";
+"report_date_range_2" = "Letzter Monat";
+"report_date_range_3" = "Letzte 90 Tage";
+"report_date_range_4" = "Dieses Jahr";
+"report_date_range_5" = "Letztes Jahr";
+"report_date_range_6" = "Benutzerdefinierte Daten";
+"include_raw_data" = "Rohdaten einbeziehen";
+"Datei_Typ" = "Dateityp:";
+"include_receipts" = "Belege einbeziehen";
+"gen_report" = "Bericht erstellen";
+"automated_report" = "Automatisierte Berichte";
+"pb_sending_raw_data" = "Rohdaten senden";
+"pb_sending_receips" = "Senden von Belegen";
+"err_generating_rep" = "Fehler beim Erstellen des Berichts";
+"no_email_msg" = "Geben Sie eine gültige E-Mail-Adresse ein, an die der Bericht gesendet werden soll.";
+"no_data_found" = "Keine Daten für die ausgewählten Daten gefunden";
+"dep_date" = "Abreisedatum";
+"dep_odo" = "Abfahrt Odo";
+"dep_loc" = "Abfahrt Loc";
+"arr_date" = "Ankunftsdatum";
+"arr_odo" = "Ankunft Odo";
+"arr_loc" = "Ankunft Loc";
+"upgrade_gp_err" = "Um Rohdaten und CSV-Dateien anzuhängen, erwerben Sie bitte ein Upgrade";
+"emails_send_to" = "Die Bericht werden per E-Mail gesendet an:";
+"schedule" = "Zeitplan:";
+"report_schedule_0" = "Wöchentlich";
+"report_schedule_1" = "Monatlich";
+"start_schedule" = "Zeitplan starten";
+"stop_schedule"="Zeitplan stoppe";
+"generating_graphs" = "Grafiken erstellen";
+"generating_email" = "E-Mail erstellen";
+"generating_csv"="CSV erstellen";
+"generating_pdf"="PDF erstellen";
+"generating_receipts"="Belege erstellen";
+"total_fillups" = "Auftankung gesamt";
+"total_services" = "Service gesamt";
+"report_success_msg" = "Ihr Bericht wurde per E-Mail gesendet";
+"alarm_set_weekly" = "Vielen Dank! Ihre Berichte werden jeden Sonntag versandt.";
+"alarm_set_monthly" = "Vielen Dank! Ihre Berichte werden jeden letzten Tag eines jeden Monats versandt.";
+"stop_sched" = "Stoppzeitplan";
+"alarm_stop_schedule" = "Vielen Dank! Wir werden keine Berichte mehr senden.";
+"auto_report_sent_noti_msg" = "Ihr Bericht wurde an";
+"go_pro_auto_report_msg" = "Um automatisierte Berichte zu planen, upgraden Sie bitte auf Platinum-Mitgliedschaft.";
+"upgrade"="Aktualisierung";
+"fuel_cost_analysis" = "KRAFTSTOFFKOSTENANALYSE";
+"upcoming_reminders" = "KOMMENDE ERINNERUNGEN";
+"report" = "Bericht";
+"pro_automated_reports" = "Erstellen Sie automatisierte wöchentliche und monatliche Berichte";
+"error_report" = "Fehler beim Erstellen des Berichts";
+"app_terminate"="Hoppla! Die App wird beendet. Die Synchronisierung und der automatische Bericht funktionieren erst, wenn Sie die App erneut öffnen";
+"sign_in_required"="Um automatisierte Berichte zu planen, müssen Sie sich in Cloud anmelden";
+
+//NEW DASHBOARD
+"newTab2Title"="Statistiken und Diagramme";
+"tax_deductions" = "Steuerabzüge";
+"upcoming_dashboard" = "Kommende Erinnerung";
+"upcomings_dashboard" = "Upcoming reminders";
+"fuel_cost_dashboard" = "Kraftstoffkosten derletzten 30 Tage";
+"fill_ups_dashboard" = "Auffüllungen in denletzten 30 Tagen";
+"trips_dashboard" = "Reisen in denletzten 30 Tagen";
+"tax_ded_dashboard" = "Steuerabzüge in den\nletzten 30 Tagen";
+"overdue_dashboard" = "Überfällige Erinnerung";
+"overdues_dashboard" = "Overdue reminders";
+"services_dashboard" = "Services in den letzten 30 Tagen";
+"show_all"= "Alle anzeigen";
+"recent_log"="Letzte Protokolleinträge";
+"expenses_30_days"="Expenses in last 30 days";
+
+//Auto Trip Logging
+"first_auto_trip_check_title"="Automatische Fahrt aktiviert";
+"first_auto_trip_check_msg"="Automatische Fahrt erkennt nun automatisch Ihre Fahrten und speichert sie. Diese Funktion benötigt möglicherweise ein paar Fahrten, um mit der genauen Berechnung zu beginnen.";
+"noti_trips_remaining_title"="kostenlose automatische Fahrten verbleibend";
+"noti_trips_remaining_msg"="Die kostenlose Version ermöglicht 15 automatische Fahrten pro Monat. Danach können Sie die Protokollierung manuell aktualisieren oder fortsetzen.";
+"noti_free_trips_over_title"="Upgrade für unbegrenzte automatische Protokollierung von Fahrten";
+"noti_free_trips_over_msg"="Sie haben Ihr Kontingent von 15 automatischen Reisen für diesen Monat aufgebraucht. Upgraden oder protokollieren Sie Fahrten manuell.";
+"free_trips_remaining"="Kostenlose Fahrten diesen Monat noch:";
+"go_pro_for_auto_logging"="zur unbegrenzten automatischen Protokollierung von Fahrten";
+
+"auto_drive_detect_menu"="Auto-Fahrtenprotokollierung";
+"auto_drive_detection"="Automatische Fahrtenprotokollierung";
+"def_trip_type"="Standard Fahrtentyp";
+"weekdays"="Wochentage";
+"weekend"="Wochenende";
+"do_not_track"="Keine Fahrten am Wochenende ermitteln";
+
+"auto_drive_detect_menu"="Auto-Fahrtenprotokollierung";
+"auto_drive_dialog_msg"="Möchten Sie, dass Simply Auto automatisch Ihre Fahrten protokolliert, so dass Sie die Fahrten nicht manuell eingeben müssen?";
+
+"pro_title_add_type"="Tour Art hinzufügen";
+"edit_custom_type"="Fahrtentyp bearbeiten";
+"tax_deduction_rate"="Steuerabzug Wert";
+"view_edit_tax_rates"="Steuersätze ansehen/bearbeiten";
+
+"accept_t_and_c"="Bitte akzeptieren Sie die Nutzungsbedingungen";
+"track_via_gps"="Fahrt per GPS verfolgen";
+"track_via_auto_trip"="Tracking über automatische Fahrt";
+"maps"="Karten";
+
+//TODO Added 6feb2019
+
+"user_guide"="User guide";
+"user_guide_sub"="A manual for Simply Auto";
+
+//Support 3 April 2019
+"support" = "Support";
+"support_msg"="Hallo! Wie können wir helfen?";
+"message"="Mitteilung";
+"email_err"="Bitte geben Sie eine gültige Email-Adresse ein";
+"msg_err"="Bitte geben Sie eine Nachricht ein, die Sie an uns senden möchten";
+"support_send_err"="Entschuldigung, es ist ein Problem aufgetreten. Bitte mailen Sie uns direkt an unter support-ios@simplyauto.app.";
+"support_sent"="Danke! Wir werden uns in Kürze mit Ihnen in Verbindung setzen.";
+"submit"="Übertragen";
+"pro_priority_support_gold"="Vorrangige Unterstützung. Antwort innerhalb 48 Arbeitsstunden.";
+"pro_priority_support_platinum"="Vorrangige Unterstützung. Antwort innerhalb 24 Arbeitsstunden.";
+
+
+//New german translation
+/*
+string name="add_fill_up_header"    >    Tankvorgang hinzufügen
+string name="edit_fill_up_header"    >    Tankvorgang bearbeiten
+string name="del_fill_up_header"    >    Tankvorgang löschen
+string name="odometer"    >    Kilometerstand
+string name="trp"    >    Fahrt
+string name="NoActVehMsg"    >    Keine aktiven Fahrzeuge
+string name="no_id"    >    Keine Benutzerkennung
+string name="yes"    >    Ja
+string name="ok"    >    OK
+string name="no"    >    Nein
+string name="delete"    >    Löschen
+string name="update"    >    Aktualisieren
+string name="save"    >    Speichern
+string name="cancel"    >    Abbrechen
+string name="set"    >    Einstellen
+string name="not_applicable"    >    k. A.
+string name="cust_btn_msg"    >    Bildschirm anpassen
+string name="date"    >    Datum
+string name="month"    >    Monat
+string name="octane"    >    Oktan
+string name="required"    >    (erforderlich)
+string name="search"    >    Suche
+string name="odo"    >    km:\u0020
+string name="edit"    >    Bearbeiten
+string name="act_veh_msg"    >    Bitte aktivieren oder fügen Sie ein neues Fahrzeug hinzu
+string name="menu_title"    >    Option wählen
+!-- Added on 12'Feb 2014 --    >
+string name="add_service"    >    Service hinzufügen
+string name="edit_service"    >    Service bearbeiten
+string name="delete_service"    >    Service löschen
+string name="add"    >    Hinzufügen
+!-- Added on 6'Dec 2014 --    >
+string name="add_service_expenses"    >    Service, Kosten &amp; Fahrt hinzufügen
+string name="add_expenses"    >    Kosten hinzufügen
+string name="edit_expenses"    >    Kosten bearbeiten
+string name="delete_expenses"    >    Kosten löschen
+!-- Added on 23'Jan 2015 --    >
+string name="add_trip"    >    Fahrt hinzufügen
+!-- Added on 4'Jun 2015 --    >
+string name="send"    >    Senden
+!-- Added on 1'Jul 2015 --    >
+string name="disp_kilometers"    >    Kilometer
+string name="disp_miles"    >    Meilen
+string name="kms"    >    km
+string name="mi"    >    mi
+string name="disp_litre"    >    Liter
+string name="disp_gal_us"    >    Gallonen(US)
+string name="disp_gal_uk"    >    Gallonen(UK)
+string name="ltr"    >    L
+string name="gal"    >    gal
+string name="disp_kmpl"    >    km/l
+string name="disp_lp100kms"    >    l/100km
+string name="disp_mpg"    >    mpg
+string name="disp_mpg_us"    >    mpg(US)
+string name="disp_mpg_uk"    >    mpg(UK)
+!-- Added on 24'Jul 2015 --    >
+string name="disp_kmpg"    >    km/g
+string name="disp_kmpg_us"    >    km/g(US)
+string name="disp_kmpg_uk"    >    km/g(UK)
+string name="disp_mpl"    >    mi/l
+!-- Added on 13'Jun 2017 --    >
+string name="shortcut_disabled"    >    Verknüpfung deaktiviert
+string name="view"    >    Ansicht
+!-- Added on 9'Feb 2018 --    >
+string name="mph"    >    mph
+string name="kmph"    >    km/h
+!-- Added on 30'Apr 2018 --    >
+string name="vehicle"    >    Fahrzeug
+string name="channel_name"    >    Simply Auto
+string name="channel_desc"    >    Simply Auto Benachrichtigungskanal
+>
+!-- ABS Java --    >
+string name="Tab1Title"    >    Log
+string name="Tab2Title"    >    Menü
+string name="Tab3Title"    >    Dashboard
+string name="rate_msg"    >    Nachdem Sie Simply Auto jetzt eine Weile genutzt haben, würden Sie die App bitte bewerten?\nEs würde uns sehr freuen.
+string name="button_rate_app"    >    App bewerten
+string name="button_later"    >    Später
+string name="exit_msg"    >    Simply Auto beenden?
+string name="feedback_response"    >    Antwort auf ihr gesendetes Feedback.
+!-- Added on Aug 17 --    >
+string name="like_us_msg"    >    Sie mögen Simply Auto? Warum zeigen Sie dies nicht mit einem Like auf Facebook?
+string name="button_fb_like"    >    LIKE!
+string name="button_never"    >    Nie
+!-- Added on 4' Jun 2015 --    >
+string name="feedback_hint"    >    Dein Feedback
+!-- Added on 21' Nov 2017 --    >
+string name="auto_drive_dialog_msg"    >    Möchten Sie, dass Simply Auto automatisch Ihre Fahrten protokolliert, so dass Sie die Fahrten nicht manuell eingeben müssen?
+string name="go_to_auto_drive_settings_title"    >    Automatische Fahrtenprotokollierung aktiviert
+string name="go_to_auto_drive_settings_msg"    >    Die automatische Protokollierung von Fahrten wurde aktiviert. Diese Funktion benötigt möglicherweise ein paar Fahrten, um mit der genauen Berechnung zu beginnen.\n\nUm zu deaktivieren oder für andere automatische Fahrteneinstellungen, gehen Sie bitte zu \
+string name="go_pro_for_unltd_vehicles"    >    Um unbegrenzt Fahrzeuge hinzuzufügen, upgraden Sie bitte auf Platinum-Mitgliedschaft.
+string name="go_pro_unltd_vehicles_title"    >    Unbegrenzt Fahrzeuge hinzufügen
+string name="go_pro_unltd_drivers_title"    >    Unbegrenzt Fahrer hinzufügen
+string name="go_pro_for_unltd_drivers"    >    Um unbegrenzt Fahrer hinzuzufügen, upgraden Sie bitte auf Platinum-Mitgliedschaft.
+!-- Added on 15' Aug 2018 --    >
+string name="newTab2Title"    >    Statistik &amp; Diagramme
+!-- Added on 17' May 2019 --    >
+string name="receipt_backup_on_cloud_title"    >    Upgrade um Belege zu speichern
+string name="receipt_backup_on_cloud_msg"    >    Belege wurden nicht in der Cloud gesichert.\n\nBitte kaufen Sie die das Upgrade um Ihre Belege in der Cloud zu sichern
+>
+!-- Fuel Log XML--    >
+!-- May 7th, 2014 --    >
+string name="long_click_msg"    >    Antippen um Eintrag anzuzeigen. Halten (lange drücken) um zu bearbeiten/löschen
+!-- Dec 23rd, 2015 --    >
+string name="vehicles_add_note"    >    Neues Fahrzeug im Menü unter \"Fahrzeuge\" hinzufügen
+string name="get_started"    >    Starte durch drücken der + Taste
+string name="hide_trips"    >    Fahrten verbergen
+>
+!-- Fuel Log Java --    >
+string name="def_car"    >    Standard Fahrzeug
+string name="no_rec_found_msg"    >    Keine Daten gefunden für\u0020
+string name="menu_opt_del"    >    Löschen
+string name="def_msg"    >    Keine Zufallsauswahl
+string name="partial_refill_st"    >    \u0020(P)
+!-- Added on 12/11/2013 --    >
+string name="rec_sel_err"    >    Es gab ein Problem mit der Auswahl
+!-- Added on Feb 2nd, 2015 --    >
+string name="in_progress"    >    In Bearbeitung
+!-- Added on Feb 3nd, 2017 --    >
+string name="never_lose_data"    >    Niemals mehr Daten verlieren
+string name="cloud_suggestion"    >    \'Melden Sie sich in der Cloud an\', um sicherzustellen, dass Ihre Daten immer gesichert werden. Um mehr über diese Funktion zu erfahren, gehen Sie zum Hauptmenü.
+>
+>
+!-- Add Record Java --    >
+string name="header_for_tip"    >    Cooler Tipp
+string name="button_ok_for_tip"    >    Ok, danke
+string name="button_later_for_tip"    >    Erinnere mich später
+string name="cost_per_unit_tv"    >    Preis/
+string name="invalid_val_msg1"    >    \u0020und Menge brauchen einen gültigen Wert
+string name="invalid_val_msg2"    >    Kosten/
+string name="invalid_val_msg3"    >    \u0020muss ein gültiger Wert sein
+string name="invalid_val_msg4"    >    Gesamt Kosten muß ein gültiger Wert sein
+string name="invalid_val_msg5"    >    Ungültige Eingabe
+string name="invalid_val_msg6"    >    Ungültiger Oktan Wert
+string name="rec_add_suc"    >    Daten erfolgreich hinzugefügt
+string name="rec_add_fail"    >    Daten wurden nicht hinzugefügt
+string name="rec_upd_suc"    >    Daten erfolgreich aktualisiert
+string name="rec_upd_fail"    >    Daten nicht erfolgreich aktualisiert
+string name="rec_del_suc"    >    Daten erfolgreich gelöscht
+string name="rec_del_fail"    >    Daten wurden nicht gelöscht
+string name="invalid_no_msg"    >    \u0020ist keine gültige Nummer
+!-- Added on 3/May/2017 --    >
+string name="spk_msg_1"    >    Sprechwert für\u0020
+string name="spk_msg_2"    >    \n\n(sagen \'
+string name="spk_msg_3"    >    \' um diesen Wert zu überspringen)
+!-- Added on 28/9/13 --    >
+string name="add_rec_crash_msg"    >    Hoppla!! Nicht sicher was da passiert ist!
+string name="speech_err"    >    Fehler beim Abruf der Spracherkennung!
+!-- Added on 23/1 --    >
+string name="rcpt_captured"    >    Beleg kopiert
+string name="rcpt_err"    >    Fehler beim Kopieren des Belegs
+string name="rcpt_err_load"    >    Fehler beim Laden des Belegs
+!-- Added on 26/1 --    >
+string name="fill_up_custom_msg"    >    Diesen Bildschirm anpassen, Spalten hinzufügen, entfernen, Belege anhängen, etc.
+!-- Added on 11/10/2014 --    >
+string name="comma_enter_err"    >    Keine Kommas und Mehrzeiler erlaubt
+string name="comma_err"    >    Keine Kommas erlaubt
+!-- Added on 23/Nov/2014 --    >
+string name="first_partial_click_msg"    >    Eine Teilfüllung ist ein Tankvorgang, bei dem nicht vollgetankt wurde. Der Durchschnittsverbrauch dieses Eintrags wird bis zum nächsten Volltanken als \'n/a\' angezeigt.
+!-- Added on 13/2/2015 --    >
+string name="first_missed_fu_click_msg"    >    Diese Option wählen, wenn ein oder mehrere vorherige Einträge fehlen.
+!-- Added on 27/3/2015 --    >
+string name="overdue_noti"    >    Überfälliger Service
+!-- Modified on 27/3/2015 --    >
+string name="noti_msg_veh"    >    \u0020überfällig seit\u0020
+string name="noti_msg1"    >    \u0020am\u0020
+!-- Modified on 24/9/2015 --    >
+string name="trip_started"    >    Fahrt gestartet
+string name="trip_complete"    >    Fahrt beendet
+!-- Modified on 26/9/2015 --    >
+string name="image_source"    >    Bilderquelle auswählen
+!-- Added on 15/1/2016 --    >
+string name="exit"    >    Verlassen?
+string name="save_and_exit"    >    Beenden ohne zu speichern? Um zu speichern, tippe auf die Diskette in der oberen rechten Ecke.
+string name="no_save"    >    Nicht speichern
+!-- Added on 25/1/2016 --    >
+string name="odo_correct_msg"    >    Sicher, dass der Kilometerstand stimmt? Dieser scheint etwas groß zu sein.
+string name="trp_correct_msg"    >    Sicher dass der Kilometerstand stimmt? Dieser scheint etwas groß zu sein.
+!-- Added on 11/2/2016 --    >
+string name="incorrect_odo"    >    Falscher Kilometerstand
+!--Record dated 23-Oct-2016 has an odometer value greater/less than the odometer value you are trying to enter for 21-Oct-2016 --    >
+string name="rec_dated"    >    Eintrag vom
+string name="odo_value_greater"    >    \u0020hat einen höheren Kilometerstand, als der den Sie für\u0020 eingeben wollen
+string name="odo_value_lesser"    >    \u0020hat einen niedrigeren Kilometerstand, als der den Sie für\u0020 eingeben wollen
+!-- Added on 3/5/2017 --    >
+string name="fillup_mic_help"    >    Sprechen, um Werte einzugeben
+!-- Added on 8/6/2017 --    >
+string name="help_loc_for_auto_fs"    >    Schalten Sie den Standort ein, um Marke und Tankstelle automatisch zu erkennen.
+string name="loc_permission_title"    >    Standortgenehmigung
+string name="loc_permission_msg"    >    Simply Auto benötigt Zugriff auf Standortdienste, um die Tankstelle und die Marke automatisch zu übernehmen.
+string name="app_settings"    >    App-Einstellungen öffnen
+string name="loc_permission_for_trip_msg"    >    Simply Auto benötigt Zugriff auf Standortdienste, um Ihre Fahrt per GPS zu ermitteln.
+string name="loc_permission_for_arr_dest_msg"    >    Simply Auto benötigt Zugriff auf Standortdienste, um Ankunfts- und Zielorte automatisch zu übernehmen.
+string name="multi_recpt_title"    >    Mehrere Belege hinzufügen
+string name="multi_recpt_msg"    >    Das Anhängen mehrerer Belege ist nur in der Pro-Version möglich
+string name="fillup_unit_change_title"    >    Einheit für individuelle Tankfüllung ändern
+string name="fillup_unit_change_msg"    >    Das Wechseln von Einheiten für einzelne Tankfüllungen ist Teil der erweiterten Version.\n\nIn der kostenlosen Version können Sie die Standardeinheit für die App über Einstellungen ändern.
+!-- Added on 28/2/2019 --    >
+string name="saving"    >    Speichern&#8230;
+string name="updating"    >    Aktualisieren&#8230;
+string name="deleting"    >    Löschen&#8230;
+string name="spk_msg"    >    Sprechen Sie um den Wert einzutragen
+>
+!-- Add Record XML --    >
+string name="add_fill_up_tv"    >    Tankvorgang hinzufügen
+string name="date_tv"    >    Datum
+string name="qty_tv"    >    Menge
+string name="tc_tv"    >    Gesamte Kosten
+string name="oct_tv"    >    Oktan
+string name="fb_tv"    >    Kraftstoffmarke
+string name="fs_tv"    >    Tankstelle
+string name="notes_tv"    >    Bemerkungen
+string name="req_hint"    >    Nötig
+string name="dpContentDesc"    >    Datumwahl
+string name="micContentDesc"    >    Sprache-zu-Text
+!-- Added on 23/1 --    >
+string name="attach_receipt"    >    Belege hinzufügen
+!-- Modified on 16/1/2015 --    >
+string name="pf_tv"    >    nicht vollgetankt
+!-- Added on 13/2/2015 --    >
+string name="mf_tv"    >    Fehlender Tankvorgang
+!-- Added on 29/12/2015 --    >
+string name="customize_dashboard_screen_help"    >    Diesen Bildschirm anpassen, um neue Statistiken hinzuzufügen oder überflüssige zu entfernen
+string name="tap_to_dismiss"    >    (antippen um abzubrechen)
+!-- Added on 29/12/2015 --    >
+string name="missed_fillup"    >    Verpasste Tankfüllung
+!-- Added on 2/5/2017 --    >
+string name="skip"    >    ÜBERSPRINGEN
+>
+!-- Customize FU Java --    >
+string name="cust_fu_head"    >    Wählen Sie Felder die angezeigt werden sollen
+string name="date_required"    >    Datum (erforderlich)
+string name="odo_required"    >    Km-Stand/Fahrt (erforderlich)
+string name="qty_required"    >    Menge (erforderlich)
+string name="prc_per_unt"    >    Preis/Einheit
+!-- Added on 10/Feb/2015 --    >
+string name="trp_distance"    >    Fahrtstrecke
+!-- Added on 25/Jun/2015 --    >
+string name="trp_after_first_fu"    >    Beim ersten Tankvorgang muss der absolute Kilometerstand eingegeben werden. Bei allen weiteren Tankvorgängen kann die Fahrtstrecke verwendet werden.
+>
+!-- Customize FU Screen XML --    >
+string name="odo_trip_tv"    >    Wert einzugeben während des Tankvorgangs
+string name="pv_msg"    >    Kopiere Werte des letzten Tankvorgangs
+!-- Added on 4/Jul/2016 --    >
+string name="atuo_brand_fs_msg"    >    Automatische Erkennung von Tankstelle und Marke basierend auf dem Standort
+>
+!-- Customize FUS Item XML --    >
+string name="temp_holder"    >    vorübergehend
+>
+!-- Dashboard Java --    >
+string name="avg_price_tv"    >    Durchschnittlicher Preis/
+string name="cost_tv"    >    Kosten/
+string name="eff_oct_tv"    >    Verbrauch bei Oktan(
+string name="eff_brand_tv"    >    Verbrauch bei Marke(
+string name="eff_stn_tv"    >    Verbrauch bei Tankstelle(
+string name="dashboard_go_pro_title"    >    Dashboard Filter
+!-- Added on 7/Nov/2014 --    >
+string name="service_cost_tv"    >    Servicekosten/
+!-- Added on 13/Dec/2014 --    >
+string name="expense_cost_tv"    >    Andere Kosten/
+!-- Added on 14/May/2016 --    >
+string name="trip_by_type"    >    Dist. nach Typ(
+string name="tax_ded_by_type"    >    Steuerabzug nach Typ(
+>
+!-- Dashboard XML --    >
+string name="tot_fig_tv"    >    Gesamt
+string name="dist_tv"    >    Strecke
+string name="f_q_tv"    >    Kraftstoffmenge
+string name="f_c_tv"    >    Kraftstoffkosten
+string name="f_u_tv"    >    Tankvorgang
+string name="avg_fig_head"    >    Durchschnittszahlen
+string name="avg_fuel_tv"    >    Durchschnittsverbrauch
+string name="graph_con_desc"    >    Diagramm
+string name="dist_btn_fu_tv"    >    Strecke seit Tankvorgang
+string name="qty_per_fu_tv"    >    Menge pro Tankvorgang
+string name="cost_per_fu_tv"    >    Kosten pro Tankvorgang
+string name="avg_ppu_tv"    >    Durchschnittspreis/Einheit
+string name="fu_pm_tv"    >    Tankvorgänge pro Monat
+string name="cpm_tv"    >    Kosten/Entfernung
+string name="eff_by_oct_tv"    >    Verbrauch bei Oktan
+string name="eff_by_brand_tv"    >    Verbrauch bei Marke
+string name="eff_by_stn_tv"    >    Verbrauch bei Tankstelle
+!-- Added 6/Nov/2014 --    >
+string name="avg_service_head"    >    Durchschnittliche Servicekosten
+string name="tot_service_cost"    >    Servicekosten
+string name="tot_services"    >    Services
+string name="cpd_tv"    >    Kraftstoffkosten/Tag
+string name="scpm_tv"    >    Servicekosten/Strecke
+string name="scpd_tv"    >    Servicekosten/Tag
+!-- Added 13/Dec/2014 --    >
+string name="tot_expense_cost"    >    andere Kosten
+string name="avg_expense_head"    >    Durchschnittliche andere Kosten
+string name="ecpm_tv"    >    andere Kosten/Strecke
+string name="ecpd_tv"    >    andere Kosten/Tag
+!-- Added 12/Feb/2016 --    >
+string name="cpmth_tv"    >    Spritkosten/Mon
+!-- Added on 14/May/2016 --    >
+string name="trip_by_type_tv"    >    Dist. nach Typ
+string name="tax_ded_by_type_tv"    >    Steuerabzug nach Typ
+!-- Added on 11/Jul/2017 --    >
+string name="monthly_tax_ded"    >    Monatlicher Steuerabzug
+>
+!-- Customize Dashboard Java --    >
+string name="cust_db_head1"    >    Summen die angezeigt werden sollen
+string name="dist_req"    >    Strecke (erforderlich)
+string name="avg_fuel_req"    >    Durchschnittlicher Kraftstoffverbrauch (erforderlich)
+!-- Added on 7/Nov/2014 --    >
+string name="cust_db_head2"    >    Durchschn. Kraftstoffverbrauch soll angezeigt werden
+string name="cust_db_head3"    >    Durchschn. Servicekosten sollen angezeigt werden
+!-- Added on 13/Dec/2014 --    >
+string name="cust_db_head4"    >    Durchschn. andere Kosten sollen angezeigt werden
+!-- Added on 7/Feb/2015 --    >
+string name="cust_db_head5"    >    Tour-Statistik soll angezeigt werden
+string name="total_trips"    >    Gesamt Touren
+string name="total_trip_dist"    >    Gesamte Tourenstrecke
+string name="total_trip_time"    >    Gesamte Tourzeit
+string name="total_tax_ded"    >    Steuerabzug
+string name="trip_stats"    >    Streckenstatistiken
+!-- Added on 17/May/2016 --    >
+string name="dist_by_type"    >    Distanz nach Typ
+>
+!-- Graph Java --    >
+string name="dist_btn_fu_graph_name"    >    Entfernung zwischen Tankvorgängen
+string name="prc_per_unt_graph_name"    >    Preis pro
+string name="fu_per_mth_graph_name"    >    Tankvorgänge pro Monat
+string name="no_of_fu_graph_label"    >    Anzahl der Tankvorgänge
+string name="fe_graph_name"    >    Kraftstoffverbrauch
+string name="cost_per_graph_name"    >    Kosten pro
+string name="eff_by_oct_graph_name"    >    Verbrauch bei Oktan
+string name="eff_by_brand_graph_name"    >    Verbrauch bei Marke
+string name="eff_by_stn_graph_name"    >    Verbrauch bei Tankstelle
+string name="brand"    >    Marke
+string name="fill_stn"    >    Tankstelle
+!-- Added on 24' Sep 2014 --    >
+string-array name="graph_date_range"    >
+item    >    Gesamt
+item    >    Diesen Monat
+item    >    Letzten Monat
+item    >    Dieses Jahr
+item    >    Benutzerdefiniertes Datum
+/string-array    >
+string name="custom_date_err"    >    Stelle sicher, das die eingegebenen Daten korrekt sind.
+string name="graph_go_pro"    >    Dieser Filter ist nur in der Pro(V8) Version verfügbar
+string name="graph_go_pro_title"    >    Diagramm Filter
+!-- Added on 7' nov 2014 --    >
+string name="cost_per_day_graph_name"    >    Kraftstoffkosten pro Tag
+string name="service_cost_per_graph_name"    >    Servicekosten pro\u0020
+string name="service_cost_per_day_graph_name"    >    Servicekosten pro Tag
+!-- Added on 13' Dec 2014 --    >
+string name="expense_cost_per_graph_name"    >    andere Kosten pro\u0020
+string name="expense_cost_per_day_graph_name"    >    andere Kosten pro Tag
+!-- Added on 13' Feb 2016 --    >
+string name="cost_per_mth_graph_name"    >    Kraftstoffkosten pro Monat
+!-- Added on 14' May 2016 --    >
+string name="trip_dist_by_type_graph_name"    >    Distanz nach Fahrtentyp
+string name="trip_tax_ded_by_type_graph_name"    >    Steuerabzug nach Fahrtentyp
+!-- Added on 5' Jul 2017 --    >
+string name="no_data"    >    Sie haben keine Daten für diesen Zeiraum
+string name="good"    >    Gut
+string name="avg"    >    Durchschn.
+string name="poor"    >    Gering
+>
+!-- Find Gas Price Java --    >
+string name="loading_msg"    >    Bitte warten - lade&#8230;
+>
+!-- Search Rec Java --    >
+string name="invalid_entry_msg"    >    Sie müssen etwas erfassen bevor etwas angezeigt werden kann!
+string name="no_rec_found_msg2"    >    Keine Einträge gefunden! Bitte konzentrieren!!
+string name="rec_found_msg1"    >    Kein genauer Eintrag gefunden. Etwas Ähnliches wird gezeigt.
+string name="rec_found_msg3"    >    Keine Einträge für dieses Datum gefunden, es werden alle Einträge dieses Monats angezeigt
+!-- Added on 3' Oct 2014 --    >
+string-array name="search_date_filter"    >
+item    >    größer als
+item    >    kleiner als
+item    >    gleich
+/string-array    >
+!-- Added on 15' Dec 2014 --    >
+string-array name="search_type_filter"    >
+item    >    Alle
+item    >    Tank Einträge
+item    >    Service Einträge
+item    >    Andere Kosten
+!-- Added on 17' Feb 2014 --    >
+item    >    Fahrtaufzeichnungen
+/string-array    >
+string name="record_type"    >    Eintragsstyp
+>
+!-- Search Rec XML --    >
+string name="search_rec_tv"    >    Eintrag suchen
+string name="date_pck_desc"    >    Datum wählen
+!-- Added on 28' Feb 2014 --    >
+string name="filter_fillup"    >    Tankeintr.
+string name="filter_service"    >    Serviceeintr.
+string name="filter_both"    >    Beide
+!-- Added on 3' Oct 2014 --    >
+string name="odo_short"    >    Tacho
+string name="date_hint"    >    Datum
+!-- Added on 26' Dec 2015 --    >
+string name="search_notes_hint"    >    Hinweise enthalten (getrennt mit ,)
+string name="search_result"    >    Suchergebnis
+!-- Added on 11' Oct 2018 --    >
+string name="type_notes_hint"    >    Modell (getrennt mit ,)
+>
+!-- Get Registration Java --    >
+string name="no_veh_id"    >    Keine Fahrzeug ID
+string name="edit_veh_msg"    >    Fahrzeugdetails bearbeiten
+string name="del_veh_msg"    >    Fahrzeug löschen
+string name="invalid_veh_msg1"    >    Marke und Modell dürfen nicht leer sein
+string name="rec_added"    >    Daten erfolgreich hinzugefügt
+string name="rec_failed"    >    Daten wurden nicht hinzugefügt
+string name="rec_upd"    >    Daten erfolgreich aktualisiert
+string name="rec_failed_upd"    >    Daten wurden nicht aktualisiert
+string name="rec_failed_del"    >    Daten wurden nicht gelöscht
+string name="rec_del"    >    Daten erfolgreich gelöscht
+!-- Added on 6, May' 2014 --    >
+string name="invalid_double_quotes"    >    Marke und Modell dürfen nicht in Anführungszeichen stehen
+!-- Added on 30, Dec' 2014 --    >
+string name="show_more"    >    zeige mehr
+string name="show_less"    >    zeige weniger
+string name="year"    >    Jahr
+string name="vin"    >    FIN
+string name="insurance_no"    >    Versicherung #
+string name="picture"    >    Bild
+string name="pic_err_load"    >    Fehler beim Laden des Bildes
+!-- Added on 15' Apr 2015 --    >
+string name="mk_model_comma_err"    >    Keine Kommas bei Hersteller und Modell
+!-- Added on 12' Jan 2016 --    >
+string name="pic_err_oom"    >    Fehler beim Laden des Bildes. Bitte versuche, ein kleineres Bild auszuwählen.
+!-- Added on 27' Jul 2017 --    >
+string name="generic_comma_nl_err"    >    Hier können keine Kommas und neue Zeilen akzeptiert werden
+string name="view_veh_msg"    >    Fahrzeug-Details
+!-- Added on 7, Oct' 2017 --    >
+string name="add_other_specs"    >    Fügen Sie weitere Angaben hinzu
+>
+!-- Get Registration XML --    >
+string name="ent_veh_tv"    >    Fahrzeugdetails eingeben
+string name="make_tv"    >    Marke
+string name="model_tv"    >    Modell
+string name="lic_no_tv"    >    Lizenznummer
+string name="del_veh_note"    >    * Wenn ein Fahrzeug gelöscht wird, werden auch alle Einträge für das Fahrzeug gelöscht, Vorsicht!
+!-- Added on 19' Jun 2015 --    >
+string name="metrics_change_note"    >    Ändere die Einheiten für Distanz,  Verbrauch und Währung in den Einstellungen
+string name="add_photo"    >    Foto hinzufügen
+!-- Added on 25' Jul 2017 --    >
+string name="specs"    >    Angaben
+string name="add_custom_parts"    >    Angaben hinzufügen
+string name="edit_custom_parts"    >    Angaben bearbeiten
+string name="part_name"    >    Name
+string name="part_val"    >    Wert
+string name="custom_part_add_err"    >    Bitte stellen Sie sicher, dass beide Felder ausgefüllt sind
+!-- Added on 27' Feb 2019 --    >
+string-array name="fuel_type"    >
+item    >    Kraftstoffart
+item    >    Benzin
+item    >    Diesel
+item    >    CNG
+item    >    Andere
+/string-array    >
+>
+!-- Selected List Java --    >
+string name="partial_refill_sel_lst"    >    \u0020(P)\u0020
+string name="qty_sel_lst"    >    Menge:\u0020
+string name="cost_sel_lst"    >    Kosten:\u0020
+!-- Added on 17' Feb 2015 --    >
+string name="ded"    >    Abzug:\u0020
+>
+!-- Vehicle Java --    >
+string name="invalid_sel_msg"    >    Bitte wählen Sie das Fahrzeug, das aktiviert werden soll
+string name="activated_msg"    >     Aktiviert!
+string name="invalid_sel_msg2"    >    Bitte wählen Sie das Fahrzeug, das bearbeitet werden soll
+string name="invalid_sel_msg3"    >    Bitte wählen Sie das Fahrzeug, das gelöscht werdeen soll
+>
+!-- Vehicle XML --    >
+string name="veh_tv"    >    Fahrzeuge
+string name="add_new_btn"    >    Neues hinzufügen
+>
+!-- Edit Menu Java --    >
+string name="gs_err_msg"    >    Kann keine Verbindung mit Google Services herstellen
+string name="internet_err_msg"    >    Keine Internet-Verbindung erkannt
+string name="ph_mem"    >    Telefonspeicher
+string name="ph_mem_note"    >    (wird im internen Speicher gespeichert, wenn keine SD Karte verfügbar ist)
+string name="gs_err_msg2"    >    Google Play Services sind auf diesem Telefon nicht verfügbar
+string name="csv_imp_msg"    >    Bitte überzeugen Sie sich, dass die CSV Dateien in abgelegt wurden
+string name="exp_success_msg"    >    Dateien erfolgreich extrahiert aus
+string name="pls_rate_msg"    >    App bewerten
+!-- Added on 3/11/2013 --    >
+string name="google_ac_err"    >    Zugang zu Ihrem Google Konto fehlgeschlagen
+!-- Added on 12/11/2013 --    >
+string name="pur_make_selection"    >    Bitte wählen Sie!
+string name="pur_err"    >    Fehler während des Kaufprozesses! Bitte versuchen Sie es in ein paar Sekunden noch einmal
+string name="pur_thanks"    >    Vielen Dank für Ihren Einkauf! Vielleicht müssen Sie sich abmelden und erneut anmelden, damit der Kauf erkannt wird.
+string name="footnote_for_email"    >    *Mit Simply Auto senden
+string name="no_rec_for_email"    >    Keine Einträge im Datumsbereich gefunden
+!-- Added on 28' Feb 2014 --    >
+string name="go_pro_made"    >    Sie haben bereits die Pro Version gekauft
+!-- Added on 14 Mar, 2014 --    >
+string name="store_query_err"    >    Abfragefehler im App-Bestand
+!-- Added on 8 Apr, 2014 --    >
+string name="imp_format_err_title"    >    Import Format Fehler
+string name="once_week"    >    Einmal pro Woche
+string name="once_month"    >    Einmal im Monat
+string name="once_three_month"    >    Alle drei Monate
+string name="once_3_month"    >    Alle 3 Monate
+string name="choose_acct"    >    Account wählen
+!-- Added on 11 Jun, 2014 --    >
+string name="reminders"    >    Erinnerungen
+!-- Added on 17 Aug, 2014 --    >
+string name="promote_us"    >    Unterstütze uns
+string name="promote_us_msg"    >    Simply Auto macht einen hervorragenden Job beim Verwalten meines Kraftstoffverbrauchs und den Kosten. Es ist erhältlich im Play Store.
+string name="promote_us_tweet"    >    Simply Auto macht einen hervorragenden Job beim Verwalten meines Kraftstoffverbrauchs und den Kosten. Erhältlich im Play Store.
+string name="promote_us_sms"    >    Simply Auto macht einen hervorragenden Job beim Verwalten meines Kraftstoffverbrauchs und den Kosten.
+string name="promote_us_subject"    >    Simply Auto - Der beste Kfz-Verbrauchs- und Kostenverwalter
+!-- Modified on 4 Mar, 2016 --    >
+string name="backup_desc"    >    erstellt CSV Dateien
+string name="restore_desc"    >    Wiederherstellung von CSV Dateien
+!-- Modified on 5 Jul, 2016 --    >
+string name="no_contacts_permission"    >    Kontaktberechtigung
+string name="no_contacts_permission_msg"    >    Simply Auto braucht die Kontaktberechtigung zum Sichern/Wiederherstellen auf Google Drive. Kontaktieren Sie uns unter support-ios@simplyauto.app, wenn Sie weitere Details benötigen.
+>
+!-- Modified on 12 Nov, 2014 --    >
+string name="export"    >    Manuelle Sicherung
+string name="imp"    >    Manuelle Wiederherstellung
+string name="export_opt"    >    Sicherung auf
+string name="import_opt"    >    Wiederherstellen von
+string name="backup"    >    Sicherung
+string name="restore"    >    Wiederherstellung
+string name="first_time_imp"    >    Import aus einer anderen App
+string name="exp_err_msg"    >    Sicherung fehlgeschlagen
+string name="exp_data_msg"    >    Sicherung aller Fahrzeuge…
+string name="exp_success_msg2"    >    Sicherung erfolgreich ins Google Drive exportiert
+string name="imp_format_err"    >    Sie versuchen eine Wiederherstellung mit Daten im alten Format.\n\nUm die CSV-Dateien in das neue Format zu konvertieren, sichern sie die Daten vor der Wiederherstellung erneut oder konvertieren Sie vom alten ins neue Format wie in der Anleitung beschrieb
+string name="imp_err_msg"    >    Wiederherstellung fehlgeschlagen. Bitte kontaktieren Sie den Support unter suppoert@simplyauto.app
+string name="csv_success_msg"    >    CSV Dateien wurden erfolgreich importiert
+string name="imp_err_msg2"    >    Wiederherstellung gescheitert, bitte sicherstellen, das die Dateien im richtigen Ordner gespeichert wurden
+string name="imp_data_msg"    >    Wiederherstellung aller Fahrzeuge…
+string name="imp_success_msg"    >    Wiederherstellung aus Google Drive erfolgreich. Bitte aktivieren Sie nun ein Fahrzeug.
+string name="imp_from_another_app"    >    Um Daten aus einer anderen App (nicht Simply Auto) wiederherzustellen, konvertieren Sie diese bitte in das Simply Auto-Format.\n\nFolgen Sie hierzu den Anweisungen in der Anleitung.
+!-- Added on 27 Nov, 2014 --    >
+string name="fuel_log_err_title"    >    Fuel_Log.csv Fehler
+string name="vehicle_err_title"    >    Vehicle.csv Fehler
+string name="services_err_title"    >    Services.csv Fehler
+string name="fuel_log_nf"    >    Datei Fuel_Log.csv wurde nicht gefunden. Bitte sicherstellen, das die Datei existiert.
+string name="vehicle_nf"    >    Datei Vehicle.csv wurde nicht gefunden. Bitte sicherstellen, das die Datei existiert.
+string name="services_nf"    >    Datei Services.csv wurde nicht gefunden. Bitte sicherstellen, das die Datei existiert.
+string name="fuel_log_fail"    >    Problem beim Import der Datei Fuel_Log.csv aufgetreten. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="services_fail"    >    Problem beim Import der Datei Services.csv aufgetreten. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="vehicle_fail"    >    Problem beim Import der Datei Vehicle.csv aufgetreten. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+!-- Added on 17 Dec, 2014 --    >
+string name="security_err"    >    Problem beim Zugriff auf Ihr Google-Konto. Bitte versuchen Sie es in 30 Minuten erneut.
+!-- Added on 30 May, 2015 --    >
+string name="uploading_log"    >    Protokolldaten sichern
+string name="uploading_receipt"    >    Belege sichern
+string name="uploading_vehicle"    >    Fahrzeugdaten sichern
+string name="uploading_service"    >    Service-Erinnerungen sichern
+string name="backup_success"    >    Sicherung erfolgreich
+string name="receipt_upload_failed"    >    Fehler beim Sichern der Belege
+string name="exp_noti_title"    >    Daten sichern
+string name="exp_success_noti_msg"    >    Daten erfolgreich auf Google Drive gesichert
+string name="imp_noti_title"    >    Daten wiederherstellen
+string name="restore_success"    >    Wiederherstellung erfolgreich
+string name="restoring_vehicle"    >    Fahrzeugdaten wiederherstellen
+string name="restoring_log"    >    Protokolldaten wiederherstellen
+string name="restoring_receipt"    >    Belege wiederherstellen
+string name="restoring_service"    >    Service Erinnerungen wiederherstellen
+string name="imp_success_noti_msg"    >    Daten erfolgreich von Google Drive wiederhergestellt
+string name="receipt_download_failed"    >    Fehler beim Herunterladen der Belege
+string name="backup_receipts"    >    Belege der Sicherung hinzufügen
+string name="restore_receipts"    >    Belege wiederherstellen
+string name="backup_restore_receipts"    >    Sichern/Wiederherstellen von Belegen
+string name="receipts_backup_restore_go_pro"    >    Die kostenlose Version ermöglicht nur das Sichern und Wiederherstellen von Daten. Rechnungsbelege können in der Pro-Version gesichert und wiederhergestellt werden.
+!-- Added on 1/25/2016 --    >
+string name="backup_to_cloud"    >    Möchten Sie Ihre Daten sofort in der Cloud sichern? Gehen Sie zu \'In Cloud anmelden\' im Hauptmenü.
+!-- Added on 28/6/2016 --    >
+string name="uploading_trip_log"    >    Fahrtdaten sichern
+string name="restoring_trip_log"    >    Wiederherstellen von Fahrtdaten
+string name="trip_log_nf"    >    Trip_Log.csv wurde nicht gefunden. Bitte stellen Sie sicher, dass die Datei existiert.
+!-- Added on 22/8/2016 --    >
+string name="fb_folder_nf"    >    Simply Auto Ordner wurde in Google Drive nicht gefunden.
+string name="trip_log_fail"    >    Problem beim Importieren von Trip_Log.csv. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app.
+!-- Added on 12/6/2017 --    >
+string name="ext_storage_perm_title"    >    Zugriff auf Speicher
+string name="ext_storage_perm_msg"    >    Simply Auto benötigt Zugriff auf den Speicher, um Belege zu sichern.
+string name="ext_storage_perm_msg_for_imp"    >    Simply Auto benötigt Zugriff auf den Speicher, um Belege zu importieren.
+string name="ext_storage_perm_phone_bckp_msg"    >    Simply Auto benötigt Zugriff auf den Speicher, um Daten im Telefonspeicher zu sichern.
+string name="ext_storage_perm_phone_imp_msg"    >    Simply Auto benötigt Zugriff auf den Speicher, um Daten aus dem Telefonspeicher zu importieren.
+string name="ext_storage_perm_attach_recpt"    >    Simply Auto benötigt Zugriff auf den Telefonspeicher, um Belege zu speichern.
+string name="ext_storage_perm_veh_img"    >    Simply Auto benötigt Zugriff auf den Telefonspeicher, um Fahrzeugbilder zu speichern.
+>
+!-- About View XML --    >
+string name="version_tv"    >    Version
+string name="dev_by_tv"    >    Entwickelt von
+string name="contact_tv"    >    Kontakt
+!-- Added on 6/11/2013 --    >
+string name="website_tv"    >    Webseite
+!-- Added on 11/11/2013 --    >
+string name="customize_tv"    >    Simply Auto anpassen
+string name="customize_message"    >    Möchten Sie Simply Auto an Ihre Firma oder persönlichen Bedürfnisse anpassen?\nBitte kontaktieren Sie uns über support-ios@simplyauto.app und wir werden Ihnen sicher helfen.
+>
+!-- Edit Menu XML --    >
+string name="veh_btn"    >    Fahrzeuge
+string name="find_gas_btn"    >    Benzinpreise finden
+string name="settings_btn"    >    Einstellungen
+string name="abt_btn"    >    Über
+string name="feedback_btn"    >    Feedback
+!-- Added on 12/11/2013 --    >
+string name="go_pro_btn"    >    Go Pro
+!-- Added on 26 Feb'2014 --    >
+string name="search_rec"    >    Eintrag suchen
+!-- Added on 12 Nov'2014 --    >
+string name="exim_btn"    >    Google Drive Sicherung
+string name="sync_btn"    >    In Cloud anmelden
+string name="log_dash_btn"    >    Start
+!-- Added on 11 Nov'2016 --    >
+string name="sync_btn_after_login"    >    Mein Cloud-Konto
+!-- Added on 29 Apr'2018 --    >
+string name="report"    >    Bericht
+>
+!-- Settings Java --    >
+string name="dist_head"    >    Entfernung
+string name="vol_head"    >    Tankgröße
+string name="cons_head"    >    Verbrauch
+string name="curr_head"    >    Währung
+string name="cust_fus_head"    >    Tankvorgangsmaske anpassen
+string name="cust_db_head"    >    Dashboard anpassen
+string name="dist_desc"    >    Kilometer, Meilen
+string name="vol_desc"    >    Liter,  Gallonen(US), Gallonen(UK)
+string name="cons_desc"    >    km/l, l/100km, mpg(US), mpg (UK)
+string name="curr_desc"    >    Das Aktualisieren der Währung aktualisiert nur die Einheit und konvertiert nicht die Währung
+string name="cust_fu_desc"    >    Tankvorgangsmaske anpassen
+string name="cust_db_desc"    >    Dashboard anpassen
+string name="convert_msg"    >    Existierende Tankeinträge konvertieren? Oder nur die Einheit ändern?
+!-- Added on 5/11/2014 --    >
+string name="faq"    >    FAQ
+string name="faq_desc"    >    Häufig gestellte Fragen
+!-- Added on 10/Mar/2015 --    >
+string name="translate_head"    >    Übersetze Simply Auto
+string name="translate_desc"    >    Hilf Simply Auto in andere Sprachen zu übersetzen
+!-- Added on 10/May/2015 --    >
+string name="sync_help_desc"    >    Anleitung für die Sync Funktion von Simply Auto
+!-- Added on 28/Oct/2016 --    >
+string name="convert_yes_btn"    >    Vorhandene Einträge konvertieren
+string name="convert_no_btn"    >    Vorhandene Einträge nicht konvertieren, nur die Einheit ändern
+!-- Added on 7/Jan/2017 --    >
+string name="privacy_policy"    >    Datenschutzrichtlinie
+!-- Added on 7/Jan/2017 --    >
+string name="notifications"    >    Benachrichtigungen
+string name="notifications_desc"    >    Benachrichtigungen anpassen
+string name="theme_head"    >    Helles Design
+string name="theme_desc"    >    Zu einem hellen Design wechseln
+string name="upgrade_head"    >    Upgrade
+string name="upgrade_desc"    >    Upgraden, um Pro-Funktionen freizuschalten
+string name="imp_from_other_app_desc"    >    Daten von einer anderen App wiederherstellen
+string name="restore_acar"    >    Wiederherstellen von aCar
+string name="restore_from_other_app"    >    Wiederherstellen von einer anderen App
+string name="pd_acar_message"    >    Daten abrufen von aCar&#8230;
+string name="user_guide"    >    Benutzerhandbuch
+string name="user_guide_desc"    >    Ein Handbuch für Simply Auto
+>
+!-- Settings XML --    >
+string name="settings_tv"    >    Einstellungen
+>
+!-- Customize Notificaiton --    >
+string name="noti_show"    >    Benachrichtigungen anzeigen
+string name="odo_reminders"    >    Kilometerstand-Erinnerungen
+string name="tone"    >    Ton
+string name="light"    >    Licht
+string name="def"    >    Standard
+string name="red"    >    Rot
+string name="yellow"    >    Gelb
+string name="green"    >    Grün
+string name="due_date_reminders"    >    Fälligkeitserinnerungen
+string name="time"    >    Zeit
+string name="eight_am"    >    8:00 Uhr
+string name="driver_sync_noti"    >    Fahrersynchronisierung
+string name="choose_tone"    >    Ton wählen
+string name="none"    >    Keine
+string name="choose_light"    >    Licht wählen
+string name="sel_time"    >    Zeit auswählen
+>
+!-- Added on 12/11/2013 --    >
+!-- Database Interface Java --    >
+string name="convert_rec_err"    >    Fehler beim Konvertieren der Daten
+>
+!-- Added on 12/11/2013 --    >
+!-- In App Purchases--    >
+string name="purchase_btn"    >    Kaufen
+string name="pro_ad_free"    >    Werbung entfernen
+!-- Added on Jun 3' 2015 --    >
+string name="pro_backup_receipts"    >    Sichern und Wiederherstellen von Belegen in Google Drive
+!-- Added on Oct 20' 2015 --    >
+string name="pro_cloud_backup"    >    Sichern Sie sofort alle Ihre Daten in der Cloud.
+!-- Added on Apr 22' 2016 --    >
+string name="one_time"    >    EINMAL
+!-- Added on Nov 13' 2016 --    >
+string name="pro_add_custom"    >    Kunden spezifische Services und Kosten mit einbeziehen
+string name="pro_website"    >    Greifen Sie auf Ihre Daten im Internet zu unter www.simplyauto.app
+string name="pro_share_gold"    >    Fügen Sie bis zu 3 Fahrer hinzu, um Daten mit diesen zu synchronisieren
+string name="pro_share_platinum"    >    Daten mit unbegrenzt Fahrern synchronisieren
+!-- Added on Nov 29' 2017 --    >
+string name="pro_auto_drive"    >    Unbegrenzte automatische Protokollierung von Fahrten
+!-- Added on Mar 7' 2018 --    >
+string name="pro_receipt_cloud_backup"    >    Sofortige Synchronisierung Ihrer Belege und Fahrzeugbilder mit der Cloud
+string name="resync_after_pro"    >    Wenn Sie Ihre älteren Belege in die Cloud hochladen möchten, navigieren Sie zu Mein Cloud-Konto >  Resynchronisieren und überschreiben von Daten in der Cloud
+string name="thank_you"    >    Danke
+string name="pro_attach_multiple_receipts"    >    Fügen Sie mehrere Belege für Tankfüllungen, Services und Ausgaben hinzu
+string name="pro_attach_receipts_raw_data"    >    Belege und Rohdaten mit Berichten verknüpfen
+string name="pro_add_unlimited_vehicles"    >    Hinzufügen unbegrenzter Fahrzeuge
+string name="pro_automated_reports"    >    Erstellen Sie automatisierte wöchentliche und monatliche Berichte
+string name="pro_gps_tracking"    >    GPS-Tracking für manuelle Fahrten
+string name="gold"    >    Gold
+string name="platinum"    >    Platinum
+string name="per_year"    >    / JAHR
+string name="per_month"    >    / MONAT
+string name="pro_change_individual_unit"    >    Ändern Sie die Volumeneinheit für einzelne Tankfüllungen
+string name="pro_trip_map"    >    Reisekarten anzeigen
+string name="pro_priority_support_gold"    >    Vorrangige Unterstützung. Antwort innerhalb 48 Arbeitsstunden.
+string name="pro_priority_support_platinum"    >    Vorrangige Unterstützung. Antwort innerhalb 24 Arbeitsstunden.
+>
+!-- Added on 12/14/2013 --    >
+!-- Email XML --    >
+string name="date_range_head"    >    Datumsbereich
+string name="from_date_head"    >    Von:
+string name="to_date_head"    >    Bis:
+string name="sel_fields_head"    >    Felder, die per E-Mail geschickt werden sollen
+string name="sel_fields"    >    Felder auswählen
+!-- Added on 22' Jun 2016 --    >
+string name="total"    >    Fahrten gesamt
+!-- Added on 8' May 2017 --    >
+string name="attach_csv"    >    CSV-Dateien anhängen
+string name="can_be_opened_in_editor"    >    CSV-Dateien können in jedem Tabelleneditor geöffnet werden
+string name="go_pro_attach_csv_title"    >    CSV-Dateien in E-Mails anhängen
+string name="go_pro_attach_csv_msg"    >    Das Anhängen von Protokollen als CSV-Dateien ist nur in der Pro-Version verfügbar
+>
+!-- Added on 12' Feb 2014 --    >
+!-- Add Services XML --    >
+string name="tv_services"    >    Services
+string name="tv_service_center"    >    Service Center
+string name="invalid_as_msg1"    >    Ungültiger Kilometerstand
+string name="invalid_as_msg2"    >    Ungültiger Gesamtkosten Wert
+string name="invalid_as_msg3"    >    Bitte geben Sie mindestens einen Service ein
+>
+!-- Added on 13' Feb 2014 --    >
+!-- List Service XML --    >
+string name="tv_last_service"    >    Letztes Service Datum:
+!-- Added on 16' Feb 2016 --    >
+string name="add_service_task_help"    >    Neuen Wartungs-Task hinzufügen
+>
+!-- Added on 13' Feb 2014 --    >
+!-- ServiceList/ExpenseList Java --    >
+string name="add_custom_task"    >    Wartungs-Task hinzufügen
+string name="edit_custom_task"    >    Benutzerdefinierte Aufgabe bearbeiten
+string name="succ_add_custom"    >    Eintrag hinzugefügt
+string name="err_add_custom"    >    Service hinzufügen fehlgeschlagen
+string name="succ_upd_custom"    >    Eintrag aktualisiert
+string name="err_upd_custom"    >    Fehler beim Aktualisieren
+string name="succ_del_custom"    >    Eintrag gelöscht
+string name="err_del_custom"    >    Löschen fehlgeschlagen
+!-- Added on 28' Feb 2014 --    >
+string name="pro_messsage_add_custom"    >    Unbegrenztes Hinzufügen von Services ist in der Pro-Version möglich
+string name="pro_title_add_custom"    >    Aufgabe hinzufügen
+!-- Added on 12' Jun 2014 --    >
+string name="not_serviced"    >    nicht eingetragen
+!-- Added on 12' Jun 2014 --    >
+string name="pro_messsage_add_expense"    >    Unbegrenztes Hinzufügen von Ausgaben ist in der Pro-Version möglich
+!-- Added on 13' Dec 2014 --    >
+string name="last_paid_on"    >    Zuletzt gezahlt:
+string name="no_payments"    >    Keine Zahlungen
+string name="add_expense_task"    >    Ausgabe hinzufügen
+!-- Added on 21' Jan 2015 --    >
+string name="invalid_service"    >    Bitte geben Sie einen gültigen Servicenamen ein
+string name="invalid_expense"    >    Bitte geben Sie einen gültigen Name für die Kosten ein
+!-- Added on 21' Aug 2015 --    >
+string name="recurring_service"    >    regelmäßiger Service
+string name="recurring_service_footnote"    >    * Du kannst Erinnerungen für regelmäßige Wartungen erstellen
+string name="service_task_name"    >    Wartungs-Task Name
+string name="recurring_expense"    >    regelmäßige Ausgabe
+string name="recurring_expense_footnote"    >    * Du kannst Erinnerungen für regelmäßige Ausgaben erstellen
+string name="expense_task_name"    >    Ausgaben-Task Name
+string name="service_task"    >    Wartungs-Task
+string name="expense_task"    >    Kostenaufgaben
+>
+!-- Added on 25' Feb 2014 --    >
+!-- Services XML --    >
+string name="service_long_click_msg"    >    Eintrag gedrückt halten, um die Serviceaufgabe zu bearbeiten oder zu löschen
+>
+!-- Added on 9' Apr 2014 --    >
+!-- Buy Pro Version Dialog --    >
+string name="open_guide"    >    Anleitung öffnen
+!-- Added on 23' Nov 2014 --    >
+string name="button_later_for_partial_click"    >    Später erneut anzeigen
+>
+!-- Added on 11' Apr 2014 --    >
+!-- Scheduled Backup XML --    >
+string name="next_backup"    >    nächste Sicherung
+>
+!-- Added on 8th May, 2014 --    >
+!-- View Record XML --    >
+string name="efficiency"    >    Effiziens
+!-- Added on 19th May, 2015 --    >
+string name="receipt"    >    Beleg
+!-- Added on 18th Nov, 2015 --    >
+string name="view_fill_up"    >    Tankvorgang
+string name="view_service"    >    Wartung
+string name="view_expense"    >    Ausgabe
+>
+!-- Added on 25' Feb 2014 --    >
+!-- Reminders XML --    >
+string name="reminders_click_msg"    >    Klicken Sie die Serviceaufgabe, um Erinnerung hinzuzufügen/zu aktualisieren. Halten Sie diese Taste gedrückt, um die Serviceaufgabe zu bearbeiten oder zu löschen
+string-array name="reminder_sort"    >
+item    >    Nach Namen sortieren
+item    >    Nach Fälligkeit sortieren
+/string-array    >
+>
+!-- Added on 24' Aug 2015 --    >
+!-- Reminders Java --    >
+string name="service_reminders"    >    Wartungs-Erinnerungen
+string name="expense_reminders"    >    Kostenerinnerungen
+string name="non_recurring_reminder_click"    >    Erinnerungen können nur für wiederkehrende Services und Ausgaben festgelegt werden
+>
+!-- Added on 25' Feb 2014 --    >
+!-- List Reminders XML --    >
+string name="last_service"    >    Letzter Service:
+string name="due_on"    >    Kosten:
+>
+!-- Added on 25' Feb 2014 --    >
+!-- Add Reminders XML --    >
+string name="last_service_date_odo"    >    Letzter Service:
+string name="next_due_on"    >    Service alle:
+string name="whichever_first"    >    Was zuerst eintritt
+string name="kms_prior_to"    >    vor eingegebenem Wert
+string name="days_prior_to"    >    Tage vor Stichtag
+string name="no_reminder_set"    >    Nicht erinnern
+string name="days"    >    Tage
+string name="no_reminder"    >    Keine Erinnerung
+!-- Added on 23' Sep 2014 --    >
+string-array name="reminder_due_date_unit_array"    >
+item    >    Tage
+item    >    Monate
+item    >    Jahre
+/string-array    >
+!-- Added on 25' Aug 2015 --    >
+string name="last_paid_date_odo"    >    Zuletzt bezahlt
+string name="payment_due_on"    >    Zahlung alle:
+>
+!-- Added on 25' Feb 2014 --    >
+!-- Add Reminders Java --    >
+string name="reminder_added"    >    Erinnerung am
+string name="reminder_err"    >    Fehler beim Speichern der Erinnerung
+!-- Added on 25' Sep 2015 --    >
+string name="invalid_due_dist"    >    Ungültige fällige Distanz
+string name="invalid_due_date"    >    Ungültiges Fälligkeitsdatum
+string name="invalid_due_dist_date"    >    Ungültige fällige Distanz oder ungültiges Fälligkeitsdatum
+!-- Added on 17' Dec 2015 --    >
+string name="set_reminder"    >    Erinnerung einrichten
+>
+!-- Modified on 22/6/2014 --    >
+!-- Noti Receiver Java --    >
+string name="noti_msg2"    >     fällig am\u0020
+>
+!-- Added on 11/11/2014 --    >
+!-- Widget --    >
+string name="widget_add_fill_up"    >    Tankvorgang hinzufügen
+>
+!-- Added on 8' Dec 2014 --    >
+!-- Add Expenses --    >
+string name="tv_expenses"    >    Kosten
+string name="tv_vendor"    >    Anbieter
+string name="invalid_ae_msg"    >    Bitte min. eine Ausgabe eingeben
+>
+!-- Added on 23' Jan 2015 --    >
+!-- Add Trip --    >
+string name="departure"    >    Abfahrt
+string name="date_time"    >    Datum/Zeit
+string name="location"    >    Ort
+string name="arrival"    >    Ankunft
+string name="dist_traveled"    >    gefahrene Strecke
+string name="time_traveled"    >    gefahrene Zeit
+string name="tax_deduction_rate"    >    Steuerabzug Wert
+string name="tax_deduction_amount"    >    Steuerabzug
+string name="type"    >    Typ
+string name="edit_trip"    >    Fahrt bearbeiten
+string name="delete_trip"    >    Fahrt löschen
+string name="date_time_val"    >    tt-mmm-jjjj, st:mi
+string name="hour_abb"    >    h
+string name="min_abb"    >    Min
+string name="trip_in_progress"    >    Fahrt im Gange
+!-- Added on 15' Apr 2015 --    >
+string name="loc_comma_err"    >    Standorte können nicht Kommas und neue Zeilen enthalten
+!-- Added on 12' Sep 2015 --    >
+string name="enable_location"    >    Standort aktivieren
+string name="enable_GPS"    >    GPS einschalten
+string name="enable_GPS_title"    >    Kann nicht auf GPS zugreifen
+string name="enable_GPS_msg"    >    Bitte GPS aktivieren (Hohe Genauigkeit), um Distanz zu berechnen.
+string name="start_trip"    >    Starte Fahrt
+string name="end_trip"    >    Beende Fahrt
+string name="restart_trip"    >    Fahrt neu starten
+string name="trip_distance"    >    Fahrtdistanz:\u0020
+string name="trip_go_pro_title"    >    Über GPS tracken
+string name="trip_go_pro_msg"    >    Um Fahrten über GPS zu tracken, erwerben Sie bitte ein Upgrade
+!-- Added on 13' Feb 2016 --    >
+string name="google_api_not_connected"    >    Verbindung zum Google Client für GPS kann nicht hergestellt werden.
+string name="play_services_not_found"    >    ?Dieses Gerät wird nicht unterstützt. Sie benötigen Google Play Dienste, um auf GPS zuzugreifen.
+string name="track_via_gps"    >    Fahrt per GPS verfolgen
+string name="searching_for_gps"    >    Suche nach GPS&#8230;
+string name="tracking_via_gps"    >    Fahrt per GPS verfolgen
+!-- Added on 9' Jun 2017 --    >
+string name="dont_show_again"    >    Nicht noch einmal anzeigen
+string name="gps_tracking_not_poss"    >    Tracking über GPS ist nicht möglich, da Simply Auto keine Zugriffsberechtigung für den Standort hat.
+string name="trip_in_progress_noti"    >    \u0020trip wird ausgeführt
+string name="trip_complete_noti"    >    \u0020trip abgeschlossen
+string name="trip_type_updated"    >    Fahrtentyp erfolgreich aktualisiert
+!-- Added on 5' Dec 2017 --    >
+string name="auto_trip_disabled"    >    Automatische Fahrt funktioniert nicht, da eine manuelle Fahrt ausgeführt wird
+string name="track_via_auto_trip"    >    Tracking über automatische Fahrt
+!-- Added on 8' Oct 2018 --    >
+string name="loc_perm_missing_title"    >    Automatische Fahrt kann nicht aufgezeichnet werden
+string name="loc_perm_missing_msg"    >    Berechtigung für Simply Auto wurde widerrufen.
+>
+!-- Added on 25' Feb 2015 --    >
+!-- Tax Rates --    >
+string name="type_long_click_msg"    >    *Eintrag gedrückt halten, um den Typ-Namen zu bearbeiten oder zu löschen
+string name="add_custom_type"    >    Typ hinzufügen
+string name="invalid_type"    >    Bitte geben Sie einen gültigen Typ ein
+string name="pro_title_add_type"    >    Tour Typ hinzufügen
+string name="invalid_at_msg1"    >    Ungültiger Abfahrts-Km-Stand
+string name="invalid_at_msg2"    >    Ungültiger Ankunfts-Km-Stand
+string name="invalid_at_msg3"    >    Ankunfts-Km-Stand kann nicht kleiner sein als bei der Abfahrt
+string name="invalid_at_msg4"    >    Ankunftszeit kann nicht kleiner sein als bei der Abfahrt
+string name="add_new"    >    Neu hinzufügen
+!-- Added on 24' Aug 2015 --    >
+string name="edit_custom_type"    >    Fahrtentyp bearbeiten
+string name="edit_trip_type_hint"    >    Fahrtentyp
+string name="err_loc_sesdfrvices"    >    Fehler beim Verbinden mit Standortdiensten
+!-- Added on 24' Aug 2015 --    >
+string name="invalid_at_msg5"    >    Ungültige Strecke zurückgelegt
+string name="needs_tracking_via_GPS"    >    (Benötigt Tracking über GPS)
+>
+!-- Added on 10' Mar 2015 --    >
+!-- Translate Form --    >
+string name="translate_main_msg"    >    Möchten Sie uns helfen, Simply Auto in Ihrer Sprache zu übersetzen? Oder Sie sehen einen Übersetzungsfehler?\n\nBitte setzen Sie sich mit uns in Verbindung. Wir verschenken Belohnungen an unsere Helfer :)
+string name="translate_to"    >    Ich kann aus dem Englischen übersetzen in
+string name="translate_to_hint"    >    Sprache wählen
+string name="translate_email"    >    Email
+string name="comments"    >    Kommentare
+string name="translate_submit_err"    >    Bitte geben Sie die Sprache und E-Mail-Adresse an
+string name="translate_thanks"    >    Vielen Dank. Wir werden bald Kontakt mit Ihnen aufnehmen.
+>
+!-- Added on 21' Jul 2015 --    >
+!-- Schedule Receiver --    >
+string name="auto_backup_err"    >    Automatische Sicherung fehlgeschlagen
+string name="auto_backup_err_desc"    >    Fehler beim Sichern auf Google Drive. Bitte den Support kontaktieren.
+>
+!-- Added on 12' Aug 2015 --    >
+!-- Email --    >
+string name="trips"    >    Fahrten
+>
+!-- Added on 1' Sep 2015 --    >
+!-- Receipt viewer --    >
+string name="del_receipt_title"    >    Lösche Beleg
+string name="del_receipt_msg"    >    Beleg wirklich löschen?
+>
+!-- Added on 12' Feb 2017 --    >
+!-- Graph Help --    >
+string name="pinch_zoom"    >    Kleiner Zoom
+string name="pan"    >    Schwenken
+>
+>
+!-- Added on 16' Mar 2015 --    >
+!-- Sync --    >
+string name="sign_diff_id"    >    Mit einer anderen ID anmelden
+string name="t_and_c"    >    Ich stimme den Nutzungsbedingungen von Simply Auto und den Datenschutzbestimmungen zu
+string name="pattern1"    >    Nutzungsbedingungen
+string name="pattern2"    >    Datenschutzrichtlinie
+string name="accept_t_and_c"    >    Bitte akzeptieren Sie die Nutzungsbedingungen
+string name="err_internet"    >    Internet Verbindung nicht verfügbar
+string name="sign_in_error"    >    Fehler
+string name="error_adding_profile"    >    Ihre E-Mail scheint bereits mit einem anderen Gerät vorhanden zu sein. Versuchen Sie, eine weitere E-Mail hinzuzufügen oder melden Sie sich von dem anderen Gerät ab.
+string name="error_retriving_google_id"    >    Fehler beim Abrufen der Google Id-Daten. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="error_retriving_data"    >    Fehler beim Abrufen/Hinzufügen von Daten. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="pb_connecting"    >    Anmelden
+string name="pb_searching"    >    Suchen
+string name="error_retriving_search"    >    Fehler beim Abrufen der Suchergebnisse. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="no_search_name"    >    Geben Sie einen gültigen Namen ein, um danach zu suchen
+string name="no_records_found"    >    Keine Daten gefunden. Bitte stellen Sie sicher, dass der Fahrer den Sie hinzufügen auch in der Cloud angemeldet ist.
+string name="pb_sending_req"    >    Anfrage senden
+string name="error_adding_friend"    >    Etwas ging schief. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support unter support-ios@simplyauto.app.
+string name="succesfully_added_friend"    >     als Freund hinzugefügt
+string name="duplicate_friend"    >    Du bist bereits befreundet mit
+string name="google_play_err"    >    Google Play Dienste werden benötigt
+string name="err_sync"    >    Fehler beim Synchronisieren der Daten
+string name="sync_noti_title"    >    Daten synchronisiert
+string name="sync_add_fu_noti_msg1"    >    \u0020gerade nachgetankt\u0020
+string name="sync_add_fu_noti_msg1_da"    >
+string name="sync_add_fu_noti_msg3"    >    Preis:\u0020
+string name="sync_upd_fu_noti_msg1"    >    \u0020gerade nachgetankt für\u0020
+string name="sync_del_fu_noti_msg1"    >    \u0020edgerade eine Tankfüllung gelöscht für\u0020
+string name="sync_add_service_noti_msg1"    >    \u0020gerade gewartet\u0020
+string name="sync_add_service_noti_msg2"    >    Services:\u0020
+string name="sync_upd_service_noti_msg1"    >    \u0020gerade einen Service aktualisiert für\u0020
+string name="sync_del_service_noti_msg1"    >    \u0020gerade einen Service gelöscht für\u0020
+string name="sync_add_exp_noti_msg1"    >    \u0020gerade eine Ausgabe hinzugefügt für\u0020
+string name="sync_add_exp_noti_msg2"    >    Ausgaben:\u0020
+string name="sync_upd_exp_noti_msg1"    >    \gerade eine Ausgabe aktualisiert für\u0020
+string name="sync_del_exp_noti_msg1"    >    \u0020gerade eine Ausgabe gelöscht für\u0020
+string name="sync_add_trip_noti_msg1"    >    \u0020gerade eine Fahrt hinzugefügt für\u0020
+string name="sync_upd_trip_noti_msg1"    >     Eine Reise wurde aktualisiert
+string name="sync_del_trip_noti_msg1"    >     Reise wurde gelöscht für
+string name="sync_failure_noti_title"    >    Synchronisierung fehlgeschlagen
+string name="sync_failure_noti_msg1"    >    Fehler beim Synchronisieren von Daten von\u0020
+string name="sync_failure_noti_msg1_da"    >
+string name="sync_failure_noti_vehid_err"    >    \u0020nicht gefunden
+string name="sync_friend_req_title"    >    Fahrer Anfrage
+string name="sync_friend_confirmed_title"    >    Fahrer bestätigt
+string name="sync_friend_req"    >     möchte Sie als Fahrer hinzufügen
+string name="sync_friend_confirmed"    >     wurde als Fahrer bestätigt
+string name="requested"    >    Angefragt
+string name="confirm"    >    Bestätigen
+string name="pb_confirming_req"    >    Anfrage bestätigen
+string name="error_confirming_friend"    >    Es ist ein Fehler aufgetrenen. Versuchen Sie es bitte erneut, oder wenden Sie sich an den Support support-ios@simplyauto.app.
+string name="delete_friend_title"    >    Fahrer löschen
+string name="delete_friend_msg"    >    Sind Sie sicher, dass sie den Fahrer  löschen wollen?
+string name="pb_deleting"    >    Lösche Fahrer&#8230;
+string name="error_deleting_friend"    >    Fahrer kann nicht gelöscht werden
+string name="sync_friend_deleted_title"    >    Fahrer gelöscht
+string name="sync_friend_deleted"    >      hat Sie als Fahrer gelöscht
+string name="full_sync_request_title"    >    Vollständige Synchronisierungsanfrage senden
+string name="full_sync_request_msg_1"    >    Möchten Sie eine Anfrage zum Synchronisieren aller Ihrer Daten senden?\u0020
+string name="full_sync_request_msg_2"    >    \?
+string name="full_sync_request_noti_title"    >    Vollständige Synchronisierungsanfrage
+string name="full_sync_request_noti_msg"    >    \u0020möchte seine/ihre Simply Auto-Daten mit Ihrem Gerät synchronisieren.
+string name="full_sync_title"    >    Vollständige Synchronisierung
+string name="full_sync_msg"    >    Möchten Sie Ihre Simply Auto-Daten mit diesen Daten überschreiben?
+string name="full_sync_success"    >    Daten wurden erfolgreich synchronisiert.
+string name="full_sync_err"    >    Synchronisierung der Daten fehlgeschlagen. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app.
+string name="sync_deregister_title"    >    Melden Sie sich von Sync ab
+string name="sync_deregister_msg"    >    Möchten Sie sich von Sync abmelden? Sie müssen sich erneut anmelden, um Daten mit anderen Fahrern zu senden und zu empfangen.
+string name="pb_deregistering"    >    Abmeldung
+string name="err_deregistering"    >    Fehler beim erfolgreichen Aufheben der Registrierung
+string name="or"    >    oder
+string name="hint_username"    >    Benutername
+string name="hint_email"    >    Email
+string name="hint_username_email"    >    Email
+string name="submit"    >    Übertragen
+string name="sign_in"    >    Anmelden
+string name="add_driver"    >    Fahrer hinzufügen
+string name="no_val_entered"    >    Geben Sie eine gültige E-Mail-Adresse für die Suche ein.
+string name="driver_requests"    >    Fahreranfragen
+string name="no_driver_requests"    >    Sie haben keine ausstehenden Fahreranfragen
+string name="full_sync_requests"    >    Vollständige Synchronisierungsanfragen
+string name="no_full_sync_requests"    >    Sie haben keine offenen Synchronisierungsanfragen
+string name="sync_help1_go_pro_to_sync"    >    Diese Funktion ist als Teil der Pro-Version verfügbar
+string name="got_it"    >    Verstanden
+string name="sync_help_add_driver_msg"    >    Wenn Sie Ihre Daten mit einem anderen Fahrerr synchronisieren möchten, müssen Sie ihn zu Ihrer Liste hinzufügen. Dies ist ein Fahrer, der sich mit seiner eigenen Google Mail-ID angemeldet hat. Stellen Sie sicher, dass auf beiden Geräten des Fahrers das gl
+string name="sync_help_full_sync_driver_msg"    >    Um Ihre gesamten Daten auf das Gerät eines anderen Treibers zu übertragen, klicken Sie auf die Schaltfläche Vollständige Synchronisierung. Es wird empfohlen, dies beim ersten Hinzufügen eines Treibers zu tun.
+string name="sync_help_delete_driver_msg"    >    Um die Synchronisierung von Daten mit einem Treiber zu beenden, müssen Sie ihn aus Ihrer Liste löschen.
+string name="sync_help_driver_req_msg"    >    Ausstehende Treiberanforderungen an Sie werden hier angezeigt. Nur wenn Sie dies bestätigen, wird die automatische Synchronisierung mit dem Treiber aktiviert.
+string name="sync_help_full_sync_req_msg"    >    Alle Full Sync-Anforderungen eines anderen Treibers, um seine gesamten Daten auf Ihr Telefon zu übertragen, werden hier angezeigt.
+string name="sync_help_deregister_msg"    >    Klicken Sie auf diese Schaltfläche, um die Registrierung aus der Cloud aufzuheben. Dadurch wird Ihr Gerät daran gehindert, Daten an die Cloud zu senden oder von dieser zu empfangen.
+string name="sync_full_sync_req_footer"    >    Vollständige Synchronisierungsanforderungen werden nach sieben Tagen gelöscht
+string name="sync_tip_on_confirming_friend_title"    >    Tipp
+string name="sync_tip_on_confirming_friend_msg"    >    Es wird empfohlen, dass Sie zunächst eine \'Full Sync\' von Daten von einem der Geräte durchführen. Dadurch wird sichergestellt, dass beide Geräte auf dem neuesten Stand sind.\n\nUm \'Vollständige Synchronisierung\' zu klicken, klicken Sie auf die Schaltf
+string name="err_invalid_name_email"    >    Bitte geben Sie einen gültigen Benutzernamen und eine gültige E-Mail Adresse ein.
+string name="sync_file_found"    >    Für diese E-Mail Adresse sind bereits Daten in der Cloud gespeichert. Sollen die Daten auf diesem Telefon mit den Daten der Cloud überschrieben werden?
+string name="sync_new_data_on_server"    >    Neuere Daten wurden in der Cloud gefunden. Möchten Sie Daten auf diesem Telefon mit den in der Cloud verfügbaren Daten überschreiben?
+string name="sync_overwrite_phone"    >    Ja, Datensatz auf diesem Telefon überschreiben.
+string name="sync_overwrite_cloud"    >    Nein, Datensatz vom Telefon verwenden (Daten aus der Cloud werden überschrieben)
+string name="sync_cloud_overwritten"    >    Daten vom Telefon in der Cloud gesichert
+string name="sync_data_exists_on_cloud"    >    Datensatz in der Cloud vorhanden
+string name="cloud_sync_upload_err"    >    Fehler beim Senden der Daten an die Cloud. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="cloud_sync_download_err"    >    Fehler beim Laden der Daten von der Cloud. Bitte kontaktieren Sie den Support unter support-ios@simplyauto.app
+string name="downloaded_cloud_data_successfully"    >    Daten aus der Cloud erfolgreich geladen. Bitte wählen Sie ein Fahrzeug im Fahrzeug-Menü aus.
+string name="last_sync"    >    Letzte Synchronisation:
+string name="sync_help"    >    Einrichtung der Synchronisation
+string name="sync_help_sign_in_msg"    >    Melden Sie sich mit ihrer Gmail-ID an um die Synchronisation in die Cloud einzurichten. Wenn Sie mehrere Geräte synchron halten wollen, melden Sie sich mit der gleichen ID bei allen Geräten an.
+string name="sync_sign_in_you_can"    >    Mit unserem Sync-Feature können Sie:
+string name="sync_sign_in_1"    >    \u25CB Daten in der Cloud speichern
+string name="sync_sign_in_2"    >    \u25CB Synchronisation auf mehrere Geräte *
+string name="sync_sign_in_3"    >    \u25CB Nie mehr Sorgen über Datenverlust
+string name="sync_sign_in_4"    >    \u25CB Synchronisiere Daten mit mehreren Fahrern *
+string name="sync_sign_in_5"    >    \u25CB Sofortiges Sichern von Belegen in der Cloud *
+string name="sync_sign_in_footnote"    >    * Nur in der Pro-Version verfügbar
+string name="sync_full_sync_err"    >    Ein Fahrzeug wird mindestens gebraucht um alle Daten mit einem anderen Fahrer zu synchronisieren
+string name="gmail_read_err"    >    Gmail Konto nicht gefunden
+string name="pb_overwriting"    >    Daten überschreiben
+string name="pb_uploading"    >    Hochladen von Daten in die Cloud
+string name="resync"    >    Neu synchronisieren
+string name="deregister"    >    Abmelden
+string name="help"    >    Hilfe
+string name="sync_resync_title"    >    Neu synchronisieren
+string name="sync_resync_msg"    >    Möchten Sie die Daten auf diesem Telefon mit den in der Cloud verfügbaren Daten überschreiben?
+string name="out_of_sync_title"    >    Daten nicht synchron
+string name="out_of_sync_msg"    >    Bitte benutzen Sie die Resync Option in \'My Cloud Account\' um Daten mit der Cloud zu synchronisieren.
+string name="pb_deleting_all"    >    Alle Daten löschen
+string name="pb_downloading_vehicles"    >    Fahrzeuge herunterladen
+string name="pb_downloading_logs"    >    protokolle herunterladen
+string name="pb_downloading_receipt"    >    Quittungen herunterladen
+string name="pb_waiting_for_response"    >    Warte auf Antwort vom Server
+string name="err_sync_with_driver"    >    Synchronisierung der daten mit anderen Fahrern fehlgeschlagen
+string name="receipt_pro_only"    >    * Rechnungsbelege werden in der kostenlosen Version nicht gespeichert
+string name="downloaded_cloud_data_with_issues"    >    Einige Ihrer Daten konnten nicht synchronisiert werden.Bitte kontaktieren Sie support-ios@simplyauto.app.
+string name="sync_pass_with_some_issues"    >    Probleme mit der Synchronisierung
+string name="ok_with_missing_out"    >    Ich möchte diese Funktionen nicht
+string name="want_to_sign_in"    >    Ich möchte mich anmelden
+string name="sync_veh_id_not_found_noti_msg"    >    \u0020nicht gefunden.
+>
+!-- Sync Splash Screen --    >
+string name="cloud_backup_header"    >    Verlieren Sie nie wieder Ihre Daten.
+string name="cloud_backup_msg"    >    Alle Ihre Daten werden sofort in der Cloud gesichert.
+string name="desktop_access_header"    >    Greifen Sie auf Ihre Daten auf dem Desktop zu.
+string name="desktop_access_msg"    >    Erhalten Sie Zugriff auf alle Ihre Daten auf www.simplyauto.app.
+string name="device_sync_header"    >    Synchronisierung über mehrere Geräte.
+string name="device_sync_msg"    >    Verwenden Sie mehrere Geräte? Kein Problem. Simply Auto hält Daten auf allen Ihren Geräten synchron.
+string name="driver_share_header"    >    Synchronisieren Sie mehrere Fahrer.
+string name="driver_share_msg"    >    Ist Ihr Fahrzeug für mehrere Fahrer freigegeben? Mit Simply Auto können Sie andere Fahrer einladen und Daten mit ihnen synchronisieren.
+>
+!-- Cloud Help --    >
+string name="cloud_help"    >    Cloud Hilfe
+string name="help_backup"    >    In Cloud sichern
+string name="help_web"    >    Simply Auto Web
+string name="help_multi_devices"    >    Synchronisierung über mehrere Geräte
+string name="help_multi_drivers"    >    Synchronisierung zwischen mehreren Fahrern
+string name="cloud_help_backup1"    >    Um sicherzustellen, dass Ihre Daten sicher und sofort auf unserem Cloud-Server gespeichert werden, müssen Sie sich vom Hauptmenü aus \'in der Cloud anmelden\'.
+string name="cloud_help_backup2"    >    Das Wiederherstellen von Daten aus Ihrem Backup ist so einfach wie das erneute Anmelden in Ihrem Konto.
+string name="cloud_help_backup3"    >    Wir empfehlen, gelegentlich manuelle Sicherungen über die \'Google Drive Sicherung\'-Option von Ihrem Google Drive-Konto zu tätigen.
+string name="cloud_help_web_main"    >    Besuchen Sie www.simplyauto.app und klicken Sie auf die Schaltfläche "Anmelden", um auf Ihre Simply Auto-Daten im Internet zuzugreifen.
+string name="help_backup_main"    >    Hilfe Sicherung allgemein
+string name="help_backup_deregister"    >    Hilfe Sicherung abmelden
+string name="help_web_main"    >    Hilfe Web allgemein
+string name="help_sync_devices_main"    >    Hilfe Gerätesynchronisierung allgemein
+string name="help_sync_driver_add_driver"    >    Hilfe Fahrersynchronisierung Fahrer hinzufügen
+string name="help_sync_driver_del_driver"    >    Hilfe Fahrersynchronisierung Fahrer entfernen
+string name="help_sync_driver_driver_req"    >    Hilfe Fahrersynchronisierung Fahrer benötigt
+string name="help_sync_driver_fs_req"    >    Hilfe Fahrersynchronisierung Fahrer FS benötigt
+string name="help_sync_driver_fs_driver"    >    Hilfe Fahrersynchronisierung Fahrer FS Fahrer
+string name="help_sync_devices1"    >    Wenn Sie mehrere Geräte besitzen und Ihre Simply Auto-Daten auf diesen Geräten synchronisieren möchten, melden Sie sich mit derselben ID auf allen Geräten in der Cloud an.
+>
+!-- Help --    >
+string name="contact_us_desc"    >    Fragen? Brauchen Sie Hilfe?
+string name="feedback_desc"    >    Anregungen. Verbesserungswünsche.
+string name="feedback_msg"    >    Suggest a feature? Report a bug? Or just drop in a hi!\nWe love to hear from our users.\n(For a quicker response please mail us at support-ios@simplyauto.app).
+string name="feedback_email"    >    Email (optional)
+string name="feedback_thanks"    >    Danke für die Rückmeldung!
+string name="feedback_msg_empty"    >    Bitte geben Sie eine gültige Nachricht ein
+string name="support"    >    Support
+>
+!-- Auto Trip Settings --    >
+string name="auto_drive_detect_menu"    >    Auto-Fahrtenprotokollierung
+string name="auto_drive_detection"    >    Automatische Fahrtenprotokollierung
+string name="def_trip_type"    >    Standard Fahrtentyp
+string name="weekdays"    >    Wochentage
+string name="weekend"    >    Wochenende
+string name="do_not_track"    >    Keine Fahrten am Wochenende ermitteln
+string name="loc_mode_title"    >    Standortmodus
+string name="loc_mode_msg"    >    Der Standortmodus muss auf Hohe Genauigkeit gesetzt werden, damit Fahrten automatisch aufgezeichnet werden können. Sie können dies tun, indem Sie in Ihrem Telefon auf Einstellungen >  Standort gehen.
+string name="take_me_there"    >    Bringe mich dahin
+string name="ill_do_it_myself"    >    Ich mache es selbst
+string name="loc_off_title"    >    Automatische Fahrtenprotokollierung deaktiviert
+string name="loc_off_msg"    >    Tippen Sie hier, um den Standort zu aktivieren
+string name="loc_mode_low_title"    >    Automatische Fahrtenprotokollierung funktioniert möglicherweise nicht
+string name="loc_mode_low_msg"    >    Tippen Sie hier, um den Standort zu einem Ort mit hoher Genauigkeit zu ändern
+string name="loc_service_start_fail"    >    Fehler beim Starten der automatischen Fahrtenprotokollierung
+string name="view_edit_tax_rates"    >    Steuersätze ansehen/bearbeiten
+string name="noti_trips_remaining_title"    >    \u0020kostenlose automatische Fahrten verbleibend
+string name="noti_trips_remaining_msg"    >    Die kostenlose Version ermöglicht 15 automatische Fahrten pro Monat. Danach können Sie die Protokollierung manuell aktualisieren oder fortsetzen.
+string name="noti_free_trips_over_title"    >    Upgrade für unbegrenzte automatische Protokollierung von Fahrten
+string name="noti_free_trips_over_msg"    >    Sie haben Ihr Kontingent von 15 automatischen Reisen für diesen Monat aufgebraucht. Upgraden oder protokollieren Sie Fahrten manuell.
+string name="free_trips_remaining"    >    Kostenlose Fahrten diesen Monat noch:
+string name="go_pro_for_auto_logging"    >    zur unbegrenzten automatischen Protokollierung von Fahrten
+string name="first_auto_trip_check_title"    >    Automatische Fahrt aktiviert
+string name="first_auto_trip_check_msg"    >    Automatische Fahrt erkennt nun automatisch Ihre Fahrten und speichert sie. Diese Funktion benötigt möglicherweise ein paar Fahrten, um mit der genauen Berechnung zu beginnen.
+>
+!-- Add trip help --    >
+string name="enable_odo_fields"    >    Um Kilometerzählerwerte für Abfahrt und Ankunft einzugeben, aktivieren Sie die Felder hier.
+string name="enable_auto_trip"    >    Um die automatische Fahrtenprotokollierung zu aktivieren, gehen Sie im Hauptmenü zu \'Automatische Fahrtenprotokollierung\'.
+>
+!-- customize at --    >
+string name="customize_at"    >    Bildschirm "Fahrt hinzufügen" anpassen
+string name="show_odo"    >    Kilometerzähler für Fahrten anzeigen
+>
+!-- Report --    >
+string name="email_to"    >    Diesen Bericht als E-Mail an
+string name="report_dates"    >    Daten einschließen für:
+string-array name="report_date_range"    >
+item    >    Gesamte Zeit
+item    >    Diesen Monat
+item    >    Letzten Monat
+item    >    Letzte 90 Tage
+item    >    Dieses Jahr
+item    >    Letztes Jahr
+item    >    Benutzerdefiniertes Datum
+/string-array    >
+string name="include_raw_data"    >    Rohdaten einschließen
+string name="file_type"    >    Dateityp:
+string name="csv"    >    CSV
+string name="pdf"    >    PDF
+string name="include_receipts"    >    Schließe Quittungen ein
+string name="gen_report"    >    Erstelle Bericht
+string name="automated_report"    >    Automatisierte Berichte
+string name="pb_sending_raw_data"    >    Sende Rohdaten&#8230;
+string name="pb_sending_receipts"    >    Sending Quittungen&#8230;
+string name="err_generating_rep"    >    Fehler beim Erstellen des Berichts
+string name="no_email_msg"    >    Bitte geben Sie eine gültige E-Mail-Adresse ein, an die der Bericht gesendet werden soll.
+string name="no_data_found"    >    Keine Daten für die ausgewählten Daten gefunden
+string name="dep_date"    >    Abfahrtsdatum
+string name="dep_odo"    >    km bei Abfahrt
+string name="dep_loc"    >    Abfahrtsort
+string name="arr_date"    >    Ankunftsdatum
+string name="arr_odo"    >    km bei Ankunft
+string name="arr_loc"    >    Ankunftsort
+string name="upgrade_gp_err"    >    Um Rohdaten und csv-Dateien anzuhängen kaufen Sie bitte ein Upgrade
+string name="emails_send_to"    >    Die Bericht werden per E-Mail gesendet an:
+string name="schedule"    >    Zeitplan:
+string-array name="report_schedule"    >
+item    >    wöchentlich
+item    >    monatlich
+/string-array    >
+string name="start_schedule"    >    Zeitplan starten
+string name="generating_graphs"    >    Erstelle Diagramme&#8230;
+string name="generating_email"    >    Erstelle Email&#8230;
+string name="total_fillups"    >    Gesamte Füllungen
+string name="total_services"    >    Gesamte Services
+string name="report_success_msg"    >    Ihr Bericht wurde per Email übermittelt
+string name="alarm_set_weekly"    >    Danke! Ihre Berichte werden jeden Sonntag um 8.00 Uhr verschickt.
+string name="alarm_set_monthly"    >    Danke! Ihre Berichte werden jeden letzten Tag im Monat um 8.00 Uhr verschickt.
+string name="stop_sched"    >    Zeitplan stoppen
+string name="alarm_stop_schedule"    >    Danke! Wir senden Ihnen keine Berichte mehr.
+string name="auto_report_sent_noti_msg"    >    Ihr Bericht wurde zugesandt
+string name="go_pro_auto_report_msg"    >    Um automatisierte Berichte zu planen, aktualisieren Sie bitte auf die Platinum-Mitgliedschaft.
+string name="fuel_cost_analysis"    >    KRAFTSTOFFKOSTENANALYSE
+string name="upcoming_reminders"    >    KOMMENDE ERINNERUNGEN
+string name="total_service_cost"    >    Gesamt-Servicekosten
+string name="all_vehicles"    >    Alle Fahrzeuge
+>
+!-- New Dashboard --    >
+string name="recent_log"    >    Letzte Protokolleinträge
+string name="tax_deductions"    >    Steuer\nabzüge
+string name="fuel_cost_dashboard"    >    Kraftstoffkosten der\nletzten 30 Tage
+string name="fill_ups_dashboard"    >    Auffüllungen in den\nletzten 30 Tagen
+string name="trips_dashboard"    >    Reisen in den\nletzten 30 Tagen
+string name="trip_dashboard"    >    Reise in\nden letzten 30 Tagen
+string name="tax_ded_dashboard"    >    Steuerabzüge in den\nletzten 30 Tagen
+string name="overdues_dashboard"    >    Überfällige \ nErinnerungen
+string name="upcomings_dashboard"    >    Kommende \nErinnerungen
+string name="overdue_dashboard"    >    Überfällige \ nErinnerung
+string name="upcoming_dashboard"    >    Kommende \nErinnerung
+string name="services_dashboard"    >    Services in den\nletzten 30 Tagen
+string name="tax_ded"    >    Steuerabzüge
+string name="show_all"    >    Alle anzeigen
+string name="average"    >    Durchschnitt
+>
+!-- Onboarding --    >
+string name="onboarding_expenses"    >    Behalten Sie die Ausgaben Ihres Fahrzeugs im Auge, indem Sie den Kraftstoffverbrauch und andere Ausgaben nachverfolgen.
+string name="onboarding_servicing"    >    Verbessern Sie die Lebensdauer Ihres Fahrzeugs durch zeitnahe Wartung und Instandhaltung.
+string name="onboarding_trip"    >    Zeichnen Sie Ihre Reisen auf, um Ihre Steuerabzüge im Auge zu behalten.
+string name="onboarding_cloud"    >    Melden Sie sich in der Cloud an, um sofortige Backups zu erstellen, Daten mit anderen Fahrern auszutauschen und Daten zwischen Geräten zu synchronisieren.
+string name="lets_get_stared"    >    LASS UNS ANFANGEN
+>
+!-- Maps --    >
+string name="maps"    >    Karten
+string name="fillups_and_services"    >    Auffüllungen &amp; Services
+string name="am"    >    #VALUE!
+string name="pm"    >    #VALUE!
+string name="go_pro_for_trip_maps"    >    Um Reisekarten anzusehen, aktualisieren Sie bitte auf die Platinum-Mitgliedschaft.
+>
+!-- Support --    >
+string name="support_msg"    >    Hallo! Wie können wir helfen?
+string name="message"    >    Mitteilung
+string name="email_err"    >    Bitte geben Sie eine gültige Email-Adresse ein
+string name="msg_err"    >    Bitte geben Sie eine Nachricht ein, die Sie an uns senden möchten
+string name="support_send_err"    >    Entschuldigung, es ist ein Problem aufgetreten. Bitte mailen Sie uns direkt an unter support-ios@simplyauto.app.
+string name="support_sent"    >    Danke! Wir werden uns in Kürze mit Ihnen in Verbindung setzen.
+>
+!-- Service Center Rating --    >
+string name="sr_rate_title"    >    Möchten Sie dieses Service Center bewerten?
+string name="sr_rating_err"    >    Bitte geben Sie eine gültige Bewertung ein.
+string name="sr_footnote"    >    Diese Bewertung kann in Zukunft veröffentlicht werden
+>
+!-- FOR CUEBIQ AND GDPR --    >
+!-- Privacy Policy --    >
+string name="privacy_popup_desc"    >    Simply Auto sammelt möglicherweise anonyme Standortinformationen, um eine bessere Darstellung zu erzielen.\n\nWenn Sie in diesem Popup-Fenster auf \ "Zustimmen \" klicken, stimmen Sie zu, diese mit Cuebiq zu teilen, um Ihr Werbeerlebnis zu verbessern, die
+string name="review_policy"    >    Richtlinien überprüfen
+string name="deny"    >    Verweigern
+string name="agree"    >    Erlauben
+*/

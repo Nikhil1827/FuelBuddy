@@ -1,0 +1,693 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "06G-KR-W7K"; */
+"06G-KR-W7K.text" = "ที่ตั้ง";
+
+/* Class = "UIButton"; normalTitle = "All Time"; ObjectID = "0Ra-yj-nER"; */
+"0Ra-yj-nER.normalTitle" = "เวลาทั้งหมด";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0pY-wv-8YT"; */
+"0pY-wv-8YT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Ll-E3-Hmi"; */
+"1Ll-E3-Hmi.text" = "Label";
+
+/* Class = "UILabel"; text = "Label1"; ObjectID = "1T8-dw-E8p"; */
+"1T8-dw-E8p.text" = "Label1";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "1TR-xX-1gF"; */
+"1TR-xX-1gF.title" = "มากกว่า";
+
+/* Class = "UIButton"; normalTitle = "Generate Report"; ObjectID = "1tn-up-iXF"; */
+"1tn-up-iXF.normalTitle" = "สร้างรายงาน";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "21p-bh-q7x"; */
+"21p-bh-q7x.placeholder" = "ที่ตั้ง";
+
+/* Class = "UILabel"; text = "Weekends"; ObjectID = "2ah-0u-Xag"; */
+"2ah-0u-Xag.text" = "สุดสัปดาห์";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "2gY-Gi-led"; */
+"2gY-Gi-led.normalTitle" = "ยกเลิก";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "2kV-M9-HJD"; */
+"2kV-M9-HJD.title" = "back";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "2s2-Q1-E3H"; */
+"2s2-Q1-E3H.normalTitle" = "นโยบายความเป็นส่วนตัว";
+
+/* Class = "UISegmentedControl"; 3Mx-na-dPd.segmentTitles[0] = "Fillups & Services"; ObjectID = "3Mx-na-dPd"; */
+"3Mx-na-dPd.segmentTitles[0]" = "Fillups & Services";
+
+/* Class = "UISegmentedControl"; 3Mx-na-dPd.segmentTitles[1] = "Trips"; ObjectID = "3Mx-na-dPd"; */
+"3Mx-na-dPd.segmentTitles[1]" = "ทริป";
+
+/* Class = "UITextField"; placeholder = "Notes containing"; ObjectID = "3gp-Jp-uaj"; */
+"3gp-Jp-uaj.placeholder" = "หมายเหตุ containing";
+
+/* Class = "UILabel"; text = "Time Traveled"; ObjectID = "3oE-H0-1g0"; */
+"3oE-H0-1g0.text" = "เวลาเดินทาง";
+
+/* Class = "UILabel"; text = "Record Type"; ObjectID = "4Ce-f0-g6X"; */
+"4Ce-f0-g6X.text" = "ประเภทบันทึก";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4JK-kv-3pK"; */
+"4JK-kv-3pK.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Q0-MM-5aO"; */
+"4Q0-MM-5aO.text" = "Label";
+
+/* Class = "UILabel"; text = "Include receipts"; ObjectID = "4V2-qF-571"; */
+"4V2-qF-571.text" = "รวมใบเสร็จรับเงิน";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "4pV-y8-pzb"; */
+"4pV-y8-pzb.text" = "(tap to dissmiss)";
+
+/* Class = "UITextField"; placeholder = "Insurance #"; ObjectID = "52h-WF-g2e"; */
+"52h-WF-g2e.placeholder" = "ประกันภัย #";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "5gj-he-6Id"; */
+"5gj-he-6Id.text" = "(tap to dissmiss)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5o6-g7-9EQ"; */
+"5o6-g7-9EQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "659-m7-OTs"; */
+"659-m7-OTs.text" = "ที่ตั้ง";
+
+/* Class = "UILabel"; text = "requested"; ObjectID = "6Vk-Wz-sBl"; */
+"6Vk-Wz-sBl.text" = "requested";
+
+/* Class = "UILabel"; text = "Tax Deduction Rate"; ObjectID = "7Ba-s9-t9N"; */
+"7Ba-s9-t9N.text" = "Tax Deduction Rate";
+
+/* Class = "UIButton"; normalTitle = "support-ios@simplyauto.app"; ObjectID = "7GI-dw-zS8"; */
+"7GI-dw-zS8.normalTitle" = "support-ios@simplyauto.app";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Ru-dD-3zF"; */
+"7Ru-dD-3zF.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Licence No."; ObjectID = "87o-Tg-CEQ"; */
+"87o-Tg-CEQ.placeholder" = "เลขที่ใบอนุญาต";
+
+/* Class = "UILabel"; text = "(tap to dismiss)"; ObjectID = "8Gt-uz-DVL"; */
+"8Gt-uz-DVL.text" = "(tap to dismiss)";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "8J2-I9-rqY"; */
+"8J2-I9-rqY.normalTitle" = "เพิ่ม";
+
+/* Class = "UILabel"; text = "Free trips remaining this month: "; ObjectID = "8Tc-hD-Dx1"; */
+"8Tc-hD-Dx1.text" = "ทริปฟรีที่เหลือในเดือนนี้: ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "8UR-5F-RRj"; */
+"8UR-5F-RRj.normalTitle" = "ตกลง";
+
+/* Class = "UILabel"; text = "Default trip type"; ObjectID = "8XD-RB-vja"; */
+"8XD-RB-vja.text" = "ประเภทการเดินทางเริ่มต้น";
+
+/* Class = "UITextField"; placeholder = "Distance Traveled"; ObjectID = "8bo-cP-Py9"; */
+"8bo-cP-Py9.placeholder" = "ระยะทางเดินทาง";
+
+/* Class = "UILabel"; text = " From:"; ObjectID = "8kf-FS-aBR"; */
+"8kf-FS-aBR.text" = " จาก:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8rg-4e-guY"; */
+"8rg-4e-guY.text" = "Label";
+
+/* Class = "UILabel"; text = "Requested"; ObjectID = "8wg-HR-g98"; */
+"8wg-HR-g98.text" = "การขอใช้บริการ";
+
+/* Class = "UILabel"; text = "Change distance, volume, efficiency and currency units by navigating to More->Settings"; ObjectID = "90j-uD-A0a"; */
+"90j-uD-A0a.text" = "Change distance, volume, efficiency and currency units by navigating to More->Settings";
+
+/* Class = "UITextField"; placeholder = "Parking"; ObjectID = "95k-Ir-3WP"; */
+"95k-Ir-3WP.placeholder" = "Parking";
+
+/* Class = "UISegmentedControl"; 9OR-4C-jXN.segmentTitles[0] = "Service Reminders"; ObjectID = "9OR-4C-jXN"; */
+"9OR-4C-jXN.segmentTitles[0]" = "Service การแจ้งเตือน";
+
+/* Class = "UISegmentedControl"; 9OR-4C-jXN.segmentTitles[1] = "Expense Reminders"; ObjectID = "9OR-4C-jXN"; */
+"9OR-4C-jXN.segmentTitles[1]" = "Expense การแจ้งเตือน";
+
+/* Class = "UIButton"; normalTitle = "View/Edit tax rates"; ObjectID = "9lk-03-KcG"; */
+"9lk-03-KcG.normalTitle" = "ดู / แก้ไขอัตราภาษี";
+
+/* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "A09-DL-1NF"; */
+"A09-DL-1NF.normalTitle" = "เงื่อนไขการให้บริการ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aba-Il-byJ"; */
+"Aba-Il-byJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AfR-59-vig"; */
+"AfR-59-vig.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "B3M-Y3-h4I"; */
+"B3M-Y3-h4I.text" = "USD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B4O-7n-Wga"; */
+"B4O-7n-Wga.text" = "Label";
+
+/* Class = "UILabel"; text = "Get started by clicking on \"+\" button below"; ObjectID = "BAu-d9-hK4"; */
+"BAu-d9-hK4.text" = "Get started by clicking on \"+\" button below";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "BXG-Xp-ycm"; */
+"BXG-Xp-ycm.placeholder" = "Select Date";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "Bib-RC-YhC"; */
+"Bib-RC-YhC.text" = "แบบ";
+
+/* Class = "UINavigationItem"; title = "Add Driver"; ObjectID = "Bup-ls-rEr"; */
+"Bup-ls-rEr.title" = "Add Driver";
+
+/* Class = "UILabel"; text = "Recurring Task"; ObjectID = "CZm-50-4cI"; */
+"CZm-50-4cI.text" = "Recurring Task";
+
+/* Class = "UILabel"; text = "Include receipts"; ObjectID = "CdH-wW-vQA"; */
+"CdH-wW-vQA.text" = "รวมใบเสร็จรับเงิน";
+
+/* Class = "UILabel"; text = "Last sync :"; ObjectID = "Cdq-tn-nL2"; */
+"Cdq-tn-nL2.text" = "การซิงค์ครั้งล่าสุด :";
+
+/* Class = "UILabel"; text = "Edit Task"; ObjectID = "D28-KE-WZW"; */
+"D28-KE-WZW.text" = "Edit Task";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "DfE-Cm-Vep"; */
+"DfE-Cm-Vep.text" = "ปี";
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "Dor-gY-Ng6"; */
+"Dor-gY-Ng6.text" = "ยี่ห้อ";
+
+/* Class = "UILabel"; text = "Date greater than"; ObjectID = "E0c-Cq-E8d"; */
+"E0c-Cq-E8d.text" = "Date greater than";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E1P-5V-ROc"; */
+"E1P-5V-ROc.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "E1c-ym-6bb"; */
+"E1c-ym-6bb.placeholder" = "ราคา";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "EY1-d8-Dwx"; */
+"EY1-d8-Dwx.text" = "date";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "Ejl-0b-X4d"; */
+"Ejl-0b-X4d.text" = "ไมล์";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "ErB-TA-1YG"; */
+"ErB-TA-1YG.normalTitle" = "วันที่";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "FDD-af-zjM"; */
+"FDD-af-zjM.placeholder" = "ที่ตั้ง";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FYn-12-fW4"; */
+"FYn-12-fW4.title" = "Item";
+
+/* Class = "UILabel"; text = "Year 2016"; ObjectID = "Fs0-t0-47l"; */
+"Fs0-t0-47l.text" = "ปี 2016";
+
+/* Class = "UILabel"; text = "Distance Traveled"; ObjectID = "Fzi-h1-HtR"; */
+"Fzi-h1-HtR.text" = "ระยะทางเดินทาง";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G5b-Qp-UzD"; */
+"G5b-Qp-UzD.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "GBq-aN-L4m"; */
+"GBq-aN-L4m.text" = "USD";
+
+/* Class = "UILabel"; text = "Include data for:"; ObjectID = "Gae-da-GpY"; */
+"Gae-da-GpY.text" = "รวมข้อมูลสำหรับ:";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "H9U-Qf-nDi"; */
+"H9U-Qf-nDi.placeholder" = "แบบ";
+
+/* Class = "UIButton"; normalTitle = "Save Trip"; ObjectID = "HXM-Xr-WdB"; */
+"HXM-Xr-WdB.normalTitle" = "Save Trip";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HrF-R5-aMq"; */
+"HrF-R5-aMq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Privacy policy"; ObjectID = "Hur-VR-o2Z"; */
+"Hur-VR-o2Z.normalTitle" = "นโยบายความเป็นส่วนตัว";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hvj-y1-5W7"; */
+"Hvj-y1-5W7.text" = "Label";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "Iik-aq-KAQ"; */
+"Iik-aq-KAQ.text" = "ไมล์";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Isa-Jn-YQ5"; */
+"Isa-Jn-YQ5.text" = "n/a";
+
+/* Class = "UITextField"; placeholder = "Make"; ObjectID = "J2H-Y6-EZ2"; */
+"J2H-Y6-EZ2.placeholder" = "ยี่ห้อ";
+
+/* Class = "UITextField"; placeholder = "0.0"; ObjectID = "J5i-Dx-eIA"; */
+"J5i-Dx-eIA.placeholder" = "0.0";
+
+/* Class = "UITabBarItem"; title = "Vehicle"; ObjectID = "JVo-FH-5cp"; */
+"JVo-FH-5cp.title" = "พาหนะ";
+
+/* Class = "UIButton"; normalTitle = "Days"; ObjectID = "JZV-t5-UiC"; */
+"JZV-t5-UiC.normalTitle" = "วัน";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K81-p9-JyQ"; */
+"K81-p9-JyQ.text" = "Label";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "KOr-cB-khC"; */
+"KOr-cB-khC.text" = "(tap to dissmiss)";
+
+/* Class = "UITabBarItem"; title = "  Stats & Charts"; ObjectID = "KPm-jz-Hub"; */
+"KPm-jz-Hub.title" = "  Stats & Charts";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Krh-o3-oig"; */
+"Krh-o3-oig.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L6A-pl-bnt"; */
+"L6A-pl-bnt.text" = "Label";
+
+/* Class = "UINavigationController"; title = "Trip Navigation Controller"; ObjectID = "Laj-lj-bnK"; */
+"Laj-lj-bnK.title" = "Trip Navigation Controller";
+
+/* Class = "UILabel"; text = "Date Range"; ObjectID = "LbQ-uX-wqi"; */
+"LbQ-uX-wqi.text" = "Date Range";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LyQ-73-gUR"; */
+"LyQ-73-gUR.text" = "Label";
+
+/* Class = "UILabel"; text = "FileType:"; ObjectID = "LzE-tG-bl8"; */
+"LzE-tG-bl8.text" = "FileType:";
+
+/* Class = "UILabel"; text = "Select Fields to be Emailed"; ObjectID = "MMW-qt-ohy"; */
+"MMW-qt-ohy.text" = "Select Fields to be Emailed";
+
+/* Class = "UILabel"; text = "Arrival"; ObjectID = "MWv-vV-oqJ"; */
+"MWv-vV-oqJ.text" = "ถึงจุดหมาย";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "MYJ-zT-wrN"; */
+"MYJ-zT-wrN.placeholder" = "ระยะทางสะสม";
+
+/* Class = "UILabel"; text = "Weekdays"; ObjectID = "MvA-6Z-Ql8"; */
+"MvA-6Z-Ql8.text" = "วันธรรมดา";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "NMY-Ez-e97"; */
+"NMY-Ez-e97.text" = "n/a";
+
+/* Class = "UITextView"; text = "Label"; ObjectID = "Nhu-tP-xOz"; */
+"Nhu-tP-xOz.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "O2s-JJ-0cM"; */
+"O2s-JJ-0cM.placeholder" = "จาก";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Odj-m2-APS"; */
+"Odj-m2-APS.text" = "Label";
+
+/* Class = "UILabel"; text = "Display odometer for Expenses"; ObjectID = "OeH-NB-mCM"; */
+"OeH-NB-mCM.text" = "Display odometer for Expenses";
+
+/* Class = "UITextField"; placeholder = "Email this report to"; ObjectID = "PF2-SO-iul"; */
+"PF2-SO-iul.placeholder" = "ส่งอีเมลรายงานนี้ไปที่";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pvr-va-Uwa"; */
+"Pvr-va-Uwa.text" = "Label";
+
+/* Class = "UILabel"; text = "Whichever Comes First"; ObjectID = "Qjg-zQ-T1h"; */
+"Qjg-zQ-T1h.text" = "Whichever Comes First";
+
+/* Class = "UIButton"; normalTitle = "www.simplyauto.com"; ObjectID = "RDI-FE-yCD"; */
+"RDI-FE-yCD.normalTitle" = "www.simplyauto.com";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "RDJ-Iv-ie8"; */
+"RDJ-Iv-ie8.text" = "หมายเหตุ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "RMp-Ae-qs7"; */
+"RMp-Ae-qs7.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "RhH-EJ-PpO"; */
+"RhH-EJ-PpO.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S4w-ob-0Y4"; */
+"S4w-ob-0Y4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Odometer Greater than"; ObjectID = "SIf-yV-3ZF"; */
+"SIf-yV-3ZF.normalTitle" = "ระยะทางสะสม Greater than";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "SOt-l2-f41"; */
+"SOt-l2-f41.text" = "วันที่";
+
+/* Class = "UIButton"; normalTitle = "Customise Simply Auto"; ObjectID = "STu-3G-0PA"; */
+"STu-3G-0PA.normalTitle" = "Customise Simply Auto";
+
+/* Class = "UILabel"; text = "Add New Vehicle through the menu and then go to \"vehicles\""; ObjectID = "Sg1-ZD-rc3"; */
+"Sg1-ZD-rc3.text" = "Add New Vehicle through the menu and then go to \"vehicles\"";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "SwI-cX-EHb"; */
+"SwI-cX-EHb.title" = "หน้าจอหลัก";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "T1q-X9-ATu"; */
+"T1q-X9-ATu.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TGC-bu-164"; */
+"TGC-bu-164.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TJv-Ub-ogD"; */
+"TJv-Ub-ogD.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Toll"; ObjectID = "Tan-wX-8Db"; */
+"Tan-wX-8Db.placeholder" = "Toll";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "Tfj-2u-3GX"; */
+"Tfj-2u-3GX.placeholder" = "ไปที่";
+
+/* Class = "UITextField"; placeholder = "Fuel Type"; ObjectID = "UwY-Zl-71q"; */
+"UwY-Zl-71q.placeholder" = "Fuel ชนิด";
+
+/* Class = "UIButton"; normalTitle = "UPGRADE"; ObjectID = "V47-00-m2n"; */
+"V47-00-m2n.normalTitle" = "UPGRADE";
+
+/* Class = "UILabel"; text = "Full Sync requests will be deleted after seven days"; ObjectID = "VNC-jf-kD6"; */
+"VNC-jf-kD6.text" = "Full Sync requests will be deleted after seven days";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "VRm-8r-ebH"; */
+"VRm-8r-ebH.text" = "ไปที่:";
+
+/* Class = "UILabel"; text = "CSV"; ObjectID = "VeF-gq-Kls"; */
+"VeF-gq-Kls.text" = "CSV";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "WFW-C7-qwQ"; */
+"WFW-C7-qwQ.placeholder" = "ระยะทางสะสม";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WNa-f8-790"; */
+"WNa-f8-790.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wof-es-9oj"; */
+"Wof-es-9oj.text" = "Label";
+
+/* Class = "UILabel"; text = "Email this report to"; ObjectID = "WvT-J0-v66"; */
+"WvT-J0-v66.text" = "ส่งอีเมลรายงานนี้ไปที่";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "XGE-qg-8UN"; */
+"XGE-qg-8UN.normalTitle" = "Ok";
+
+/* Class = "UITabBarItem"; title = "Reminders"; ObjectID = "XYg-S9-46O"; */
+"XYg-S9-46O.title" = "การแจ้งเตือน";
+
+/* Class = "UILabel"; text = "Veh Name"; ObjectID = "XZM-B7-I8O"; */
+"XZM-B7-I8O.text" = "Veh Name";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Xz0-X8-sKg"; */
+"Xz0-X8-sKg.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y4R-Tb-rwp"; */
+"Y4R-Tb-rwp.text" = "Label";
+
+/* Class = "UILabel"; text = "Odometer"; ObjectID = "YYq-0K-3pw"; */
+"YYq-0K-3pw.text" = "ระยะทางสะสม";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "YuM-sR-ZUs"; */
+"YuM-sR-ZUs.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yut-TI-GR8"; */
+"Yut-TI-GR8.text" = "Label";
+
+/* Class = "UILabel"; text = "USD/mi"; ObjectID = "Z7O-L5-ff4"; */
+"Z7O-L5-ff4.text" = "USD/mi";
+
+/* Class = "UILabel"; text = "No Reminder"; ObjectID = "ZQM-qw-rXN"; */
+"ZQM-qw-rXN.text" = "No Reminder";
+
+/* Class = "UITextField"; placeholder = "VIN"; ObjectID = "Zau-Ur-dg6"; */
+"Zau-Ur-dg6.placeholder" = "VIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a16-zq-maf"; */
+"a16-zq-maf.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "aHb-Ve-mlP"; */
+"aHb-Ve-mlP.placeholder" = "ชื่อ";
+
+/* Class = "UILabel"; text = "Insurance #"; ObjectID = "aMM-TZ-7gz"; */
+"aMM-TZ-7gz.text" = "ประกันภัย #";
+
+/* Class = "UILabel"; text = "PDF"; ObjectID = "ai3-FI-5WX"; */
+"ai3-FI-5WX.text" = "PDF";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "bgm-xP-HeT"; */
+"bgm-xP-HeT.placeholder" = "ปี";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "brA-xu-jqE"; */
+"brA-xu-jqE.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bsK-I5-Hqg"; */
+"bsK-I5-Hqg.text" = "Label";
+
+/* Class = "UILabel"; text = "*Both fields are mandatory"; ObjectID = "c8j-WB-lEu"; */
+"c8j-WB-lEu.text" = "*Both fields are mandatory";
+
+/* Class = "UILabel"; text = "Include raw data"; ObjectID = "c9M-iW-jhB"; */
+"c9M-iW-jhB.text" = "รวมข้อมูลดิบ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cRN-iK-Tnk"; */
+"cRN-iK-Tnk.text" = "Label";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "ckj-nM-mIa"; */
+"ckj-nM-mIa.text" = "(tap to dissmiss)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cxA-dI-ZSP"; */
+"cxA-dI-ZSP.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "dKy-2B-s0z"; */
+"dKy-2B-s0z.text" = "USD";
+
+/* Class = "UILabel"; text = "Track trip via GPS"; ObjectID = "dQ0-pb-Eua"; */
+"dQ0-pb-Eua.text" = "ติดตามการเดินทางผ่าน GPS";
+
+/* Class = "UIViewController"; title = "Custom Specifications"; ObjectID = "dbR-8M-Glp"; */
+"dbR-8M-Glp.title" = "Custom Specifications";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "dii-go-1oj"; */
+"dii-go-1oj.text" = "หมายเหตุ";
+
+/* Class = "UILabel"; text = "V1.0"; ObjectID = "dsD-Dc-YZ4"; */
+"dsD-Dc-YZ4.text" = "V1.0";
+
+/* Class = "UILabel"; text = "Fill up"; ObjectID = "f48-wy-oKW"; */
+"f48-wy-oKW.text" = "Fill up";
+
+/* Class = "UIButton"; normalTitle = "Automated Reports"; ObjectID = "fYT-PH-fuW"; */
+"fYT-PH-fuW.normalTitle" = "รายงานอัตโนมัติ";
+
+/* Class = "UIButton"; normalTitle = "GO PRO"; ObjectID = "gFc-5y-ApK"; */
+"gFc-5y-ApK.normalTitle" = "GO PRO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gFi-vh-ZrG"; */
+"gFi-vh-ZrG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJw-eh-aeB"; */
+"gJw-eh-aeB.text" = "Label";
+
+/* Class = "UILabel"; text = "VIN"; ObjectID = "ge6-W5-xQq"; */
+"ge6-W5-xQq.text" = "VIN";
+
+/* Class = "UITextField"; placeholder = "Reports will be emailed to"; ObjectID = "ggP-25-Gwd"; */
+"ggP-25-Gwd.placeholder" = "รายงานจะถูกส่งไปยัง";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "gvy-5d-sNM"; */
+"gvy-5d-sNM.text" = "ชนิด";
+
+/* Class = "UILabel"; text = "PDF"; ObjectID = "h37-YX-0xg"; */
+"h37-YX-0xg.text" = "PDF";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hBx-qu-w9e"; */
+"hBx-qu-w9e.text" = "Label";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "hrm-aU-Ohj"; */
+"hrm-aU-Ohj.text" = ">";
+
+/* Class = "UILabel"; text = "File Type: "; ObjectID = "hso-HV-kKb"; */
+"hso-HV-kKb.text" = "File ชนิด: ";
+
+/* Class = "UIButton"; normalTitle = "FAQ"; ObjectID = "ice-NN-6J0"; */
+"ice-NN-6J0.normalTitle" = "คำถามที่พบบ่อย";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ihO-Zn-v3n"; */
+"ihO-Zn-v3n.text" = "Label";
+
+/* Class = "UILabel"; text = "Toll"; ObjectID = "iuD-FK-kat"; */
+"iuD-FK-kat.text" = "Toll";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jAn-OP-Uvm"; */
+"jAn-OP-Uvm.text" = "Label";
+
+/* Class = "UILabel"; text = "Simply Auto"; ObjectID = "jHd-Y2-JsI"; */
+"jHd-Y2-JsI.text" = "Simply Auto";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "jOq-r4-hJk"; */
+"jOq-r4-hJk.text" = "ไมล์";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "jSy-SJ-oSd"; */
+"jSy-SJ-oSd.normalTitle" = "เงื่อนไขการให้บริการ";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "jYL-hy-zfV"; */
+"jYL-hy-zfV.text" = "ไมล์";
+
+/* Class = "UILabel"; text = "Licence No."; ObjectID = "jfn-Hc-2gv"; */
+"jfn-Hc-2gv.text" = "Licence No.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jgX-b0-3Un"; */
+"jgX-b0-3Un.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jxS-qg-6tF"; */
+"jxS-qg-6tF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k6k-Nt-4xy"; */
+"k6k-Nt-4xy.text" = "Label";
+
+/* Class = "UILabel"; text = "CSV"; ObjectID = "kEe-cW-byB"; */
+"kEe-cW-byB.text" = "CSV";
+
+/* Class = "UIButton"; normalTitle = "Custom Specifications"; ObjectID = "kbl-Gg-tFq"; */
+"kbl-Gg-tFq.normalTitle" = "Custom Specifications";
+
+/* Class = "UILabel"; text = "1-Jan-1970  -  1-Jan-1970"; ObjectID = "kpl-E2-4GK"; */
+"kpl-E2-4GK.text" = "1-Jan-1970  -  1-Jan-1970";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lCl-Qp-lUU"; */
+"lCl-Qp-lUU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lb5-DF-p0I"; */
+"lb5-DF-p0I.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lbo-LY-VhA"; */
+"lbo-LY-VhA.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "Label2"; ObjectID = "lfo-92-MGM"; */
+"lfo-92-MGM.text" = "Label2";
+
+/* Class = "UILabel"; text = "Reports will be emailed to"; ObjectID = "m8Y-J4-bVi"; */
+"m8Y-J4-bVi.text" = "รายงานจะถูกส่งไปยัง";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mc0-fr-X3V"; */
+"mc0-fr-X3V.text" = "Label";
+
+/* Class = "UILabel"; text = "Service Every:"; ObjectID = "mh5-tT-mYz"; */
+"mh5-tT-mYz.text" = "Service Every:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mhM-z5-l2G"; */
+"mhM-z5-l2G.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "nH2-sa-b6u"; */
+"nH2-sa-b6u.placeholder" = "Select Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nPX-EY-exW"; */
+"nPX-EY-exW.text" = "Label";
+
+/* Class = "UILabel"; text = "Service Task Name"; ObjectID = "ojh-ym-UCE"; */
+"ojh-ym-UCE.text" = "Service Task Name";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "olY-Bt-cLN"; */
+"olY-Bt-cLN.text" = "วันที่";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pgZ-jT-x2A"; */
+"pgZ-jT-x2A.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "pkL-yC-2CO"; */
+"pkL-yC-2CO.text" = "วันที่";
+
+/* Class = "UILabel"; text = "Designed and developed by Mobifolio"; ObjectID = "pqR-iq-pgx"; */
+"pqR-iq-pgx.text" = "Designed and developed by Mobifolio";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ptX-hw-In4"; */
+"ptX-hw-In4.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Add Photo"; ObjectID = "pwr-Ww-SHA"; */
+"pwr-Ww-SHA.normalTitle" = "เพิ่มรูปภาพ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q8d-Ms-bUf"; */
+"q8d-Ms-bUf.text" = "Label";
+
+/* Class = "UILabel"; text = "Tax Deducted"; ObjectID = "qVC-pl-LI2"; */
+"qVC-pl-LI2.text" = "Tax Deducted";
+
+/* Class = "UILabel"; text = "for unlimited auto logging of trips"; ObjectID = "qaf-oY-gQI"; */
+"qaf-oY-gQI.text" = "for unlimited auto logging of trips";
+
+/* Class = "UILabel"; text = "Schedule:"; ObjectID = "qvr-Cz-dUf"; */
+"qvr-Cz-dUf.text" = "กำหนดการ:";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "qzP-aC-3jO"; */
+"qzP-aC-3jO.text" = "ไมล์";
+
+/* Class = "UILabel"; text = "Parking"; ObjectID = "s7w-VO-9gj"; */
+"s7w-VO-9gj.text" = "Parking";
+
+/* Class = "UILabel"; text = "You don't have any pending full sync requests"; ObjectID = "sX3-GO-8zU"; */
+"sX3-GO-8zU.text" = "คุณไม่มีคำขอการซิงค์แบบเต็มที่ค้างอยู่";
+
+/* Class = "UILabel"; text = "Change distance,volume and consumption units by navigation to \"settings\""; ObjectID = "sXE-vx-P6s"; */
+"sXE-vx-P6s.text" = "Change distance,volume and consumption units by navigation to \"settings\"";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "soa-K6-rrh"; */
+"soa-K6-rrh.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "Odometer"; ObjectID = "tvY-rC-iSL"; */
+"tvY-rC-iSL.text" = "ระยะทางสะสม";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "txL-Gh-3ui"; */
+"txL-Gh-3ui.text" = "Business";
+
+/* Class = "UILabel"; text = "Do not detect trips on weekends"; ObjectID = "uJZ-mf-3wh"; */
+"uJZ-mf-3wh.text" = "ไม่พบการเดินทางในวันหยุดสุดสัปดาห์";
+
+/* Class = "UILabel"; text = "Include raw data"; ObjectID = "uhz-yp-Iat"; */
+"uhz-yp-Iat.text" = "รวมข้อมูลดิบ";
+
+/* Class = "UILabel"; text = "Trip 1"; ObjectID = "v0v-gj-ani"; */
+"v0v-gj-ani.text" = "Trip 1";
+
+/* Class = "UISegmentedControl"; v9Q-6y-R4R.segmentTitles[0] = "GOLD"; ObjectID = "v9Q-6y-R4R"; */
+"v9Q-6y-R4R.segmentTitles[0]" = "GOLD";
+
+/* Class = "UISegmentedControl"; v9Q-6y-R4R.segmentTitles[1] = "PLATINUM"; ObjectID = "v9Q-6y-R4R"; */
+"v9Q-6y-R4R.segmentTitles[1]" = "PLATINUM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wGK-fX-Wvz"; */
+"wGK-fX-Wvz.text" = "Label";
+
+/* Class = "UILabel"; text = "Last Service:"; ObjectID = "whh-Ol-7Jc"; */
+"whh-Ol-7Jc.text" = "วันที่ให้บริการล่าสุด:";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "wmg-DM-0zI"; */
+"wmg-DM-0zI.placeholder" = "ระยะทางสะสม";
+
+/* Class = "UILabel"; text = "Display odometer for trips"; ObjectID = "xCV-AX-gOp"; */
+"xCV-AX-gOp.text" = "Display odometer for trips";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xQe-E3-ohA"; */
+"xQe-E3-ohA.text" = "Label";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "xjn-7e-FQ4"; */
+"xjn-7e-FQ4.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y1X-z7-Qit"; */
+"y1X-z7-Qit.text" = "Label";
+
+/* Class = "UILabel"; text = "Departure"; ObjectID = "y3f-ea-OcM"; */
+"y3f-ea-OcM.text" = "การออกเดินทาง";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y3u-vU-SP2"; */
+"y3u-vU-SP2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y8e-hQ-dwW"; */
+"y8e-hQ-dwW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add Driver"; ObjectID = "yVA-DE-xod"; */
+"yVA-DE-xod.normalTitle" = "Add Driver";
+
+/* Class = "UILabel"; text = "Automatic Trip Logging"; ObjectID = "yVC-qo-rc5"; */
+"yVC-qo-rc5.text" = "Automatic Trip Logging";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "yrO-BQ-uLg"; */
+"yrO-BQ-uLg.text" = "Business";
+
+/* Class = "UIButton"; normalTitle = "Custom Dates"; ObjectID = "zHx-Og-J2m"; */
+"zHx-Og-J2m.normalTitle" = "วันที่กำหนดเอง";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zkC-7P-eP6"; */
+"zkC-7P-eP6.text" = "Label";

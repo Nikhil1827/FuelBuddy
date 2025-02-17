@@ -1,0 +1,566 @@
+/* 
+  Localizable.strings
+  FuelBuddy
+
+  Created by Swapnil on 21/08/17.
+  Copyright © 2017 Oraganization. All rights reserved.
+*/
+
+"ok" = "ตกลง";
+"got_it" = "เข้าใจแล้ว";
+"save" = "บันทึก";
+"add"="เพิ่ม";
+"no_save" = "ไม่บันทึก";
+"button_later_for_partial_click" = "แสดงอีกครั้งในภายหลัง";
+"button_ok_for_tip" = "โอเคขอบคุณ";
+"cancel" = "ยกเลิก";
+"go_pro_btn" = "อัพเกรด";
+"button_fb_like" = "ชอบ!";
+"button_later" = "ภายหลัง";
+"button_never" = "ไม่เคย";
+"restore" = "กู้คืน";
+"button_rate_app" = "ให้คะแนนแอพ";
+"yes" = "ใช่";
+"no" = "ไม่ใช่";
+"comma_enter_err" = "Notes ไม่สามารถยอมรับเครื่องหมายจุลภาคและบรรทัดใหม่";
+"date" = "วันที่";
+"odometer" = "ระยะทางสะสม";
+"tc_tv" = "ค่าใช้จ่ายทั้งหมด";
+"tv_vendor" = "ผู้ขาย";
+"notes_tv" = "หมายเหตุ";
+"mk_model_comma_err" = "ยี่ห้อและรุ่นไม่สามารถยอมรับเครื่องหมายจุลภาค";
+"make_tv" = "ยี่ห้อ";
+"model_tv" = "แบบ";
+"vin" = "VIN";
+"lic_no_tv" = "เลขที่ใบอนุญาต";
+"insurance_no" = "ประกันภัย #";
+"vehicle" = "พาหนะ";
+"veh_tv" = "ยานพาหนะ";
+"specification_tv" = "Specifications"; //not found
+"edit_custom_parts" = "แก้ไขข้อมูลจำเพาะ";
+"edit_fill_up_header" = "แก้ไข";
+"add_fill_up_header" = "เพิ่ม";
+"first_partial_click_msg" = "การเติมเต็มถังบางส่วนคือเมื่อถังไม่เติมจนเต็ม ประสิทธิภาพของบันทึกนี้จะแสดงเป็น 'n/a' จนกว่าจะมีการเติมน้ำมันเต็มถัง";
+"first_missed_fu_click_msg" = "เลือกตัวเลือกนี้เมื่อคุณไม่ได้บันทึกการเติมครั้งก่อนหน้าอย่างน้อยหนึ่งรายการ";
+"set" = "ตั้งค่า";
+"trp" = "ระยะทาง";
+"prc_per_unt" = "ราคา / หน่วย";
+"octane" = "ออกเทน";
+"fb_tv" = "เชื้อเพลิงยี่ห้อ";
+"fs_tv" = "ปั้มน้ำมัน";
+"trp_after_first_fu" = "การเติมครั้งแรกคุณจะต้องป้อนค่าเครื่องวัดระยะทาง คุณจะสามารถเปลี่ยนเป็นระยะทางในการเดินทางสำหรับการเติมครั้งต่อไป";
+"fill_up_custom_msg" = "ปรับแต่งหน้าจอนี้เพื่อเพิ่มฟิลด์ใหม่, ลบฟิลด์, เติมค่าล่วงหน้า, ฯลฯ";
+"required" = "(คำขอ";
+"cust_fus_head" = "ปรับแต่งหน้าจอเติม";
+"cust_fu_head" = "เลือกช่องป้อนข้อมูล";
+"odo_trip_tv" = "ค่าที่จะใส่ระหว่างเติม";
+"trp_distance" = "ระยะการเดินทาง";
+"pv_msg" = "คัดลอกค่าจากการเติมก่อนหน้านี้";
+"atuo_brand_fs_msg" = "ตรวจจับสถานีบรรจุและยี่ห้ออัตโนมัติตามสถานที่ตั้ง";
+"view_expense" = "ค่าใช้จ่าย";
+"attach_receipt" = "แนบใบเสร็จรับเงิน";
+"add_expenses" = "เพิ่มค่าใช้จ่าย";
+"edit_expenses" = "แก้ไขค่าใช้จ่าย";
+"qty_required" = "จำนวน (Req)";
+"pf_tv" = "ถังบางส่วน";
+"mf_tv" = "พลาดก่อนหน้านี้เติม";
+"comma_err" = "ไม่สามารถยอมรับคอมมาที่นี่";
+"noti_msg_veh" = "เกินกำหนดสำหรับ";
+"reminders" = "การแจ้งเตือน";
+"recurring_string" = "*You can set reminders for recurring tasks only";//not found
+//NIKHIL ENH_48
+"reminder_sort_default"="Sort type";//not found
+"reminder_sort_0" = "Sort by name";//not found
+"reminder_sort_1" = "Sort by due";//not found
+"tv_expenses" = "รายจ่าย";
+"last_paid_on" = "จ่ายครั้งสุดท้ายเมื่อ:";
+"no_payments" = "ไม่มีการจ่ายเงิน";
+"tot_services" = "บริการ";
+"tv_service_center" = "ศูนย์บริการ";
+"add_service" = "เพิ่มบริการ";
+"edit_service" = "แก้ไขบริการ";
+"date_hint" = "กำหนดวันที่";
+"tv_last_service" = "วันที่ให้บริการล่าสุด:";
+"add_service_task_help" = "เพิ่มงานบริการใหม่";
+"dist_tv" = "ระยะทาง";
+"vol_head" = "ปริมาณ";
+"cons_head" = "อัตราสิ้นเปลือง";
+"curr_head" = "สกุลเงิน";
+"faq" = "คำถามที่พบบ่อย";
+"settings_tv" = "การตั้งค่า";
+"convert_yes_btn" = "แปลงระเบียนที่มีอยู่";
+"not_applicable" = "ไม่มี";
+"odo_short" = "Odo";
+"in_progress" = "กำลังดำเนินการ";
+"edit" = "แก้ไข";
+"search_notes_hint" = "โน้ตที่มี (แยกด้วย,)";
+"search_rec" = "ค้นหาบันทึก";
+"search" = "ค้นหา";
+"all" = "All";  //not found
+"f_u_tv" = "กรอกอัพ";
+"tot_expense_cost" = "ค่าใช้จ่ายอื่น ๆ";
+"expense_task_name" = "ชื่องานค่าใช้จ่าย";
+"service_task_name" = "ชื่องานบริการ";
+"view_service" = "บริการ";
+"ser_reminders"="Service Reminders"; //not found
+"exp_reminders"="Expense Reminders"; //not found
+"last_service" = "บริการล่าสุด:";
+"due_on" = "วันที่นัดหมด:";
+"delete" = "ลบ";
+"days" = "วัน";
+"reminder_due_date_unit_array_1" = "Months"; //not found
+"reminder_due_date_unit_array_2" = "Years"; //not found
+"pro_gps_trip" = "GPS tracking for manual trips"; //not found
+"pro_backup_receipts" = "สำรองและเรียกคืนอิมเมจใบเสร็จรับเงินไปยัง Google Drive";
+"pro_add_custom" = "เพิ่มงานบริการและค่าใช้จ่ายใหม่";
+"pro_ad_free" = "ลบโฆษณา";
+"email_btn" = "Email Log"; //not found
+"abt_btn" = "เกี่ยวกับ";
+"backup" = "การสำรองข้อมูล";
+"backup_success" = "สำรองข้อมูลสำเร็จ";
+"restore_success" = "คืนค่าสำเร็จ";
+"backup_descval" = "Backup all your data to Google Drive"; //not found
+"restore_descval" = "Restore all your data to Google Drive"; //not found
+"restore_receipts" = "เรียกคืนอิมเมจใบเสร็จรับเงิน";
+"continue" = "Continue"; //not found
+"Tab3Title" = "หน้าจอหลัก";
+"graph_date_range_0" = "All Time"; //not found
+"graph_date_range_1" = "This Month"; //not found
+"graph_date_range_2" = "Last Month"; //not found
+"graph_date_range_3" = "This Year"; //not found
+"graph_date_range_4" = "Custom Dates";
+"customize_dashboard_screen_help" = "ปรับแต่งหน้าจอนี้เพื่อเพิ่มสถิติใหม่หรือลบสถิติที่ซ้ำซ้อน";
+"f_q_tv" = "ปริมาณเชื้อเพลิง";
+"f_c_tv" = "ต้นทุนเชื้อเพลิง";
+"tot_service_cost" = "ต้นทุนการให้บริการ";
+"avg_fuel_tv" = "น้ำมันเชื้อเพลิงเฉลี่ย";
+"fuel_tv" = "Fuel Efficiency"; //not found
+"dist_btn_fu_graph_name" = "ระยะห่างระหว่างการเติม";
+"qty_per_fu_tv" = "จำนวนต่อการเติม";
+"cost_per_fu_tv" = "ราคาต่อการเติม";
+"fu_pm_tv" = "เติมต่อเดือน";
+"cpd_tv" = "ราคาเชื้อเพลิง / วัน";
+"failed"="Failed"; //not found
+
+//new_7 Add Driver 8june2018
+"sync_failed" = "Sync Failed"; //not found
+
+//ENH_57 3july2018
+"location_access" = "Need location access to detect filling stations"; //not found
+"go_to_settings" = "To re-enable, please go to Settings and turn on Location Service for this app."; //not found
+"multiple_receipts" = "Attaching multiple receipts is only available in the pro version"; //not found
+"pro_feature_only" = "This feature is available as a part of the Pro version"; //not found
+"cpmth_tv" = "ราคาเชื้อเพลิง / เดือน";
+"avg_price_tv" = "ราคาเฉลี่ย /";
+"eff_oct_tv" = "Eff โดย Octn";
+"eff_brand_tv" = "Eff โดยแบรนด์";
+"eff_stn_tv" = "Eff โดย Stn";
+"service_cost_tv" = "ต้นทุนบริการ /";
+"scpd_tv" = "ค่าบริการ / วัน";
+"ecpd_tv" = "ค่าใช้จ่ายอื่น ๆ / วัน";
+"expense_cost_tv" = "ค่าใช้จ่ายอื่น ๆ /";
+"total_trips" = "ทริปทั้งหมด";
+"total_trip_dist" = "ระยะการเดินทางรวม";
+"total_tax_ded" = "ลดหย่อนภาษีทั้งหมด";
+"trip_by_type" = "Dist ตามประเภท()";
+"tax_ded_by_type" = "ภาษีหักตามประเภท()";
+"tot_fig_tv" = "สถิติทั้งหมด";
+"cust_db_head"="ปรับแต่งสถิติ & amp; ชาร์ต";
+"avg"="เฉลี่ย";
+"avg_fig_head" = "สถิติเชื้อเพลิงเฉลี่ย";
+"avg_service_head" = "สถิติการบริการโดยเฉลี่ย";
+"avg_expense_head" = "สถิติค่าใช้จ่ายเฉลี่ยอื่น ๆ";
+"trip_stats" = "สถิติการเดินทาง";
+"eff_by_oct_graph_name" = "ประสิทธิภาพโดยออกเทน";
+"eff_by_brand_graph_name" = "ประสิทธิภาพโดยแบรนด์";
+"eff_by_stn_graph_name" = "ประสิทธิภาพโดยการเติมสถานี";
+"trip_dist_by_type_graph_name" = "ระยะทางตามประเภทการเดินทาง";
+"trip_tax_ded_by_type_graph_name" = "ภาษีหักตามประเภทการเดินทาง";
+"cost_tv" = "ค่าเชื้อเพลิง /";
+"view_fill_up" = "เติมให้เต็ม";
+"def_car" = "รถคันเริ่มต้น";
+"button_later_for_tip" = "เตือนฉันภายหลัง";
+"trips" = "ทริป";
+"attach_csv" = "แนบเป็นไฟล์ CSV";
+"sel_fields" = "เลือกเขตข้อมูล";
+"footnote_for_email" = "* ส่งผ่าน Simply Auto";
+"total" = "ผลรวมการเดินทาง";
+"trip_by_type_tv" = "Dist ตามประเภท";
+"tax_ded_by_type_tv" = "ภาษีหักตามประเภท";
+"no_records_found" = "ไม่พบบันทึก โปรดตรวจสอบให้แน่ใจว่าคนขับที่คุณกำลังเพิ่มนั้นเป็นผู้ใช้มืออาชีพด้วย";
+"date_time" = "วันเวลา";
+"location" = "ที่ตั้ง";
+"type" = "ชนิด";
+"dist_traveled" = "ระยะทางเดินทาง";
+"time_traveled" = "เวลาเดินทาง";
+"tax_deduction_rate" = "อัตราการลดหย่อนภาษี";
+"tax_deduction_amount" = "ลดหย่อนภาษี";
+"qty_tv" = "ปริมาณ";
+"departure" = "การออกเดินทาง";
+"arrival" = "ถึงจุดหมาย";
+"add_trip" = "เพิ่มระยะทาง";
+//NIKHIL BUG_127 //added edit trip string
+"edit_trip" = "แก้ไขการเดินทาง";
+"end_trip" = "สิ้นสุดการเดินทาง";
+"start_trip" = "เริ่มการเดินทาง";
+"add_new" = "เพิ่มใหม่";
+"trip_started" = "การเดินทางเริ่มต้น";
+"trip_in_progress" = "กำลังเดินทาง";
+"export" = "สำรองข้อมูลด้วยตนเอง";
+"imp" = "คืนค่าด้วยตนเอง";
+"exim_btn" = "สำรองข้อมูล Google Drive";
+"from_date_head" = "จาก:";
+"to_date_head" = "ไปที่:";
+"year" = "ปี";
+"invalid_email" = "Invalid Email"; //not found
+"enter_valid_email" = "Please enter proper email address"; //not found
+"part_name" = "ชื่อ";
+"part_val" = "ราคา";
+"mi" = "ไมล์";
+"kms" = "กม.";
+"ltr" = "ลิตร";
+"gal" = "แกลลอน";
+"disp_miles" = "ไมล์";
+"disp_kilometers" = "กิโลเมตร";
+"disp_litre" = "ลิตร";
+"disp_gal_us" = "แกลลอน(อเมริกา)";
+"disp_gal_uk" = "แกลลอน(อังกฤษ)";
+"disp_kmpl" = "กม./ชม.";
+"disp_lp100kms" = "ลิตร/100กม.";
+"disp_mpg_us" = "ไมล์ต่อแกลลอน(อเมริกา)";
+"disp_mpg_uk" = "ไมล์ต่อแกลลอน(อังกฤษ)";
+"missed_fillup" = "พลาดไม่ได้";
+"customize_tv" = "ปรับแต่งอัตโนมัติเพียง";
+"invalid_at_msg3" = " มาตรวัดระยะทางที่เดินทางมาถึงต้องไม่น้อยกว่าระยะทางออกเดินทาง";
+"add_custom_parts" = "เพิ่มข้อมูลจำเพาะ";
+"cost_per_unit_tv" = "ราคา/";
+"pro_messsage_add_custom" = "การเพิ่มงานบริการไม่ จำกัด มีอยู่ในรุ่น Pro";
+"pro_messsage_add_expense" = "การเพิ่มงานค่าใช้จ่ายไม่ จำกัด มีอยู่ในรุ่น Pro";
+"incorrect_odo" = "มาตรวัดระยะทางไม่ถูกต้อง";
+"non_recurring_reminder_click" = "การแจ้งเตือนสามารถตั้งค่าได้สำหรับบริการและค่าใช้จ่ายที่เกิดขึ้นประจำเท่านั้น";
+"no_veh_id" = "ไม่มีรหัสยานพาหนะ";
+"set_reminder" = "ตั้งค่าการเตือน";
+"overdue_noti" = "เกินกำหนดบริการ";
+"err_internet" = "ไม่มีการเชื่อมต่ออินเทอร์เน็ต กรุณาลองใหม่อีกครั้งในภายหลัง.";
+"loading_msg" = "กรุณารอสักครู่กำลังโหลด ...";
+//Nikhil 18April2018
+"searching_msg" = "Searching"; //not found
+"pur_thanks" = "ขอบคุณมากสำหรับการซื้อของคุณ! คุณอาจต้องเปิดแอปใหม่เพื่อให้การซื้อมีผล";
+"confirm" = "ยืนยัน";
+"purchase_btn" = "ซื้อ";
+"customize_message" = "คุณต้องการปรับแต่ง Simply Auto สำหรับธุรกิจหรือความต้องการส่วนบุคคลของคุณหรือไม่ โปรดติดต่อเราที่ support-ios@simplyauto.app และเราจะช่วยเหลือคุณอย่างแน่นอน";
+"invalid_veh_msg1" = "ทั้งยี่ห้อและรุ่นไม่สามารถเว้นว่างไว้ได้";
+"backup_receipts" = "รวมภาพใบเสร็จรับเงินในการสำรองข้อมูล";
+"google_ac_err" = "ไม่สามารถเข้าถึง Google A/C ของคุณ";
+"exp_success_noti_msg" = "สำรองไฟล์สำเร็จแล้วใน Google Drive";
+"services_err_title" = "ข้อผิดพลาด Services.csv";
+"fuel_log_err_title" = "ข้อผิดพลาด Fuel_Log.csv";
+"vehicle_err_title" = "ข้อผิดพลาดของ Vehicle.csv";
+"receipt_upload_failed" = "การรับการสำรองข้อมูลล้มเหลว";
+"imp_err_msg" = "ไม่สามารถกู้คืนไฟล์ กรุณาติดต่อฝ่ายสนับสนุนที่ support-ios@simplyauto.app";
+"receipts_backup_restore_go_pro" = "รุ่นฟรีช่วยให้การสำรองและกู้คืนข้อมูลเท่านั้น ใบเสร็จรับเงินสามารถสำรองและกู้คืนในรุ่น Pro";
+"custom_date_err" = "โปรดตรวจสอบให้แน่ใจว่าได้เลือกวันที่อย่างถูกต้อง";
+"like_us_msg" = "คุณชอบ Simply Auto ใช่มั้ย? โปรดกดไลค์ Facebook?";
+"email_user_err" = "โปรดตรวจสอบให้แน่ใจว่าได้เลือกวันที่และฟิลด์อย่างน้อยหนึ่งช่องแล้ว";
+"trip_complete" = "การเดินทางเสร็จสมบูรณ์";
+"invalid_at_msg4" = "วันที่ / เวลามาถึงต้องไม่น้อยกว่าวันที่ / เวลาออกเดินทาง";
+"enable_location" = "เปิดใช้งานตำแหน่ง";
+"gps_tracking_not_poss" = "ไม่สามารถติดตามผ่าน GPS ได้เนื่องจาก Simply Auto ไม่ได้รับอนุญาตให้เข้าถึงตำแหน่ง";
+"trip_go_pro_msg" = "หากต้องการติดตามการเดินทางผ่าน GPS โปรดซื้อการอัปเกรด";
+"receipt" = "ใบเสร็จรับเงิน";
+"record_type" = "ประเภทบันทึก";
+"more" = "มากกว่า";
+"not_serviced" = "ยังไม่พร้อมให้บริการ";
+"privacy_policy" = "นโยบายความเป็นส่วนตัว";
+"edit_trip_type_hint" = "ประเภทการเดินทาง";
+
+
+//Sync words
+
+"cloud_backup_header" = "ไม่สูญเสียข้อมูลของคุณอีกครั้ง";
+"desktop_access_header" = "เข้าถึงข้อมูลของคุณบนเดสก์ท็อป";
+"device_sync_header" = "ซิงค์กับอุปกรณ์หลายเครื่อง";
+
+"cloud_backup_msg" = "ข้อมูลทั้งหมดของคุณจะถูกสำรองบนคลาวด์ทันที";
+"desktop_access_msg" = "เข้าถึงข้อมูลทั้งหมดของคุณได้ที่ www.simplyauto.app";
+"device_sync_msg" = "ใช้อุปกรณ์หลายเครื่อง? ไม่มีปัญหา. เพียงอัตโนมัติเก็บข้อมูลบนอุปกรณ์ทั้งหมดของคุณในการซิงค์";
+"last_sync"="การซิงค์ครั้งล่าสุด:";
+"sign_in" = "ลงชื่อเข้าใช้";
+"sync_btn"="ลงชื่อเข้าใช้ Cloud";
+"sync_btn_after_login"="บัญชี Cloud ของฉัน";
+"resync" = "Resync";
+"full_sync_title" = "ซิงค์เต็มรูปแบบ";
+"sync_data_exists_on_cloud" = "ข้อมูลมีอยู่บนคลาวด์";
+"sync_new_data_on_server" = "ตรวจพบข้อมูลที่ใหม่กว่าบนคลาวด์ คุณต้องการเขียนทับข้อมูลในโทรศัพท์นี้ด้วยข้อมูลที่มีอยู่บนคลาวด์หรือไม่";
+
+"descLabelFirstTime" = "Data for your email already exists on the cloud. Would you like to overwrite data on this phone with the data available on the cloud?"; //not found
+
+"descLabel1" = "Would you like to overwrite data on this phone with the data available on the cloud?"; //not found
+"descLabel2" = "(To check data on the cloud please log into www.simplyauto.app)"; //not found
+"sync_overwrite_phone" = "ใช่เขียนทับข้อมูลในโทรศัพท์นี้";
+"sync_overwrite_cloud" = "ไม่ใช้ข้อมูลโทรศัพท์ของฉัน (ซึ่งจะเขียนทับข้อมูลบนคลาวด์)";
+"cloud_help" = "ช่วยเหลือคลาวด์";
+"help_backup" = "สำรองข้อมูลไปยังคลาวด์";
+"help_web" = "เว็บอัตโนมัติ";
+"help_multi_devices" = "ซิงค์กับอุปกรณ์หลายเครื่อง";
+"help_sync_devices1" = "หากคุณเป็นเจ้าของอุปกรณ์หลายเครื่องและต้องการเก็บข้อมูล Simply Auto ของคุณไว้ในอุปกรณ์เหล่านี้ให้ลงชื่อเข้าใช้ระบบคลาวด์โดยใช้ ID เดียวกันในทุกอุปกรณ์";
+"sync_deregister_title" = "ยกเลิกการลงทะเบียนจากการซิงค์";
+//"deregistertitle" = "Deregister from sync";
+"deregistermsg" = "Do you want to deregister from Sync? You will need to Sign in again to send and receive data from server"; //not found
+"sign_in_failed"="Sign In failed, please try again later"; //not found
+"failed_confirm_driver"="Failed to confirm as driver"; //not found
+
+"sync_sign_in_you_can" = "หลังจากลงชื่อเข้าใช้คุณสามารถ:";
+"sync_sign_in_1" = "- สำรองข้อมูลบนคลาวด์ทันที";
+//Added star 30may nikhil
+"sync_sign_in_2" = "- เข้าถึงข้อมูลของคุณบน www.simplyauto.app*";
+"sync_sign_in_3" = "- ซิงค์กับอุปกรณ์หลายเครื่อง";
+"sync_sign_in_4" = "- ซิงค์ข้อมูลด้วยคนขับหลายตัว*";
+"sync_sign_in_5" = "- รับการสำรองข้อมูลทันทีบนคลาวด์*";
+
+"t_and_c"="ฉันยอมรับข้อกำหนดในการให้บริการของ Simply Auto และนโยบายความเป็นส่วนตัว";
+"pattern1"="เงื่อนไขการให้บริการ";
+"pattern2"="นโยบายความเป็นส่วนตัว";
+"help"="ช่วยด้วย";
+"contact_us"="ติดต่อเรา";
+
+"backupCloudText" = "Now that you've signed into cloud, all your data will be safely and instantly backed up on our cloud server.\n\nRestoring data from your backup is as easy as signing back into your account.\n\nWe do recommend taking occassional back ups to your Google Drive account from the 'Google Drive Backup' option."; //not found
+
+"faqfull" = "Frequently Asked Questions"; //not found
+"cloudHelpTut" = "Tutorial for Simply Auto's cloud functionality"; //not found
+"contactDesc" = "Questions? Need help?"; //not found
+
+"fbwebDesc" = "Visit www.simplyauto.app and click the 'Sign in' button to access your Simply Auto data on the web."; //not found
+
+"sync_help_deregister_msg" = "คลิกที่ปุ่มนี้เพื่อลงทะเบียนจากคลาวด์ การดำเนินการนี้จะหยุดอุปกรณ์ของคุณไม่ให้ส่งหรือรับข้อมูลใด ๆ ไปยังและจากคลาวด์";
+
+//Pro icons  labels
+"backupCloudPro" = "Instantly backup all your data in the cloud"; //not found
+"syncIconPro" = "Sync between multiple devices"; //not found
+"websitePro" = "Access your data on the web at www.simplyauto.app"; //not found
+
+"loggedInLabel" = "All your data will always be backed up on cloud. You can also access your data by going to www.simplyauto.app."; //not found
+
+"logInAlert" = "You have successfully signed in"; //not found
+
+//31July2018 subscription terms
+"subterms" = "Subscription Terms"; //not found
+"subterms2" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per year."; //not found
+"subterms7" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per month.";
+"subterms3" = "- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period."; //not foundการสมัครสมาชิกต่ออายุโดยอัตโนมัติเว้นแต่การต่ออายุอัตโนมัติถูกปิดอย่างน้อย 24 ชั่วโมงและบัญชีจะถูกเรียกเก็บเงินสำหรับการต่ออายุก่อนที่จะสิ้นสุดระยะเวลาปัจจุบัน
+"subterms4" = "- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase."; //not found
+"subterms5" = "- Payment will be charged to iTunes Account at confirmation of purchase."; //not found
+"subterms6" = "- The account will be charged for renewal within 24-hours prior to the end of the current period.";
+
+"instantSync" = "Instant sync of your receipts and vehicle images to the cloud"; //not found
+"threeDrivers" = "Add upto 3 drivers to sync data with"; //not found
+"attachReceipts" = "Attach multiple receipts for fill-ups, services and expenses"; //not found
+"emailLogs" = "Email your receipts and logs directly from the app"; //not found
+"changeVol" = "Change volume unit for individual fill-ups"; //not found
+"unlimitedVeh" = "Add unlimited vehicles"; //not found
+"unlimitedDrivers" = "Sync data with unlmited drivers"; //not found
+
+//2/8/2018 searchdate
+"search_date_filter_0" = "Date greater than";  //not found
+"search_date_filter_1" = "Date less than"; //not found
+"search_odo_filter_0" = "Odometer greater than"; //not found
+"search_odo_filter_1" = "Odometer less than"; //not found
+"add_photo" = "เพิ่มรูปภาพ";
+"pb_connecting" = "ลงชื่อเข้าใช้..";
+
+//Driver
+
+"full_sync_request_noti_msg"=" ต้องการซิงค์ข้อมูลอัตโนมัติของเขากับอุปกรณ์ของคุณ";
+"sync_friend_req"=" ต้องการเพิ่มคุณเป็นคนขับ";
+"sync_friend_confirmed"=" มีการยืนยันว่าเป็นคนขับ";
+"sync_friend_req_title"="คำขอไดร์เวอร์";
+"sync_friend_confirmed_title"="ยืนยันไดร์เวอร์";
+"sync_friend_deleted_title"="ลบคนขับแล้ว";
+"sync_friend_deleted"=" มีการลบคุณเป็นคนขับ";
+"requested"="การขอใช้บริการ";
+"full_sync_requests"="คำขอซิงค์แบบเต็ม";
+"no_full_sync_requests"="คุณไม่มีคำขอการซิงค์แบบเต็มที่ค้างอยู่";
+"sync_help1_go_pro_to_sync"="คุณลักษณะนี้มีให้เป็นส่วนหนึ่งของรุ่น Pro";
+"driver_share_header"="ซิงค์ระหว่างคนขับหลายคน";
+"driver_share_msg"="รถของคุณแชร์กันระหว่างคนขับหลายคนหรือไม่? เพียงอัตโนมัติช่วยให้คุณเชิญคนขับอื่น ๆ และซิงค์ข้อมูลกับพวกเขา";
+"receipt_pro_only"="*ภาพใบเสร็จรับเงินจะไม่ถูกสำรองในรุ่นฟรี";
+"sync_sign_in_footnote"="*มีเฉพาะในรุ่นโปรเท่านั้น";
+"go_pro_for_unltd_vehicles"="ในการเพิ่มยานพาหนะไม่ จำกัด โปรดอัพเกรดเป็นสมาชิกแพลตตินั่ม";
+"go_pro_unltd_vehicles_title"="เพิ่มยานพาหนะไม่ จำกัด";
+"go_pro_unltd_drivers_title"="เพิ่มคนขับไม่จำกัด";
+"go_pro_for_unltd_drivers"="ในการเพิ่มคนขับไม่จำกัด โปรดอัพเกรดเป็นสมาชิกแพลตตินั่ม";
+
+//multiple receipts
+"multi_recpt_title"="แนบใบเสร็จรับเงินหลายรายการ";
+"fillup_unit_change_title"="เปลี่ยนหน่วยสำหรับการเติมบุคคล";
+"fillup_unit_change_msg"="การเปลี่ยนหน่วยสำหรับการเติมแต่ละรายการเป็นส่วนหนึ่งของรุ่นอัพเกรด ในเวอร์ชันฟรีคุณสามารถเปลี่ยนหน่วยเริ่มต้นสำหรับแอปได้จากการตั้งค่า";
+
+//trip
+"business" = "Business";
+"charity" = "Charity";
+"medical" = "Medical";
+"personal" = "Personal";
+"moving" = "Moving";
+"select_trip_type" = "Select Trip Type";
+"select_date" = "Select Date";
+"time_traveled" = "Time Traveled";
+"parking" = "Parking";
+
+/*
+
+"search_date_filter_0" = "größer als";
+"search_date_filter_0" = "kleiner als";
+"search_date_filter_0" = "ist gleich";
+
+"search_type_filter_0" = "Alle";
+"search_type_filter_1" = "Tankeinträge";
+"search_type_filter_2" = "Serviceeinträge";
+"search_type_filter_3" = "andere Einträge";
+"search_type_filter_4" = "Touren";
+
+*/
+
+// ALL NEW 1Aug2018
+//Report
+"email_to"="ส่งอีเมลรายงานนี้ไปที่";
+"report_dates"="รวมข้อมูลสำหรับ:";
+"report_date_range_0" = "เวลาทั้งหมด";
+"report_date_range_1" = "เดือนนี้";
+"report_date_range_2" = "เดือนที่แล้ว";
+"report_date_range_3" = "90 วันล่าสุด";
+"report_date_range_4" = "ปีนี้";
+"report_date_range_5" = "ปีที่แล้ว";
+"report_date_range_6" = "วันที่กำหนดเอง";
+"include_raw_data"="รวมข้อมูลดิบ";
+"file_type"="ประเภทไฟล์:";
+"include_receipts"="รวมใบเสร็จรับเงิน";
+"gen_report"="สร้างรายงาน";
+"automated_report"="รายงานอัตโนมัติ";
+"pb_sending_raw_data"="กำลังส่งข้อมูลดิบ";
+"pb_sending_receipts"="กำลังส่งใบเสร็จรับเงิน";
+"err_generating_rep"="เกิดข้อผิดพลาดในการสร้างรายงาน";
+"no_email_msg"="โปรดป้อนที่อยู่อีเมลที่ถูกต้องเพื่อส่งรายงานไปที่";
+"no_data_found"="ไม่พบข้อมูลสำหรับวันที่ที่เลือก";
+"dep_date"="วันเดินทาง";
+"dep_odo"="ออกเดินทาง Odo";
+"dep_loc"="ออกเดินทาง Loc";
+"arr_date"="วันที่มาถึง";
+"arr_odo"="มาถึง";
+"arr_loc"="Loc มาถึง";
+"upgrade_gp_err"="หากต้องการแนบข้อมูลดิบและไฟล์ csv โปรดซื้อการอัปเกรด";
+"upgrade"="Upgrade"; //not found
+"emails_send_to"="รายงานจะถูกส่งไปยัง";
+"schedule"="กำหนดการ:";
+"report_schedule_0"="รายสัปดาห์";
+"report_schedule_1"="รายเดือน";
+"start_schedule"="เริ่มกำหนดการ";
+"stop_schedule"="Stop Schedule"; //not found
+"generating_graphs"="กำลังสร้างกราฟ";
+"generating_email"="กำลังสร้างอีเมล";
+"generating_csv"="Generating CSV"; //not found
+"generating_pdf"="Generating PDF"; //not found
+"generating_receipts"="Generating receipts"; //not found
+"total_fillups"="เติมเต็ม";
+"total_services"="รวมบริการ";
+"report_success_msg"="รายงานของคุณได้รับการส่งอีเมล";
+"alarm_set_weekly"="ขอบคุณ! รายงานของคุณจะถูกส่งออกทุกวันอาทิตย์เวลา";
+"alarm_set_monthly"="ขอบคุณ! รายงานของคุณจะถูกส่งออกทุกวันสุดท้ายของทุกเดือนเวลา";
+"stop_sched"="หยุดกำหนดการ";
+"alarm_stop_schedule"="ขอบคุณ! เราจะหยุดส่งรายงานให้คุณ";
+"auto_report_sent_noti_msg"="ส่งรายงานของคุณถึงแล้ว";
+"go_pro_auto_report_msg"="หากต้องการกำหนดเวลารายงานอัตโนมัติโปรดอัปเกรดเป็นสมาชิกแพลตตินัม";
+"fuel_cost_analysis"="การวิเคราะห์ต้นทุนเชื้อเพลิง";
+"upcoming_reminders"="คำเตือนที่จะมาถึง";
+"total_service_cost"="ต้นทุนบริการทั้งหมด";
+"report"="รายงาน";
+"pro_automated_reports"="สร้างรายงานรายสัปดาห์และรายเดือนอัตโนมัติ";
+"error_report" = "Error generating report"; //not found
+"app_terminate"="Oops the app is terminated, Sync and auto report won't work till you reopen the App"; //not found
+"sign_in_required"="To schedule automated reports you need to Sign in to Cloud"; //not found
+
+//NEW DASHBOARD
+"newTab2Title"="สถิติและแผนภูมิ"; //GT
+"tax_deductions" = "ภาษี deductions";
+"upcoming_dashboard" = "ที่จะเกิดขึ้น reminder";
+"upcomings_dashboard" = "ที่จะเกิดขึ้น reminders";
+"fuel_cost_dashboard" = "ค่าเชื้อเพลิงใน 30 วัน";
+"fill_ups_dashboard" = "เติมใน last 30 วัน";
+"trips_dashboard" = "ทริปใน last 30 วัน";
+"tax_ded_dashboard" = "การลดหย่อนภาษีใน last 30 วัน";
+"overdue_dashboard" = "ค้างชำระ reminder";
+"overdues_dashboard" = "ค้างชำระ reminders";
+"services_dashboard" = "บริการใน 30 วัน";
+"show_all"= "แสดงทั้งหมด";
+"recent_log"="รายการบันทึกล่าสุด";
+"expenses_30_days"="Expenses in last 30 days"; //not found
+
+//feedback
+"feedback"="Feedback"; //not found
+"feedback_desc"="ข้อเสนอแนะ คำขอคุณสมบัติ";
+"feedback_msg"="คุณต้องการที่จะแนะนำคุณสมบัติหรือไม่? หรือเพียงแค่ทักทาย! \ n เราชอบที่จะได้ข้อมูลจากผู้ใช้ของเรา";
+"feedback_hint"="Your feedback"; //not found
+"feedback_email"="อีเมล (ไม่บังคับ)";
+"feedback_thanks"="ขอบคุณสำหรับข้อเสนอแนะ!";
+"feedback_msg_empty"="กรุณาใส่ข้อความที่ถูกต้อง";
+"send"="ส่ง";
+"email"="Email"; //not found
+
+//Auto Trip Logging
+"first_auto_trip_check_title"="เปิดใช้งานการเดินทางอัตโนมัติ";
+"first_auto_trip_check_msg"="การเดินทางอัตโนมัติจะตรวจจับไดรฟ์ของคุณโดยอัตโนมัติและบันทึกเป็นทริปคุณลักษณะนี้อาจต้องใช้การเดินทางสองสามครั้งเพื่อเริ่มคำนวณอย่างแม่นยำ";
+
+"go_pro_for_auto_logging"="ถึงแพลตินั่มสำหรับการบันทึกอัตโนมัติของการเดินทางโดยไม่ จำกัด";
+"free_trips_remaining"="ทริปฟรีที่เหลือในเดือนนี้:";
+"noti_trips_remaining_msg"="รุ่นฟรีช่วยให้การเดินทางอัตโนมัติ 15 ครั้งต่อเดือน หลังจากนั้นคุณสามารถอัพเกรดหรือดำเนินการบันทึกต่อได้ด้วยตนเอง";
+"noti_free_trips_over_title"="อัปเกรดสำหรับการบันทึกอัตโนมัติของการเดินทางโดยไม่ จำกัด";
+"noti_free_trips_over_msg"=" คุณใช้โควต้าการเดินทางอัตโนมัติ 15 ครั้งในเดือนนี้เสร็จแล้ว อัปเกรดหรือบันทึกการเดินทางด้วยตนเอง";
+"noti_trips_remaining_title"="ฟรีการเดินทางอัตโนมัติที่เหลืออยู่";
+
+
+"auto_drive_detect_menu"="บันทึกการเดินทางอัตโนมัติ";
+"auto_drive_detection"="บันทึกการเดินทางอัตโนมัติ";
+"def_trip_type"="ประเภทการเดินทางเริ่มต้น";
+"weekdays"="วันธรรมดา";
+"weekend"="สุดสัปดาห์";
+"do_not_track"="ไม่พบการเดินทางในวันหยุดสุดสัปดาห์";
+
+"auto_drive_dialog_msg"="คุณต้องการให้ Simply Auto บันทึกการเดินทางของคุณโดยอัตโนมัติหรือไม่?";
+
+"pro_title_add_type"="เพิ่มประเภทการเดินทาง";
+"edit_custom_type"="แก้ไขประเภทการเดินทาง";
+"view_edit_tax_rates"="ดู / แก้ไขอัตราภาษี";
+
+"accept_t_and_c"="โปรดยอมรับข้อกำหนดในการให้บริการ";
+
+"kahitari"="Unlimited automatic trip logging"; //not found
+"track_via_gps"="ติดตามการเดินทางผ่าน GPS";
+
+"track_via_auto_trip"="ติดตามผ่านการเดินทางอัตโนมัติ";
+
+"maps"="แผนที่";
+
+//Added 6feb2019
+
+"user_guide"="User guide"; //not found
+"user_guide_sub"="A manual for Simply Auto"; //not found
+
+
+//Support 3 April 2019
+"support" = "Support";
+"support_msg"="Hi! How can we help?";
+"message"="Message";
+"email_err"="Please enter a valid email";
+"msg_err"="Please enter a message to send to us";
+"support_send_err"="Sorry, there was an issue submitting. Please try to mail us directly at support-ios@simplyauto.app.";
+"support_sent"="Thank you! We will be in touch with you shortly.";
+"submit"="Submit";
+"pro_priority_support_gold"="Priority support. Response with 48 working hours.";
+"pro_priority_support_platinum"="Priority support. Response with 24 working hours.";
+
+"onboarding_expenses"="รักษาค่าใช้จ่ายยานพาหนะของคุณในการตรวจสอบโดยการติดตามการบริโภคน้ำมันเชื้อเพลิงและค่าใช้จ่ายอื่น ๆ";
+"onboarding_servicing"="ปรับปรุงชีวิตยานพาหนะของคุณด้วยบริการและการบำรุงรักษาที่ทันเวลา";
+"onboarding_trip"="บันทึกการเดินทางของคุณเพื่อติดตามการหักภาษีของคุณ";
+"onboarding_cloud"="ลงชื่อเข้าใช้คลาวด์สำหรับการสำรองข้อมูลทันทีแบ่งปันข้อมูลกับคนขับอื่น ๆ และซิงค์ข้อมูลระหว่างอุปกรณ์";
+
+"skip"="ข้าม";
+"lets_get_stared"="มาเริ่มกันเลย";

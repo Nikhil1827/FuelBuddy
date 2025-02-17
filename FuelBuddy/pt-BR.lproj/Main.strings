@@ -1,0 +1,430 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "06G-KR-W7K"; */
+"06G-KR-W7K.text" = "Localização";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0pY-wv-8YT"; */
+"0pY-wv-8YT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label1"; ObjectID = "1T8-dw-E8p"; */
+"1T8-dw-E8p.text" = "Label1";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "1TR-xX-1gF"; */
+"1TR-xX-1gF.title" = "Mais";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "21p-bh-q7x"; */
+"21p-bh-q7x.placeholder" = "Localização";
+
+/* Class = "UITextField"; placeholder = "Notes containing"; ObjectID = "3gp-Jp-uaj"; */
+"3gp-Jp-uaj.placeholder" = "Notes containing";
+
+/* Class = "UILabel"; text = "Record Type"; ObjectID = "4Ce-f0-g6X"; */
+"4Ce-f0-g6X.text" = "Tipo de Registo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4JK-kv-3pK"; */
+"4JK-kv-3pK.text" = "Label";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "4pV-y8-pzb"; */
+"4pV-y8-pzb.text" = "(toque para dispensar)";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "5gj-he-6Id"; */
+"5gj-he-6Id.text" = "(toque para dispensar)";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "659-m7-OTs"; */
+"659-m7-OTs.text" = "Localização";
+
+/* Class = "UITextField"; placeholder = "Insurance #"; ObjectID = "6da-d8-yqK"; */
+"6da-d8-yqK.placeholder" = "Seguro nº";
+
+/* Class = "UILabel"; text = "Tax Deduction Rate"; ObjectID = "7Ba-s9-t9N"; */
+"7Ba-s9-t9N.text" = "Taxa de dedução de imposto";
+
+/* Class = "UIButton"; normalTitle = "support-ios@simplyauto.app"; ObjectID = "7GI-dw-zS8"; */
+"7GI-dw-zS8.normalTitle" = "support-ios@simplyauto.app";
+
+/* Class = "UITextField"; placeholder = "Licence No."; ObjectID = "87o-Tg-CEQ"; */
+"87o-Tg-CEQ.placeholder" = "Matrícula";
+
+/* Class = "UILabel"; text = "(tap to dismiss)"; ObjectID = "8Gt-uz-DVL"; */
+"8Gt-uz-DVL.text" = "(toque para dispensar)";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "8J2-I9-rqY"; */
+"8J2-I9-rqY.normalTitle" = "Add";
+
+/* Class = "UITextField"; placeholder = "Parking"; ObjectID = "95k-Ir-3WP"; */
+"95k-Ir-3WP.placeholder" = "Estacionamento";
+
+/* Class = "UISegmentedControl"; 9OR-4C-jXN.segmentTitles[0] = "Service Reminders"; ObjectID = "9OR-4C-jXN"; */
+"9OR-4C-jXN.segmentTitles[0]" = "Lembretes de Serviço";
+
+/* Class = "UISegmentedControl"; 9OR-4C-jXN.segmentTitles[1] = "Expense Reminders"; ObjectID = "9OR-4C-jXN"; */
+"9OR-4C-jXN.segmentTitles[1]" = "Lembretes de Despesa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aba-Il-byJ"; */
+"Aba-Il-byJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AfR-59-vig"; */
+"AfR-59-vig.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "B3M-Y3-h4I"; */
+"B3M-Y3-h4I.text" = "USD";
+
+/* Class = "UILabel"; text = "Get started by clicking on \"+\" button below"; ObjectID = "BAu-d9-hK4"; */
+"BAu-d9-hK4.text" = "Comece pressionando o botão +";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "BXG-Xp-ycm"; */
+"BXG-Xp-ycm.placeholder" = "Selecione a data";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "Bib-RC-YhC"; */
+"Bib-RC-YhC.text" = "Modelo";
+
+/* Class = "UILabel"; text = "Recurring Task"; ObjectID = "CZm-50-4cI"; */
+"CZm-50-4cI.text" = "Tarefa Recorrente";
+
+/* Class = "UILabel"; text = "Edit Task"; ObjectID = "D28-KE-WZW"; */
+"D28-KE-WZW.text" = "Editar Tarefa";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "DfE-Cm-Vep"; */
+"DfE-Cm-Vep.text" = "Ano";
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "Dor-gY-Ng6"; */
+"Dor-gY-Ng6.text" = "Marca";
+
+/* Class = "UILabel"; text = "Date greater than"; ObjectID = "E0c-Cq-E8d"; */
+"E0c-Cq-E8d.text" = "Data maior que";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "E1c-ym-6bb"; */
+"E1c-ym-6bb.placeholder" = "Valor";
+
+/* Class = "UILabel"; text = "Time Travelled"; ObjectID = "Ebz-SM-rAw"; */
+"Ebz-SM-rAw.text" = "Tempo de Viagem";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "Ejl-0b-X4d"; */
+"Ejl-0b-X4d.text" = "mi";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "ErB-TA-1YG"; */
+"ErB-TA-1YG.normalTitle" = "Data";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "FDD-af-zjM"; */
+"FDD-af-zjM.placeholder" = "Localização";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "FYn-12-fW4"; */
+"FYn-12-fW4.title" = "Item";
+
+/* Class = "UILabel"; text = "Year 2016"; ObjectID = "Fs0-t0-47l"; */
+"Fs0-t0-47l.text" = "Year 2016";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G5b-Qp-UzD"; */
+"G5b-Qp-UzD.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "GBq-aN-L4m"; */
+"GBq-aN-L4m.text" = "USD";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "H9U-Qf-nDi"; */
+"H9U-Qf-nDi.placeholder" = "Modelo";
+
+/* Class = "UIButton"; normalTitle = "Save Trip"; ObjectID = "HXM-Xr-WdB"; */
+"HXM-Xr-WdB.normalTitle" = "Salvar viagem";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hvj-y1-5W7"; */
+"Hvj-y1-5W7.text" = "Label";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "Iik-aq-KAQ"; */
+"Iik-aq-KAQ.text" = "mi";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Isa-Jn-YQ5"; */
+"Isa-Jn-YQ5.text" = "n/a";
+
+/* Class = "UITextField"; placeholder = "Make"; ObjectID = "J2H-Y6-EZ2"; */
+"J2H-Y6-EZ2.placeholder" = "Marca";
+
+/* Class = "UITextField"; placeholder = "0.0"; ObjectID = "J5i-Dx-eIA"; */
+"J5i-Dx-eIA.placeholder" = "0.0";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "JFV-zK-uag"; */
+"JFV-zK-uag.text" = "n/a";
+
+/* Class = "UITabBarItem"; title = "Vehicle"; ObjectID = "JVo-FH-5cp"; */
+"JVo-FH-5cp.title" = "Veículos";
+
+/* Class = "UIButton"; normalTitle = "Days"; ObjectID = "JZV-t5-UiC"; */
+"JZV-t5-UiC.normalTitle" = "dias";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "KOr-cB-khC"; */
+"KOr-cB-khC.text" = "(toque para dispensar)";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "KPm-jz-Hub"; */
+"KPm-jz-Hub.title" = "Painel de Controlo";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Krh-o3-oig"; */
+"Krh-o3-oig.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L6A-pl-bnt"; */
+"L6A-pl-bnt.text" = "Label";
+
+/* Class = "UINavigationController"; title = "Trip Navigation Controller"; ObjectID = "Laj-lj-bnK"; */
+"Laj-lj-bnK.title" = "Trip Navigation Controller";
+
+/* Class = "UILabel"; text = "Date Range"; ObjectID = "LbQ-uX-wqi"; */
+"LbQ-uX-wqi.text" = "Intervalo de datas";
+
+/* Class = "UILabel"; text = "Select Fields to be Emailed"; ObjectID = "MMW-qt-ohy"; */
+"MMW-qt-ohy.text" = "Selecione os campos a serem enviados por Email";
+
+/* Class = "UILabel"; text = "Arrival"; ObjectID = "MWv-vV-oqJ"; */
+"MWv-vV-oqJ.text" = "Chegada";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "MYJ-zT-wrN"; */
+"MYJ-zT-wrN.placeholder" = "Odómetro";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "NMY-Ez-e97"; */
+"NMY-Ez-e97.text" = "n/a";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "O2s-JJ-0cM"; */
+"O2s-JJ-0cM.placeholder" = "De";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pvr-va-Uwa"; */
+"Pvr-va-Uwa.text" = "Label";
+
+/* Class = "UILabel"; text = "Whichever Comes First"; ObjectID = "Qjg-zQ-T1h"; */
+"Qjg-zQ-T1h.text" = "O que ocorrer primeiro";
+
+/* Class = "UIButton"; normalTitle = "www.simplyauto.com"; ObjectID = "RDI-FE-yCD"; */
+"RDI-FE-yCD.normalTitle" = "www.simplyauto.com";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "RDJ-Iv-ie8"; */
+"RDJ-Iv-ie8.text" = "Notas";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "RhH-EJ-PpO"; */
+"RhH-EJ-PpO.text" = "n/a";
+
+/* Class = "UIButton"; normalTitle = "Odometer Greater than"; ObjectID = "SIf-yV-3ZF"; */
+"SIf-yV-3ZF.normalTitle" = "Odômetro maior que";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "SOt-l2-f41"; */
+"SOt-l2-f41.text" = "Data";
+
+/* Class = "UIButton"; normalTitle = "Customise SimplyAuto"; ObjectID = "STu-3G-0PA"; */
+"STu-3G-0PA.normalTitle" = "Personalizar Parceiro de Combustível";
+
+/* Class = "UILabel"; text = "Add New Vehicle through the menu and then go to \"vehicles\""; ObjectID = "Sg1-ZD-rc3"; */
+"Sg1-ZD-rc3.text" = "Adicione um novo veículo navegando para Veículos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TGC-bu-164"; */
+"TGC-bu-164.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TJv-Ub-ogD"; */
+"TJv-Ub-ogD.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Toll"; ObjectID = "Tan-wX-8Db"; */
+"Tan-wX-8Db.placeholder" = "Toll";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "Tfj-2u-3GX"; */
+"Tfj-2u-3GX.placeholder" = "A";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "WFW-C7-qwQ"; */
+"WFW-C7-qwQ.placeholder" = "Odómetro";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wof-es-9oj"; */
+"Wof-es-9oj.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Reminders"; ObjectID = "XYg-S9-46O"; */
+"XYg-S9-46O.title" = "Lembretes";
+
+/* Class = "UILabel"; text = "Veh Name"; ObjectID = "XZM-B7-I8O"; */
+"XZM-B7-I8O.text" = "Veh Name";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "Xz0-X8-sKg"; */
+"Xz0-X8-sKg.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y4R-Tb-rwp"; */
+"Y4R-Tb-rwp.text" = "Label";
+
+/* Class = "UILabel"; text = "Odometer"; ObjectID = "YYq-0K-3pw"; */
+"YYq-0K-3pw.text" = "Odómetro";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "YuM-sR-ZUs"; */
+"YuM-sR-ZUs.text" = "n/a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yut-TI-GR8"; */
+"Yut-TI-GR8.text" = "Label";
+
+/* Class = "UILabel"; text = "USD/mi"; ObjectID = "Z7O-L5-ff4"; */
+"Z7O-L5-ff4.text" = "USD/mi";
+
+/* Class = "UILabel"; text = "No Reminder"; ObjectID = "ZQM-qw-rXN"; */
+"ZQM-qw-rXN.text" = "Não lembrar";
+
+/* Class = "UITextField"; placeholder = "VIN"; ObjectID = "Zau-Ur-dg6"; */
+"Zau-Ur-dg6.placeholder" = "VIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a16-zq-maf"; */
+"a16-zq-maf.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "aHb-Ve-mlP"; */
+"aHb-Ve-mlP.placeholder" = "Nome";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "bgm-xP-HeT"; */
+"bgm-xP-HeT.placeholder" = "Ano";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bsK-I5-Hqg"; */
+"bsK-I5-Hqg.text" = "Label";
+
+/* Class = "UILabel"; text = "*Both fields are mandatory"; ObjectID = "c8j-WB-lEu"; */
+"c8j-WB-lEu.text" = "Por favor certifique-se de que ambos os campos estão preenchidos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cRN-iK-Tnk"; */
+"cRN-iK-Tnk.text" = "Label";
+
+/* Class = "UILabel"; text = "(tap to dissmiss)"; ObjectID = "ckj-nM-mIa"; */
+"ckj-nM-mIa.text" = "(toque para dispensar)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cxA-dI-ZSP"; */
+"cxA-dI-ZSP.text" = "Label";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "dKy-2B-s0z"; */
+"dKy-2B-s0z.text" = "USD";
+
+/* Class = "UILabel"; text = "Track trip via GPS"; ObjectID = "dQ0-pb-Eua"; */
+"dQ0-pb-Eua.text" = "Monitorizar via GPS";
+
+/* Class = "UIViewController"; title = "Custom Specifications"; ObjectID = "dbR-8M-Glp"; */
+"dbR-8M-Glp.title" = "Especificações Personalizadas";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "dii-go-1oj"; */
+"dii-go-1oj.text" = "Notas";
+
+/* Class = "UILabel"; text = "V1.0"; ObjectID = "dsD-Dc-YZ4"; */
+"dsD-Dc-YZ4.text" = "V1.0";
+
+/* Class = "UILabel"; text = "Fill up"; ObjectID = "f48-wy-oKW"; */
+"f48-wy-oKW.text" = "Abastecimento";
+
+/* Class = "UIButton"; normalTitle = "GO PRO"; ObjectID = "gFc-5y-ApK"; */
+"gFc-5y-ApK.normalTitle" = "Passar para Pro";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJw-eh-aeB"; */
+"gJw-eh-aeB.text" = "Label";
+
+/* Class = "UILabel"; text = "VIN"; ObjectID = "ge6-W5-xQq"; */
+"ge6-W5-xQq.text" = "VIN";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "gvy-5d-sNM"; */
+"gvy-5d-sNM.text" = "Tipo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hBx-qu-w9e"; */
+"hBx-qu-w9e.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Log"; ObjectID = "heL-6e-2jO"; */
+"heL-6e-2jO.title" = "Registo";
+
+/* Class = "UIButton"; normalTitle = "FAQ"; ObjectID = "ice-NN-6J0"; */
+"ice-NN-6J0.normalTitle" = "PMF";
+
+/* Class = "UILabel"; text = "Toll"; ObjectID = "iuD-FK-kat"; */
+"iuD-FK-kat.text" = "Toll";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jAn-OP-Uvm"; */
+"jAn-OP-Uvm.text" = "Label";
+
+/* Class = "UILabel"; text = "Simply Auto"; ObjectID = "jHd-Y2-JsI"; */
+"jHd-Y2-JsI.text" = "Simply Auto";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "jOq-r4-hJk"; */
+"jOq-r4-hJk.text" = "mi";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "jYL-hy-zfV"; */
+"jYL-hy-zfV.text" = "mi";
+
+/* Class = "UILabel"; text = "Licence No."; ObjectID = "jfn-Hc-2gv"; */
+"jfn-Hc-2gv.text" = "Matrícula";
+
+/* Class = "UILabel"; text = "1-Jan-1970  -  1-Jan-1970"; ObjectID = "kpl-E2-4GK"; */
+"kpl-E2-4GK.text" = "1-Jan-1970  -  1-Jan-1970";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lCl-Qp-lUU"; */
+"lCl-Qp-lUU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lb5-DF-p0I"; */
+"lb5-DF-p0I.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lbo-LY-VhA"; */
+"lbo-LY-VhA.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label2"; ObjectID = "lfo-92-MGM"; */
+"lfo-92-MGM.text" = "Label2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mc0-fr-X3V"; */
+"mc0-fr-X3V.text" = "Label";
+
+/* Class = "UILabel"; text = "Service Every:"; ObjectID = "mh5-tT-mYz"; */
+"mh5-tT-mYz.text" = "Serviço a cada:";
+
+/* Class = "UITextField"; placeholder = "Select Date"; ObjectID = "nH2-sa-b6u"; */
+"nH2-sa-b6u.placeholder" = "Selecione a data";
+
+/* Class = "UILabel"; text = "Service Task Name"; ObjectID = "ojh-ym-UCE"; */
+"ojh-ym-UCE.text" = "Nome da tarefa de serviço";
+
+/* Class = "UILabel"; text = "Designed and developed by Mobifolio"; ObjectID = "pqR-iq-pgx"; */
+"pqR-iq-pgx.text" = "Designed and developed by Mobifolio";
+
+/* Class = "UIButton"; normalTitle = "Add Photo"; ObjectID = "pwr-Ww-SHA"; */
+"pwr-Ww-SHA.normalTitle" = "Adicionar foto";
+
+/* Class = "UILabel"; text = "Tax Deducted"; ObjectID = "qVC-pl-LI2"; */
+"qVC-pl-LI2.text" = "Imposto deduzido";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "qzP-aC-3jO"; */
+"qzP-aC-3jO.text" = "mi";
+
+/* Class = "UILabel"; text = "Parking"; ObjectID = "s7w-VO-9gj"; */
+"s7w-VO-9gj.text" = "Estacionamento";
+
+/* Class = "UILabel"; text = "Change distance,volume and consumption units by navigation to \"settings\""; ObjectID = "sXE-vx-P6s"; */
+"sXE-vx-P6s.text" = "Altere as unidades de distância, volume, eficiência e moeda nas Definições";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "soa-K6-rrh"; */
+"soa-K6-rrh.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Insurance #"; ObjectID = "su0-ix-yIk"; */
+"su0-ix-yIk.text" = "Seguro nº";
+
+/* Class = "UILabel"; text = "Odometer"; ObjectID = "tvY-rC-iSL"; */
+"tvY-rC-iSL.text" = "Odómetro";
+
+/* Class = "UIButton"; normalTitle = "Custom Specifications                                      > "; ObjectID = "uYN-It-s5G"; */
+"uYN-It-s5G.normalTitle" = "Especificações Personalizadas                                      > ";
+
+/* Class = "UILabel"; text = "Distance Travelled"; ObjectID = "vxf-Xc-yVL"; */
+"vxf-Xc-yVL.text" = "Distância percorrida";
+
+/* Class = "UILabel"; text = "Last Service:"; ObjectID = "whh-Ol-7Jc"; */
+"whh-Ol-7Jc.text" = "Data do último serviço:";
+
+/* Class = "UITextField"; placeholder = "Odometer"; ObjectID = "wmg-DM-0zI"; */
+"wmg-DM-0zI.placeholder" = "Odómetro";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xQe-E3-ohA"; */
+"xQe-E3-ohA.text" = "Label";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "xjn-7e-FQ4"; */
+"xjn-7e-FQ4.text" = "n/a";
+
+/* Class = "UILabel"; text = "Departure"; ObjectID = "y3f-ea-OcM"; */
+"y3f-ea-OcM.text" = "Partida";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y8e-hQ-dwW"; */
+"y8e-hQ-dwW.text" = "Label";
+
+/* Class = "UILabel"; text = "Change distance, volume, eficiency and currency units by navigating to More->Settings"; ObjectID = "yCY-HR-0Et"; */
+"yCY-HR-0Et.text" = "Altere as unidades de distância, volume, eficiência e moeda nas Definições";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "yIw-Fz-9se"; */
+"yIw-Fz-9se.text" = "n/a";
+
+/* Class = "UIButton"; normalTitle = "Custom Dates"; ObjectID = "zHx-Og-J2m"; */
+"zHx-Og-J2m.normalTitle" = "Personalizar Datas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zkC-7P-eP6"; */
+"zkC-7P-eP6.text" = "Label";
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>336428349177-hud26k15ouvlv7hlsjh72v49pndlhoid.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.336428349177-hud26k15ouvlv7hlsjh72v49pndlhoid</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>336428349177-l87q8saa1s5khudau10uhjgs6kb4iv6j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBk0y4ZN_onktOL5NBHZEnJSOepCm7Xojw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>336428349177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobifolio.fuelbuddy</string>
+	<key>PROJECT_ID</key>
+	<string>api-project-336428349177</string>
+	<key>STORAGE_BUCKET</key>
+	<string>api-project-336428349177.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:336428349177:ios:435637b394e23ad2</string>
+	<key>DATABASE_URL</key>
+	<string>https://api-project-336428349177.firebaseio.com</string>
+</dict>
+</plist>

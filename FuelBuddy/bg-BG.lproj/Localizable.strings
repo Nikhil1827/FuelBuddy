@@ -1,0 +1,558 @@
+/* 
+  Localizable.strings
+  FuelBuddy
+
+  Created by Swapnil on 21/08/17.
+  Copyright © 2017 Oraganization. All rights reserved.
+*/
+
+"ok" = "OK";
+"got_it" = "Готово";
+"save" = "Запази";
+"add"="Добави";
+"no_save" = "Не запаметявай";
+"button_later_for_partial_click" = "Покажи отново по-късно";
+"button_ok_for_tip" = "ОК,Благодарим";
+"cancel" = "Отказ";
+"go_pro_btn" = "Стани Pro";
+"button_fb_like" = "Харесва ми!";
+"button_later" = "По-късно";
+"button_never" = "Никога";
+"restore" = "Възстанови ";
+"button_rate_app" = "Оцени приложението";
+"yes" = "Да";
+"no" = "Не";
+"comma_enter_err" = "Бележките не приемат запетаи и нови редове";
+"date" = "Дата";
+"odometer" = "Километраж";
+"tc_tv" = "Крайна цена";
+"tv_vendor" = "Продавач";
+"notes_tv" = "Бележка";
+"mk_model_comma_err" = "Марката и моделът не могат да приемат запетаи";
+"make_tv" = "Марка";
+"model_tv" = "Модел";
+"vin" = "VIN";
+"lic_no_tv" = "Рег.номер";
+"insurance_no" = "Застраховка №";
+"vehicle" = "Превозно средство";
+"veh_tv" = "Превозни средства";
+"specification_tv" = "Specifications"; //not found
+"edit_custom_parts" = "Редактиране на спецификации";
+"edit_fill_up_header" = "Редактирай зареждане";
+"add_fill_up_header" = "Добави зареждане";
+"first_partial_click_msg" = "Частично пълнене е, когато резервоарът не е напълнен до горе.Ефективността срещу този запис ще бъде показана като \ \"N / A \" докато резервоара бъде напълнен до горе.";
+"first_missed_fu_click_msg" = "Изберете тази опция ако сте пропуснали да въведете едно или повече предишни зареждания.";
+"set" = "Настрой";
+"trp" = "Трип-Километраж";
+"prc_per_unt" = "Цена за литър";
+"octane" = "Октаново число";
+"fb_tv" = "Вид гориво";
+"fs_tv" = "Бензиностанция";
+"trp_after_first_fu" = "Първият запис изисква от вас да въведете стойността на километража. Вие ще можете да превключите на трип-километраж при последващи презареждания.";
+"fill_up_custom_msg" = "Персонализирай този екран като добавиш,изтриеш или промениш дадени полета и др.";
+"required" = "(Задължително)";
+"cust_fus_head" = "Персонализирай екрана за зареждане";
+"cust_fu_head" = "Изберете полета за показване";
+"odo_trip_tv" = "Стойност за въвеждане при зареждане";
+"trp_distance" = "Дистанция на разходката";
+"pv_msg" = "Копиране на стойности от предишно зареждане";
+"atuo_brand_fs_msg" = "Автоматично откриване на бензиностанция и марка въз основа на местоположението";
+"view_expense" = "Разход";
+"attach_receipt" = "Прикачи касова бележка";
+"add_expenses" = "Добави разход";
+"edit_expenses" = "Редактирай разход";
+"qty_required" = "Количество(Задължително)";
+"pf_tv" = "Частично пълнене";
+"mf_tv" = "Пропуснато зареждане";
+"comma_err" = "Тук не се използват запетаи";
+"noti_msg_veh" = "пресрочен от";
+"reminders" = "Подсещания";
+"recurring_string" = "*You can set reminders for recurring tasks only"; //not found
+"cust_db_head"="Customise Stats & Charts";
+//NIKHIL ENH_48
+"reminder_sort_default"="Sort type"; //not found
+"reminder_sort_0" = "Sort by name"; //Общо
+"reminder_sort_1" = "Sort by due"; //Общо
+"tv_expenses" = "Разходи";
+"last_paid_on" = "Последно плащане на:";
+"no_payments" = "Няма плащане";
+"tot_services" = "Сервиз";
+"tv_service_center" = "Сервиз";
+"add_service" = "Добави ремонт";
+"edit_service" = "Редактирай ремонт";
+"date_hint" = "Задай дата";
+"tv_last_service" = "Дата на последния ремонт:";
+"add_service_task_help" = "Добавяне на нови задачи за ремонт";
+"dist_tv" = "Дистанция";
+"vol_head" = "Обем";
+"cons_head" = "Разход";
+"curr_head" = "Валута";
+"faq" = "ЧЗВ";
+"settings_tv" = "Настройки";
+"convert_yes_btn" = "Да, конвертирай записите";
+"not_applicable" = "n/a"; //not found
+"odo_short" = "Километраж";
+"in_progress" = "Зареждане";
+"edit" = "Редактирай";
+"search_notes_hint" = "Бележки, съдържащи (отделно с ,)";
+"search_rec" = "Търсене на запис";
+"search" = "Търсене";
+"all" = "All"; //not found
+"f_u_tv" = "Зареждане";
+"tot_expense_cost" = "Други разходи";
+"expense_task_name" = "Име на разходната задача";
+"service_task_name" = "Име на ремонт задача";
+"view_service" = "Ремонт";
+"ser_reminders"="Ремонт Подсещания";
+"exp_reminders"="Разход Подсещания";
+"last_service" = "Последен ремонт:";
+"due_on" = "От:";
+"delete" = "Изтрий ";
+"days" = "дни";
+"reminder_due_date_unit_array_1" = "Months"; //not found
+"reminder_due_date_unit_array_2" = "Years"; //not found
+"pro_gps_trip" = "GPS проследяване за ръчни пътувания";
+"pro_backup_receipts" = "Архивирай и въстанови снимки на бележки";
+"pro_add_custom" = "Добави нова нужда от сервиз или ремонт";
+"pro_ad_free" = "Премахване на рекламите";
+"email_btn" = "Изпрати Е-мейл";
+"abt_btn" = "Относно";
+"backup" = "Архив";
+"backup_success" = "Архивиране успешно";
+"restore_success" = "Възстановяването е успешно";
+"backup_descval" = "Създава CSV файлове";
+"restore_descval" = "Възстанови от CSV файлове";
+"restore_receipts" = "Възстанови касови бележки";
+"continue" = "Continue"; //not found
+"Tab3Title" = "Статистика";
+"graph_date_range_0" = "Цялото Време";
+"graph_date_range_1" = "Този Месец";
+"graph_date_range_2" = "Предходен Месец";
+"graph_date_range_3" = "Тази Година";
+"graph_date_range_4" = "Персонални Дати";
+"customize_dashboard_screen_help" = "Персонализирайте този екран, за да добавяте нови статистики или да премахвате излишни";
+"f_u_tv" = "Fill-ups"; //not found
+"f_q_tv" = "Количество гориво";
+"f_c_tv" = "Цена на горивото";
+"tot_service_cost" = "Цена за сервиз";
+"avg_fuel_tv" = "Средна ефективност на горивото";
+"fuel_tv" = "Fuel Efficiency"; //not found
+"dist_btn_fu_graph_name" = "Километри между зареждания";
+"qty_per_fu_tv" = "Количество на зареждане";
+"cost_per_fu_tv" = "Стойност на зарежданията";
+"fu_pm_tv" = "Зареждания на месец";
+"cpd_tv" = "Пари за гориво/ден";
+"failed"="Failed"; //not found
+
+//new_7 Add Driver 8june2018
+"sync_failed" = "Sync Failed";  //not found //Sincronização falhou
+
+//ENH_57 3july2018
+"location_access" = "Need location access to detect filling stations"; //not found
+"go_to_settings" = "To re-enable, please go to Settings and turn on Location Service for this app."; //not found
+"multiple_receipts" = "Attaching multiple receipts is only available in the pro version"; //not found
+"pro_feature_only" = "This feature is available as a part of the Pro version"; //not found
+"cpmth_tv" = "Пари за гориво/месечно";
+"avg_price_tv" = "Средна цена/";
+"eff_oct_tv" = "Ефективност на октан";
+"eff_brand_tv" = "Ефективност на вида гориво";
+"eff_stn_tv" = "Ефективност";
+"service_cost_tv" = "Ремонтите струват/";
+"scpd_tv" = "Пари за сервиз/ден";
+"ecpd_tv" = "Средни разходи/ден";
+"expense_cost_tv" = "Други струват/";
+"total_trips" = "Общо разходки";
+"total_trip_dist" = "Обща дистанция на разходките";
+"total_tax_ded" = "Общо платени такси";
+"trip_by_type" = "Разстояние по тип()";
+"tax_ded_by_type" = "Данък по тип()";
+"tot_fig_tv" = "Общо статистики";
+"avg"="статистики";
+"avg_fig_head" = "Осреднени статистики за горивото";
+"avg_service_head" = "Средни статистики за ремонт";
+"avg_expense_head" = "Средна статистика за други разходи";
+"trip_stats" = "Статистики за разходките";
+"eff_by_oct_graph_name" = "Ефективност на октан";
+"eff_by_brand_graph_name" = "Ефективност на вида гориво";
+"eff_by_stn_graph_name" = "Ефективност на бензиностанция";
+"trip_dist_by_type_graph_name" = "Дистанция по разходи тип";
+"trip_tax_ded_by_type_graph_name" = "Данък по вид разходи";
+"cost_tv" = "Цена на гориво/";
+"view_fill_up" = "Запълване";
+"def_car" = "Основна кола";
+"button_later_for_tip" = "Подсети ме по-късно";
+"trips" = "Разходки";
+"attach_csv" = "Прикачете като CSV файлове";
+"sel_fields" = "Избор на полета";
+"footnote_for_email" = "*Изпрати през Simply Auto";
+"total" = "Общо за пътуването";
+"trip_by_type_tv" = "Разстояние по тип";
+"tax_ded_by_type_tv" = "Данък по тип";
+"no_records_found" = "Не са открити записи";
+"date_time" = "Дата/час";
+"location" = "Местоположение";
+"type" = "Вид";
+"dist_traveled" = "Изминато разстояние";
+"time_traveled" = "Време на пътуването";
+"tax_deduction_rate" = "Приспадане на данъчен процент";
+"tax_deduction_amount" = "Такси";
+"qty_tv" = "Количество";
+"departure" = "Тръгване";
+"arrival" = "Пристигане";
+"add_trip" = "Добави разходка";
+//NIKHIL BUG_127 //added edit trip string
+"edit_trip" = "Редактирай пътуването";
+"end_trip" = "Край на пътуването";
+"start_trip" = "Започнете пътуването";
+"add_new" = "Добави нов";
+"trip_started" = "Разхода започна";
+"trip_in_progress" = "Пътуване в процес";
+"export" = "Ръчен архив";
+"imp" = "Ръчно възстановяване";
+"exim_btn" = "Архивиране в Google диск";
+"from_date_head" = "От:";
+"to_date_head" = "До:";
+"year" = "Година";
+"invalid_email" = "Invalid Email"; //not found
+"enter_valid_email" = "Please enter proper email address"; //not found
+"part_name" = "Име";
+"part_val" = "Стойност";
+"mi" = "ми";
+"kms" = "км";
+"ltr" = "л";
+"gal" = "гал";
+"disp_miles" = "Мили";
+"disp_kilometers" = "Километри";
+"disp_litre" = "Литри";
+"disp_gal_us" = "Галони(САЩ)";
+"disp_gal_uk" = "Галони(Великобритания)";
+"disp_kmpl" = "км/л";
+"disp_lp100kms" = "л/100км";
+"disp_mpg_us" = "мзг(САЩ)";
+"disp_mpg_uk" = "мзг(Великобритания)";
+"missed_fillup" = "Пропуснато запълване";
+"customize_tv" = "Персонализирай Simply Auto";
+"invalid_at_msg3" = "Километража при пристигане не може да е по-малък от този на отпътуване";
+"add_custom_parts" = "Добавяне на спецификации";
+"cost_per_unit_tv" = "Цена за литър/";
+"pro_messsage_add_custom" = "Добавяне на безсрочни задачи е достъпно при PRO Версията";
+"pro_messsage_add_expense" = "Добавяне на безсрочни разходи е достъпно при PRO Версията";
+"incorrect_odo" = "Неправилен километраж";
+"non_recurring_reminder_click" = "Напомнянията могат да се определят само за периодични ремонти и разходи";
+"no_veh_id" = "Няма посочено превозно средсто";
+"set_reminder" = "Задаване на напомняне";
+"overdue_noti" = "Просрочен ремонт";
+"err_internet" = "Няма интернет връзка";
+"loading_msg" = "Моля изчакайте! Зареждане...";
+//Nikhil 18April2018
+"searching_msg" = "Searching"; //not found
+"pur_thanks" = "Много благодарим за покупката!Може да има нужда да излезете и влезете отново, за завършване на покупката.";
+"purchase_btn" = "Покупки";
+"customize_message" = "Искате ли да персонализирате Simply Auto за вашия бизнес или лични нужди?\nМоля свържете се с нас на support-ios@simplyauto.app и ние ще помогнем.";
+"invalid_veh_msg1" = "И марката и модела не могат да са непопълнени";
+"backup_receipts" = "Включи касовите бележки в архивирането";
+"google_ac_err" = "Неуспешна връзка с вашия Google профил";
+"exp_success_noti_msg" = "Файловете са успешно архивирани в Google Drive";
+"services_err_title" = "Services.csv Грешка!";
+"fuel_log_err_title" = "Fuel_Log.csv Грешка!";
+"vehicle_err_title" = "Fuel_Log.csv Грешка!";
+"receipt_upload_failed" = "Неуспешно архивиране на касовите бележки";
+"imp_err_msg" = "Грешка при възстановяването на файла.Моля свържете се с нас на support-ios@simplyauto.app.";
+"receipts_backup_restore_go_pro" = "Безплатната версия позволява Архивирането и възстановяването само на данните. За касовите бележки е възможно само в Pro версията.";
+"custom_date_err" = "Моля уверете се че датите са избрани коректно";
+"like_us_msg" = "Харесвате Simply Auto? Покажете ни като харесате нашата страница във Facebook!";
+"email_user_err" = "Моля уверете се че датите и поне едно поле са избрани";
+"trip_complete" = "Разхода приключи";
+"invalid_at_msg4" = "Датата/часът на пристигане не може да е по-ранен от този на отпътуване";
+"enable_location" = "Активиране на местоположението";
+"gps_tracking_not_poss" = "Проследяването чрез GPS не е възможно, тъй като Simply Auto няма разрешение за достъп до местоположението.";
+"trip_go_pro_msg" = "За да проследите пътувания чрез GPS, моля, закупете надстройка";
+"avg_expense_head" = "Средна статистика за други разходи";
+"receipt" = "Касова бележка";
+"record_type" = "Вид запис";
+"more" = "Повече";
+"not_serviced" = "Не е сервизиран още";
+"privacy_policy" = "Политика за поверителност";
+"edit_trip_type_hint" = "Тип пътуване";
+
+
+//Sync words
+
+"cloud_backup_header" = "Никога повече не губете данните си.";
+"desktop_access_header" = "Достъп до данните си на работния плот.";
+"device_sync_header" = "Синхронизиране на няколко устройства.";
+
+"cloud_backup_msg" = "Всичките ви данни незабавно се архивират в облака.";
+"desktop_access_msg" = "Получете достъп до всичките си данни на адрес www.simplyauto.app.";
+"device_sync_msg" = "Използвате ли няколко устройства? Няма проблем. Simply Auto поддържа синхронизирани данни за всичките ви устройства.";
+"last_sync"="Последна синхронизация:";
+"sign_in" = "Регистрирай";
+"sync_btn"="Влизане в облака";
+"sync_btn_after_login"="My Cloud Account";
+"resync" = "Повторно синхронизиране";
+"full_sync_title" = "Пълно синхронизиране";
+"sync_data_exists_on_cloud" = "Данните съществуват в облака";
+"sync_new_data_on_server" = "В облака са открити по-нови данни. Искате ли да презапишете данните на този телефон с наличните данни в облака?";
+
+"descLabelFirstTime" = "Data for your email already exists on the cloud. Would you like to overwrite data on this phone with the data available on the cloud?"; //not found
+
+"descLabel1" = "Would you like to overwrite data on this phone with the data available on the cloud?"; //not found
+"descLabel2" = "(To check data on the cloud please log into www.simplyauto.app)"; //not found
+"sync_overwrite_phone" = "Да, презапишете данните на този телефон.";
+"sync_overwrite_cloud" = "Не, използвайте данните от телефона ми (това ще замени данните в облака)";
+"cloud_help" = " Помощ за облака";
+"help_backup" = "Архивиране в облак";
+"help_web" = "Simply Auto интернет";
+"help_multi_devices" = "Синхронизиране на различни устройства";
+"help_sync_devices1" = "Ако притежавате няколко устройства и искате да поддържате синхронизирането на данните си с Simply Auto в тези устройства, влезте в облака с един и същ акаунт на всички устройства.";
+"sync_deregister_title" = "Отрегистриране от синхронизация";
+//"deregistertitle" = "Deregister from sync";
+"deregistermsg" = "Искате да се отрегистрирате от синхронизацията? Ще трябва да се регистрирате отново ако искате да използвате опцията отново.";
+"sign_in_failed"="Sign In failed, please try again later"; //not found
+"failed_confirm_driver"="Failed to confirm as driver"; //not found
+
+"sync_sign_in_you_can" = "След като влезете, можете да:";
+"sync_sign_in_1" = "- Незабавно архивирайте данните в облака";
+//Added star 30may nikhil
+"sync_sign_in_2" = "- Синхронизиране на няколко устройства*";
+"sync_sign_in_3" = "- Достъп до данните ви в www.simplyauto.app *";
+"sync_sign_in_4" = "- инхронизиране на данни с множество водачи *";
+"sync_sign_in_5" = "- Незабавно архивирайте разписките в облака *";
+
+"t_and_c"="Съгласен съм с условията за ползване и политиката за поверителност на Simply Auto";
+"pattern1"="Условия за ползване";
+"pattern2"="Декларация за поверителност";
+"help"="Помощ";
+"contact_us"="Свържете се с нас";
+
+"backupCloudText" = "Now that you've signed into cloud, all your data will be safely and instantly backed up on our cloud server.\n\nRestoring data from your backup is as easy as signing back into your account.\n\nWe do recommend taking occassional back ups to your Google Drive account from the 'Google Drive Backup' option."; //not found
+
+"faqfull" = "Frequently Asked Questions"; //not found
+"cloudHelpTut" = "Tutorial for Simply Auto's cloud functionality"; //not found
+"contactDesc" = "Questions? Need help?"; //not found
+
+"fbwebDesc" = "Visit www.simplyauto.app and click the 'Sign in' button to access your Simply Auto data on the web."; //not found
+
+"sync_help_deregister_msg" = "Натиснете тук за отрегистриране от автоматично синхронизиране. Така вашето устройство няма да изпраща и получава данни.";
+
+//Pro icons  labels
+"backupCloudPro" = "Instantly backup all your data in the cloud"; //not found
+"syncIconPro" = "Sync between multiple devices"; //not found
+"websitePro" = "Access your data on the web at www.simplyauto.app"; //not found
+
+"loggedInLabel" = "All your data will always be backed up on cloud. You can also access your data by going to www.simplyauto.app."; //not found
+
+"logInAlert" = "You have successfully signed in"; //not found
+
+//31July2018 subscription terms
+"subterms" = "Subscription Terms"; //not found
+"subterms2" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per year."; //not found
+"subterms7" = "- Subscribe to Simply Auto Platinum. This subscription will be charged %@ per month.";
+"subterms3" = "- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period."; //not found
+"subterms4" = "- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase."; //not found
+"subterms5" = "- Payment will be charged to iTunes Account at confirmation of purchase."; //not found
+"subterms6" = "- The account will be charged for renewal within 24-hours prior to the end of the current period.";
+
+"instantSync" = "Instant sync of your receipts and vehicle images to the cloud"; //not found
+"threeDrivers" = "Add upto 3 drivers to sync data with"; //not found
+"attachReceipts" = "Attach multiple receipts for fill-ups, services and expenses"; //not found
+"emailLogs" = "Email your receipts and logs directly from the app"; //not found
+"changeVol" = "Change volume unit for individual fill-ups"; //not found
+"unlimitedVeh" = "Add unlimited vehicles"; //not found
+"unlimitedDrivers" = "Sync data with unlmited drivers"; //not found
+
+//2/8/2018 searchdate
+"search_date_filter_0" = "Date greater than";  //not found
+"search_date_filter_1" = "Date less than"; //not found
+"search_odo_filter_0" = "Odometer greater than"; //not found
+"search_odo_filter_1" = "Odometer less than"; //not found
+"add_photo" = "Добави снимка";
+"pb_connecting" = "Регистрация..";
+
+//Driver
+
+"full_sync_request_noti_msg"=" Заявка за пълна синхронизация";
+"sync_friend_req"=" иска да добави вас като водач";
+"sync_friend_confirmed"=" потвърден като водач";
+"sync_friend_req_title"="Водач заявен";
+"sync_friend_confirmed_title"="Водач потвърден";
+"sync_friend_deleted_title"="Водачът е изтрит";
+"sync_friend_deleted"=" изтри вас като водач";
+"full_sync_requests"="Заявки за пълно синхронизиране";
+"no_full_sync_requests"="Нямате чакащи заявки за пълно синхронизиране";
+"sync_help1_go_pro_to_sync"="Синхронизиране е достъпно като част от Pro версията";
+"driver_share_header"="Синхронизиране между няколко водачи.";
+"driver_share_msg"="Споделя ли се вашето превозно средство между няколко водача? Simply Auto ви позволява да каните други водачи и да синхронизирате данните с тях.";
+"receipt_pro_only"="*Receipt images are not backed up in the free version";
+"sync_sign_in_footnote"="* Получените изображения не се архивират в безплатната версия";
+"go_pro_for_unltd_vehicles"="За да добавите неограничен брой превозни средства, моля преминете към Platinum членство.";
+"go_pro_unltd_vehicles_title"="Добавете неограничен брой превозни средства";
+"go_pro_unltd_drivers_title"="Добавете неограничени водачи";
+"go_pro_for_unltd_drivers"="За да добавите неограничен брой водачи, моля надстройте до Platinum членство.";
+
+//multiple receipts
+"multi_recpt_title"="Прикачване на няколко разписки";
+"fillup_unit_change_title"="Промяна на единица за индивидуално попълване";
+"fillup_unit_change_msg"="Смяната на единиците за отделни попълвания е част от модернизираната версия.\n\nIn в безплатната версия можете да промените единицата по подразбиране за приложението, от Настройки..";
+
+//trip
+"business" = "Business";
+"charity" = "Charity";
+"medical" = "Medical";
+"personal" = "Personal";
+"moving" = "Moving";
+"select_trip_type" = "Select Trip Type";
+"select_date" = "Select Date";
+"time_traveled" = "Време на пътуването";
+"parking" = "Parking";
+
+/*
+
+"search_date_filter_0" = "größer als";
+"search_date_filter_0" = "kleiner als";
+"search_date_filter_0" = "ist gleich";
+
+"search_type_filter_0" = "Alle";
+"search_type_filter_1" = "Tankeinträge";
+"search_type_filter_2" = "Serviceeinträge";
+"search_type_filter_3" = "andere Einträge";
+"search_type_filter_4" = "Touren";
+
+*/
+
+// ALL NEW 1Aug2018
+//Report
+"email_to"="Изпрати Имейл за този отчет";
+"report_dates"="Включете данни за:";
+"report_date_range_0" = "Цялото време";
+"report_date_range_1" = "Този месец";
+"report_date_range_2" = "Миналия месец";
+"report_date_range_3" = "Последните 90 дни";
+"report_date_range_4" = "Тази година";
+"report_date_range_5" = "Миналата година";
+"report_date_range_6" = "Дати по избор";
+"include_raw_data"="Включване на необработените данни";
+"file_type"="Тип файл:";
+"include_receipts"="Включване на разписки";
+"gen_report"="Генериране на отчет";
+"automated_report"="Автоматизирани отчети";
+"pb_sending_raw_data"="Изпращане на необработени данни";
+"pb_sending_receipts"="Изпращане на разписки";
+"err_generating_rep"="Грешка при генериране на отчет";
+"no_email_msg"="Моля, въведете валиден имейл адрес, на който да изпратите отчета.";
+"no_data_found"="Няма намерени данни за избраните дати";
+"dep_date"="Дата на заминаване";
+"dep_odo"="Отпътуване килом.";
+"dep_loc"="Отпътуване лог";
+"arr_date"="Дата на пристигане";
+"arr_odo"="Пристигане килом";
+"arr_loc"="Пристигане лог";
+"upgrade_gp_err"="За да прикачите raw данни и csv файлове, моля закупете ъпгрейд";
+"upgrade"="Upgrade";
+"emails_send_to"="Отчитайте ще по изпращани по имейл";
+"schedule"="График:";
+"report_schedule_0"="Седмичен";
+"report_schedule_1"="Месечен";
+"start_schedule"="Начало на графика";
+"stop_schedule"="Спиране на графика";
+"generating_graphs"="Генериране на графици";
+"generating_email"="Генериране на имейл"; //not found
+"generating_csv"="Generating CSV"; //not found
+"generating_pdf"="Generating PDF"; //not found
+"generating_receipts"="Generating receipts"; //not found
+"total_fillups"="Общо зареждане";
+"total_services"="Общо ремонти";
+"report_success_msg"="Отчетът ви е изпратен по имейл";
+"alarm_set_weekly"="Благодаря ти! Вашите доклади ще бъдат изпращани всяка неделя в 8 часа сутринта.";
+"alarm_set_monthly"="Благодаря ти! Вашите доклади ще бъдат изпращани всеки последен ден от всеки месец в 8 часа сутринта.";
+"stop_sched"="Спиране на графика";
+"alarm_stop_schedule"="Благодаря ти! Ние ще спрем да ви изпращаме отчети.";
+"auto_report_sent_noti_msg"="Отчетът ви е изпратен на";
+"go_pro_auto_report_msg"="За да планирате автоматизирани отчети, моля, надстройте до Platinum членство.";
+"fuel_cost_analysis"="АНАЛИЗ НА РАЗХОДИТЕ ЗА ГОРИВО";
+"upcoming_reminders"="ПРЕДСТОЯЩИ НАПОМНЯНИЯ";
+"total_service_cost"="Общ разход за сервиз";
+"report"="Доклад";
+"pro_automated_reports"="Генериране на автоматизирани седмични и месечни отчети";
+"error_report" = "Error generating report"; //not found
+"app_terminate"="Oops the app is terminated, Sync and auto report won't work till you reopen the App"; //not found
+"sign_in_required"="To schedule automated reports you need to Sign in to Cloud"; //not found
+
+//NEW DASHBOARD
+"newTab2Title"="Статистика и графики";
+"tax_deductions" = "Данък\удръжки";
+"upcoming_dashboard" = "Предстоящи\напомняне";
+"upcomings_dashboard" = "Предстоящи\напомняния";
+"fuel_cost_dashboard" = "Разходите за гориво за 30 дни";
+"fill_ups_dashboard" = "Зареждане в последните 30 дни";
+"trips_dashboard" = "Пътуване през последните 30 дни";
+"tax_ded_dashboard" = "Данъчни облекчения за 30 дни";
+"overdue_dashboard" = "Просрочени\напомняне";
+"overdues_dashboard" = "Просрочени\напомняния";
+"services_dashboard" = "Ремонти в последните 30 дни";
+"show_all"= "Покажи всички";
+"recent_log"="Скорошни записи в дневника";
+"expenses_30_days"="Expenses in last 30 days"; //not found
+
+//feedback
+"feedback"="Feedback"; //not found
+"feedback_desc"="Предложения. Заявки за функции.";
+"feedback_msg"="Предлагате нещо ново?Съобщавате за грешка?Или просто казвате Здрасти!\nНие обичаме да чуваме нашите потребители.\n(За бърз отговор моля пишете ни на support-ios@simplyauto.app)";
+"feedback_hint"="Your feedback";
+"feedback_email"="Имейл (незадължителен)";
+"feedback_thanks"="Благодарим ви за отзивите!";
+"feedback_msg_empty"="Моля, въведете валидно съобщение";
+"send"="Изпрати";
+"email"="Email"; //not found
+
+//Auto Trip Logging
+"first_auto_trip_check_title"="Автоматичното пътуване е активирано";
+"first_auto_trip_check_msg"="Сега автоматичното пътуване автоматично ще разпознае вашито каране и ще ги запази като пътувания. Тази функция може да се нуждае от няколко пътувания, за да започне точното изчисляване.";
+
+"go_pro_for_auto_logging"="to Platinum за неограничено автоматично регистриране на пътувания";
+"free_trips_remaining"="Безплатни пътувания, останали този месец:";
+"noti_trips_remaining_msg"="Безплатната версия позволява 15 автоматични пътувания на месец. След което можете да надстроите ръчно или да продължите регистрацията.";
+"noti_free_trips_over_title"="Надстройка за неограничено автоматично регистриране на пътувания";
+"noti_free_trips_over_msg"="Завършихте квотата си от 15 автоматични пътувания за този месец. Надстройте или регистрирайте пътуванията ръчно.";
+"noti_trips_remaining_title"="оставащи безплатни авто пътувания";
+
+
+"auto_drive_detect_menu"="Автоматично регистриране на пътуване";
+"auto_drive_detection"="Автоматично регистриране на пътуване";
+"def_trip_type"="Тип пътуване по подразбиране";
+"weekdays"="Седмицата";
+"weekend"="Уикенд";
+"do_not_track"="Не откривайте пътувания през уикенд";
+
+"auto_drive_dialog_msg"="Искате ли Simply Auto да регистрира автоматично вашите разходи, така че да не се налага ръчно да въвеждате?";
+
+"pro_title_add_type"="Добави вид на пътуването";
+"edit_custom_type"="Редактирайте Тип пътуване";
+"tax_deduction_rate"="Приспадане на данъчен процент";
+"view_edit_tax_rates"="Преглед / Редактиране на данъчните ставки";
+
+"accept_t_and_c"=" Моля, приемете Общите условия";
+//TODO ask key
+"kahitari"="Unlimited automatic trip logging";
+"track_via_gps"="Проследете пътуването чрез GPS";
+
+"track_via_auto_trip"="Проследяване чрез авто пътуване";
+
+"maps"="Карти";
+
+//Added 6feb2019
+
+"user_guide"="User guide"; //not found
+"user_guide_sub"="A manual for Simply Auto"; //not found
+
+//Support 3 April 2019
+"support" = "Support";
+"support_msg"="Hi! How can we help?";
+"message"="Message";
+"email_err"="Please enter a valid email";
+"msg_err"="Please enter a message to send to us";
+"support_send_err"="Sorry, there was an issue submitting. Please try to mail us directly at support-ios@simplyauto.app.";
+"support_sent"="Thank you! We will be in touch with you shortly.";
+"submit"="Submit";
+"pro_priority_support_gold"="Priority support. Response with 48 working hours.";
+"pro_priority_support_platinum"="Priority support. Response with 24 working hours.";
