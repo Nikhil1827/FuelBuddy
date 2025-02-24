@@ -6,14 +6,17 @@ project 'FuelBuddy.xcodeproj/'
     pod 'GTMAppAuth'
     pod 'GoogleSignIn'
     pod 'Google-Mobile-Ads-SDK'
-    pod 'Firebase/Auth'
     pod 'Firebase/Messaging'
     pod 'Firebase'
-    pod 'Firebase/InAppMessaging'
     pod 'Firebase/Analytics'
     pod 'Firebase/DynamicLinks'
-    pod 'Firebase/Crashlytics'
     pod 'SSZipArchive'
     pod 'GooglePlaces'
     pod 'DGCharts'
+    pod 'FirebaseAuth', :modular_headers => true
+    pod 'FirebaseCore', :modular_headers => true
+    pod 'FirebaseCrashlytics', :modular_headers => true
+    pod 'FirebaseInAppMessaging', :modular_headers => true
+    pod 'FirebaseSessions', :modular_headers => true
+
 end

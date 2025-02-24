@@ -46,8 +46,6 @@
 		317C71A222D3420D0009FEBA /* SERVICE_CENTER_RATING+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 317C71A022D3420D0009FEBA /* SERVICE_CENTER_RATING+CoreDataProperties.m */; };
 		317C71A522D359120009FEBA /* FeedBackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 317C71A422D359120009FEBA /* FeedBackView.m */; };
 		318FF32B21F1A94B009C5E54 /* SubscriptionTermsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 318FF32A21F1A94B009C5E54 /* SubscriptionTermsViewController.m */; };
-		31A22787215F9AF8003A8522 /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31A22783215F9AAE003A8522 /* Charts.framework */; };
-		31A22788215F9AF8003A8522 /* Charts.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 31A22783215F9AAE003A8522 /* Charts.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		31B19C8120863B21002127FA /* AddDriverTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B19C8020863B21002127FA /* AddDriverTableViewCell.m */; };
 		31B19C8420872A8D002127FA /* AddDriverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B19C8320872A8D002127FA /* AddDriverViewController.m */; };
 		31B19C8B208F1F3E002127FA /* Friends_Table.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B19C8A208F1F3E002127FA /* Friends_Table.m */; };
@@ -200,27 +198,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		31A22782215F9AAE003A8522 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 31A2277D215F9AAE003A8522 /* Charts.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 65AD9E95D9ED4DC0BD73A743;
-			remoteInfo = Charts;
-		};
-		31A22784215F9AAE003A8522 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 31A2277D215F9AAE003A8522 /* Charts.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 1CBBC58C6CE1EBEE9852CE41;
-			remoteInfo = ChartsTests;
-		};
-		31A22789215F9AF8003A8522 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 31A2277D215F9AAE003A8522 /* Charts.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = A58A4ED274A941CA248EA921;
-			remoteInfo = Charts;
-		};
 		41876A3A1BE8A35500763C74 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 41876A151BE8A35500763C74 /* Project object */;
@@ -237,7 +214,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				31A22788215F9AF8003A8522 /* Charts.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -340,7 +316,6 @@
 		317C71A422D359120009FEBA /* FeedBackView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FeedBackView.m; sourceTree = "<group>"; };
 		318FF32921F1A94B009C5E54 /* SubscriptionTermsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubscriptionTermsViewController.h; sourceTree = "<group>"; };
 		318FF32A21F1A94B009C5E54 /* SubscriptionTermsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubscriptionTermsViewController.m; sourceTree = "<group>"; };
-		31A2277D215F9AAE003A8522 /* Charts.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Charts.xcodeproj; path = "Charts-3.1.1 2/Charts.xcodeproj"; sourceTree = "<group>"; };
 		31ADF08822266D0300E027DE /* bg-BG */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "bg-BG"; path = "bg-BG.lproj/Main.strings"; sourceTree = "<group>"; };
 		31ADF08922266D0900E027DE /* bg-BG */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "bg-BG"; path = "bg-BG.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		31ADF08A22266D0D00E027DE /* bg-BG */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "bg-BG"; path = "bg-BG.lproj/Localizable.strings"; sourceTree = "<group>"; };
@@ -629,7 +604,6 @@
 				C8E02EF51C89F96300B0432D /* EventKit.framework in Frameworks */,
 				C8E02EF31C89F95500B0432D /* CoreTelephony.framework in Frameworks */,
 				C8E02EF11C89F94D00B0432D /* CoreMedia.framework in Frameworks */,
-				31A22787215F9AF8003A8522 /* Charts.framework in Frameworks */,
 				C8E02EEF1C89F93C00B0432D /* AVFoundation.framework in Frameworks */,
 				C8E02EEB1C89F91E00B0432D /* AdSupport.framework in Frameworks */,
 				C873173C1C73002F005E9D90 /* Security.framework in Frameworks */,
@@ -706,15 +680,6 @@
 				317867F6226DA5460015D7AC /* PageHolderViewController.m */,
 			);
 			name = OnBoardPageView;
-			sourceTree = "<group>";
-		};
-		31A2277E215F9AAE003A8522 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				31A22783215F9AAE003A8522 /* Charts.framework */,
-				31A22785215F9AAE003A8522 /* ChartsTests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		31B19C7E2086365F002127FA /* LoggedInVC */ = {
@@ -837,7 +802,6 @@
 		41876A141BE8A35500763C74 = {
 			isa = PBXGroup;
 			children = (
-				31A2277D215F9AAE003A8522 /* Charts.xcodeproj */,
 				55646FF31EF7ACB600AB14AF /* commonMethods */,
 				C85E59B31C5A98C300539C6F /* CoreGraphics.framework */,
 				C85E59A01C5A820500539C6F /* QuartzCore.framework */,
@@ -1283,7 +1247,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				31A2278A215F9AF8003A8522 /* PBXTargetDependency */,
 			);
 			name = FuelBuddy;
 			productName = FuelBuddy;
@@ -1360,12 +1323,6 @@
 			mainGroup = 41876A141BE8A35500763C74;
 			productRefGroup = 41876A1E1BE8A35500763C74 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 31A2277E215F9AAE003A8522 /* Products */;
-					ProjectRef = 31A2277D215F9AAE003A8522 /* Charts.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				41876A1C1BE8A35500763C74 /* FuelBuddy */,
@@ -1373,23 +1330,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		31A22783215F9AAE003A8522 /* Charts.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = Charts.framework;
-			remoteRef = 31A22782215F9AAE003A8522 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		31A22785215F9AAE003A8522 /* ChartsTests.xctest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = ChartsTests.xctest;
-			remoteRef = 31A22784215F9AAE003A8522 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		41876A1B1BE8A35500763C74 /* Resources */ = {
@@ -1653,11 +1593,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		31A2278A215F9AF8003A8522 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Charts;
-			targetProxy = 31A22789215F9AF8003A8522 /* PBXContainerItemProxy */;
-		};
 		41876A3B1BE8A35500763C74 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 41876A1C1BE8A35500763C74 /* FuelBuddy */;
