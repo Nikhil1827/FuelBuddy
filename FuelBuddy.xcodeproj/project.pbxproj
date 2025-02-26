@@ -137,7 +137,6 @@
 		556EB7C21FBC444800B451A2 /* HelpTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 556EB7C11FBC444800B451A2 /* HelpTableViewController.m */; };
 		5585635F1FC1C13000174A84 /* BackupToCloudVC1.m in Sources */ = {isa = PBXBuildFile; fileRef = 5585635E1FC1C13000174A84 /* BackupToCloudVC1.m */; };
 		558563621FC1C14800174A84 /* BackupToCloudVC2.m in Sources */ = {isa = PBXBuildFile; fileRef = 558563611FC1C14800174A84 /* BackupToCloudVC2.m */; };
-		558C727E1FA3154300AFDD9D /* libPods-FuelBuddy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BC464312825853D139F15B1A /* libPods-FuelBuddy.a */; settings = {ATTRIBUTES = (Required, ); }; };
 		55A8EA2E1E71901500EDE66C /* ReminderPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55A8EA2D1E71901500EDE66C /* ReminderPageContentViewController.m */; };
 		55A8EA351E71912D00EDE66C /* DashPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55A8EA301E71912D00EDE66C /* DashPageContentViewController.m */; };
 		55A8EA361E71912D00EDE66C /* FillupPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55A8EA321E71912D00EDE66C /* FillupPageContentViewController.m */; };
@@ -152,6 +151,7 @@
 		55EB0EAE1F7D0A4D00F88EC0 /* QNSURLConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB0EAD1F7D0A4D00F88EC0 /* QNSURLConnection.m */; };
 		55F28D591F14AC2F0020ECFD /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55F28D581F14AC2F0020ECFD /* MapKit.framework */; };
 		55FCF7DB1F2A1DC400D50BEC /* CustomSpecificationsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55FCF7DA1F2A1DC400D50BEC /* CustomSpecificationsController.m */; };
+		6EA59B6DFFFADEEAC6F52FE1 /* Pods_FuelBuddy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 145CAC14785A9D5674064707 /* Pods_FuelBuddy.framework */; };
 		C80AE6B11CE24F6E00E13C84 /* AddReminderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C80AE6B01CE24F6E00E13C84 /* AddReminderViewController.m */; };
 		C852D77F1C74FA8C00167353 /* BackupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C852D77E1C74FA8C00167353 /* BackupViewController.m */; };
 		C85E59A11C5A820500539C6F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C85E59A01C5A820500539C6F /* QuartzCore.framework */; };
@@ -222,6 +222,7 @@
 
 /* Begin PBXFileReference section */
 		0939207FCBA1F62C4AD12B7E /* Pods-FuelBuddy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuelBuddy.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuelBuddy/Pods-FuelBuddy.release.xcconfig"; sourceTree = "<group>"; };
+		145CAC14785A9D5674064707 /* Pods_FuelBuddy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FuelBuddy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31010AE7215E0A9C009620DF /* logTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = logTableViewCell.xib; sourceTree = "<group>"; };
 		31010AE9215E10CA009620DF /* logMainTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = logMainTableViewCell.h; sourceTree = "<group>"; };
 		31010AEA215E10CA009620DF /* logMainTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = logMainTableViewCell.m; sourceTree = "<group>"; };
@@ -512,7 +513,6 @@
 		55F28D581F14AC2F0020ECFD /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		55FCF7D91F2A1DC400D50BEC /* CustomSpecificationsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSpecificationsController.h; sourceTree = "<group>"; };
 		55FCF7DA1F2A1DC400D50BEC /* CustomSpecificationsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSpecificationsController.m; sourceTree = "<group>"; };
-		BC464312825853D139F15B1A /* libPods-FuelBuddy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuelBuddy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C80AE6AF1CE24F6E00E13C84 /* AddReminderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddReminderViewController.h; sourceTree = "<group>"; };
 		C80AE6B01CE24F6E00E13C84 /* AddReminderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddReminderViewController.m; sourceTree = "<group>"; };
 		C852D77D1C74FA8C00167353 /* BackupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackupViewController.h; sourceTree = "<group>"; };
@@ -593,7 +593,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				558C727E1FA3154300AFDD9D /* libPods-FuelBuddy.a in Frameworks */,
 				5550AE411F5D289700B5554D /* AJKit.framework in Frameworks */,
 				5557FA431F386E6C0085289C /* MobileCoreServices.framework in Frameworks */,
 				55F28D591F14AC2F0020ECFD /* MapKit.framework in Frameworks */,
@@ -613,6 +612,7 @@
 				C85E59B41C5A98C300539C6F /* CoreGraphics.framework in Frameworks */,
 				C85E59A11C5A820500539C6F /* QuartzCore.framework in Frameworks */,
 				C87EAE7B1C3E9D800046A622 /* MessageUI.framework in Frameworks */,
+				6EA59B6DFFFADEEAC6F52FE1 /* Pods_FuelBuddy.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -645,7 +645,7 @@
 				C87317391C730015005E9D90 /* SystemConfiguration.framework */,
 				C87317371C730003005E9D90 /* UIKit.framework */,
 				C87317331C72FFE6005E9D90 /* Foundation.framework */,
-				BC464312825853D139F15B1A /* libPods-FuelBuddy.a */,
+				145CAC14785A9D5674064707 /* Pods_FuelBuddy.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1402,17 +1402,56 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FuelBuddy/Pods-FuelBuddy-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/AppAuth/AppAuthCore_Privacy.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/DGCharts/DGCharts.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInAppMessaging/InAppMessagingDisplayResources.bundle",
-				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
-				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseAuth/FirebaseAuth_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCore/FirebaseCore_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCoreExtension/FirebaseCoreExtension_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCoreInternal/FirebaseCoreInternal_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCrashlytics/FirebaseCrashlytics_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseDynamicLinks/FirebaseDynamicLinks_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInstallations/FirebaseInstallations_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseMessaging/FirebaseMessaging_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GTMAppAuth/GTMAppAuth_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GTMSessionFetcher/GTMSessionFetcher_Core_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GTMSessionFetcher/GTMSessionFetcher_Full_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/Google-Mobile-Ads-SDK/GoogleMobileAdsResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GoogleAPIClientForREST/GoogleAPIClientForREST_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GoogleDataTransport/GoogleDataTransport_Privacy.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.xcframework/ios-arm64/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.xcframework/ios-arm64_x86_64-simulator/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GoogleSignIn/GoogleSignIn.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GoogleUserMessagingPlatform/UserMessagingPlatformResources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/GoogleUtilities/GoogleUtilities_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/PromisesObjC/FBLPromises_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/PromisesSwift/Promises_Privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/nanopb/nanopb_Privacy.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AppAuthCore_Privacy.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/DGCharts.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/InAppMessagingDisplayResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseAuth_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseCore_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseCoreExtension_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseCoreInternal_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseCrashlytics_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseDynamicLinks_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseInstallations_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseMessaging_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GTMAppAuth_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GTMSessionFetcher_Core_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GTMSessionFetcher_Full_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMobileAdsResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleAPIClientForREST_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleDataTransport_Privacy.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/UserMessagingPlatformResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleUtilities_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FBLPromises_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Promises_Privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nanopb_Privacy.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
